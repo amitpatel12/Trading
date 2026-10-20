@@ -1,6 +1,6 @@
 {
   "date": "Tuesday, 20 October 2026",
-  "updated": "15:50 IST",
+  "updated": "16:32 IST",
   "mood": "mixed",
   "cues": [
     {
@@ -35,8 +35,8 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": 100.75,
-      "chg": -2.81
+      "value": 100.83,
+      "chg": -2.73
     },
     {
       "name": "USD/INR",
@@ -46,7 +46,12 @@
   ],
   "warnings": [],
   "demo": false,
-  "market_news": [],
+  "market_news": [
+    "Stock Market Crash: Investors Lose Rs 5 Lakh Crore As Sensex, Nifty Tank. 3 Reasons Why Market Are Falling Today - NDTV",
+    "Stock market holiday today: BSE, NSE to remain closed for Dussehra - Moneycontrol.com",
+    "Stock market crash today: Sensex plunges over 900 points, Nifty50 below 22,900 - top reasons for fall - The Times of India",
+    "Three Reasons Why Markets Are Falling Today: Sensex Slumps 700 Points, Nifty Cracks Below 23,000 - NDTV Profit"
+  ],
   "buys": [
     {
       "symbol": "DRREDDY",
@@ -79,15 +84,19 @@
         "Up 0.8% yesterday",
         "Closed near the day's high"
       ],
-      "headlines": [],
+      "headlines": [
+        "DRREDDY Share Price Today - Dr Reddys Laboratories on NSE/BSE - scanx.trade",
+        "Dr Reddy stock: Dr Reddy sets October 23 results. P/ E is 31.29 for Dr Reddy stock - ad-hoc-news.de",
+        "Is It Smart To Buy Dr. Reddy's Laboratories Limited (NSE:DRREDDY) Before It Goes Ex-Dividend? - Simply Wall Street"
+      ],
       "news_flag": false
     },
     {
       "symbol": "JSWSTEEL",
       "price": 1241.300048828125,
-      "atr": 29.477989541937582,
+      "atr": 29.477989541937575,
       "chg": 2.055413877857437,
-      "rsi": 51.29177088709713,
+      "rsi": 51.291770887097115,
       "vol_ratio": 1.9230212994351885,
       "buy": 4,
       "sell": 0,
@@ -113,7 +122,11 @@
         "Up 2.1% yesterday",
         "Closed near the day's high"
       ],
-      "headlines": [],
+      "headlines": [
+        "JSW Steel (NSEI:JSWSTEEL) Stock Forecast & Analyst Predictions - Simply Wall Street",
+        "JSW Steel NCLT Approves Piombino Steel Amalgamation - Kalkine India",
+        "JSW Steel reports INR 47.36 billion revenue for JSW Steel stock - ad-hoc-news.de"
+      ],
       "news_flag": false
     }
   ],
@@ -121,7 +134,7 @@
     {
       "symbol": "ULTRACEMCO",
       "price": 10650.0,
-      "atr": 251.83623002660394,
+      "atr": 251.83623002660397,
       "chg": -2.3562849546163056,
       "rsi": 43.17549930997446,
       "vol_ratio": 2.0387310980058775,
@@ -151,15 +164,19 @@
         "Down 2.4% yesterday",
         "Closed near the day's low"
       ],
-      "headlines": [],
+      "headlines": [
+        "Ultratech Cement Share Price - Live NSE: ULTRACEMCO Stock Price & Chart - Upstox",
+        "UltraTech Cement (NSEI:ULTRACEMCO) Stock Forecast & Analyst Predictions - Simply Wall Street",
+        "UltraTech Cement (NSE: ULTRACEMCO) Up 0.82% at \u20b911,147: EMA 51, RSI and Q1 Numbers - Kalkine India"
+      ],
       "news_flag": false
     },
     {
       "symbol": "ITC",
       "price": 260.79998779296875,
-      "atr": 5.858292626767919,
+      "atr": 5.858292626767921,
       "chg": -1.024672564338236,
-      "rsi": 46.640489362899174,
+      "rsi": 46.64048936289918,
       "vol_ratio": 0.5818894960129117,
       "buy": 0,
       "sell": 5,
@@ -185,13 +202,17 @@
         "Down 1.0% yesterday",
         "Closed near the day's low"
       ],
-      "headlines": [],
+      "headlines": [
+        "ITC Share Price - Upstox",
+        "ITC shareholders approve final dividend, reappoint Hemant Bhargava - scanx.trade",
+        "ITC stock: ITC sets November 2 results date. ITC stock trades 3.02 percent above its 52-week low - ad-hoc-news.de"
+      ],
       "news_flag": false
     },
     {
       "symbol": "HINDUNILVR",
       "price": 1853.199951171875,
-      "atr": 37.028706501694295,
+      "atr": 37.0287065016943,
       "chg": -2.1438428878155946,
       "rsi": 41.53848706844082,
       "vol_ratio": 0.8458772002247739,
@@ -219,7 +240,11 @@
         "Down 2.1% yesterday",
         "Closed near the day's low"
       ],
-      "headlines": [],
+      "headlines": [
+        "Don't Race Out To Buy Hindustan Unilever Limited (NSE:HINDUNILVR) Just Because It's Going Ex-Dividend - Simply Wall Street",
+        "Hindustan Unilever (NSE: HINDUNILVR) at \u20b91,935.0: EMA 51, RSI and Q1 Numbers - Kalkine India",
+        "Why did HUL share price jump over 3% today? Check JP Morgan and other analysts' views - Upstox"
+      ],
       "news_flag": false
     }
   ],
