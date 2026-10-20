@@ -1,0 +1,228 @@
+{
+  "date": "Tuesday, 20 October 2026",
+  "updated": "15:50 IST",
+  "mood": "mixed",
+  "cues": [
+    {
+      "name": "Nifty 50",
+      "value": 22888.95,
+      "chg": -1.11
+    },
+    {
+      "name": "Sensex",
+      "value": 73852.9,
+      "chg": -1.17
+    },
+    {
+      "name": "India VIX",
+      "value": 14.77,
+      "chg": 5.05
+    },
+    {
+      "name": "S&P 500",
+      "value": 7690.73,
+      "chg": 0.41
+    },
+    {
+      "name": "Nasdaq",
+      "value": 26430.89,
+      "chg": 1.11
+    },
+    {
+      "name": "Nikkei",
+      "value": 64075.42,
+      "chg": -1.3
+    },
+    {
+      "name": "Crude (WTI)",
+      "value": 100.75,
+      "chg": -2.81
+    },
+    {
+      "name": "USD/INR",
+      "value": 94.93,
+      "chg": -0.05
+    }
+  ],
+  "warnings": [],
+  "demo": false,
+  "market_news": [],
+  "buys": [
+    {
+      "symbol": "DRREDDY",
+      "price": 1242.5,
+      "atr": 25.94774681292595,
+      "chg": 0.7704785077047749,
+      "rsi": 59.93368103545836,
+      "vol_ratio": 0.4670950117123103,
+      "buy": 5,
+      "sell": 0,
+      "why_buy": [
+        "Uptrend: price above 20 and 50 day averages",
+        "RSI 60: strong but not overheated",
+        "Up 0.8% yesterday",
+        "Closed near the day's high"
+      ],
+      "why_sell": [],
+      "entry": 1242.5,
+      "stop": 1216.55,
+      "target": 1281.42,
+      "qty": 26,
+      "invest": 32305,
+      "max_loss": 675,
+      "profit": 1012,
+      "side": "BUY",
+      "score": 5,
+      "reasons": [
+        "Uptrend: price above 20 and 50 day averages",
+        "RSI 60: strong but not overheated",
+        "Up 0.8% yesterday",
+        "Closed near the day's high"
+      ],
+      "headlines": [],
+      "news_flag": false
+    },
+    {
+      "symbol": "JSWSTEEL",
+      "price": 1241.300048828125,
+      "atr": 29.477989541937582,
+      "chg": 2.055413877857437,
+      "rsi": 51.29177088709713,
+      "vol_ratio": 1.9230212994351885,
+      "buy": 4,
+      "sell": 0,
+      "why_buy": [
+        "RSI 51: strong but not overheated",
+        "Volume 1.9x average on a green day",
+        "Up 2.1% yesterday",
+        "Closed near the day's high"
+      ],
+      "why_sell": [],
+      "entry": 1241.3,
+      "stop": 1211.82,
+      "target": 1285.52,
+      "qty": 26,
+      "invest": 32274,
+      "max_loss": 766,
+      "profit": 1150,
+      "side": "BUY",
+      "score": 4,
+      "reasons": [
+        "RSI 51: strong but not overheated",
+        "Volume 1.9x average on a green day",
+        "Up 2.1% yesterday",
+        "Closed near the day's high"
+      ],
+      "headlines": [],
+      "news_flag": false
+    }
+  ],
+  "sells": [
+    {
+      "symbol": "ULTRACEMCO",
+      "price": 10650.0,
+      "atr": 251.83623002660394,
+      "chg": -2.3562849546163056,
+      "rsi": 43.17549930997446,
+      "vol_ratio": 2.0387310980058775,
+      "buy": 0,
+      "sell": 6,
+      "why_buy": [],
+      "why_sell": [
+        "Downtrend: price below 20 and 50 day averages",
+        "RSI 43: weak momentum",
+        "Volume 2.0x average on a red day",
+        "Down 2.4% yesterday",
+        "Closed near the day's low"
+      ],
+      "entry": 10650.0,
+      "stop": 10901.84,
+      "target": 10272.25,
+      "qty": 3,
+      "invest": 31950,
+      "max_loss": 756,
+      "profit": 1133,
+      "side": "SELL",
+      "score": 6,
+      "reasons": [
+        "Downtrend: price below 20 and 50 day averages",
+        "RSI 43: weak momentum",
+        "Volume 2.0x average on a red day",
+        "Down 2.4% yesterday",
+        "Closed near the day's low"
+      ],
+      "headlines": [],
+      "news_flag": false
+    },
+    {
+      "symbol": "ITC",
+      "price": 260.79998779296875,
+      "atr": 5.858292626767919,
+      "chg": -1.024672564338236,
+      "rsi": 46.640489362899174,
+      "vol_ratio": 0.5818894960129117,
+      "buy": 0,
+      "sell": 5,
+      "why_buy": [],
+      "why_sell": [
+        "Downtrend: price below 20 and 50 day averages",
+        "RSI 47: weak momentum",
+        "Down 1.0% yesterday",
+        "Closed near the day's low"
+      ],
+      "entry": 260.8,
+      "stop": 266.66,
+      "target": 252.01,
+      "qty": 127,
+      "invest": 33122,
+      "max_loss": 744,
+      "profit": 1116,
+      "side": "SELL",
+      "score": 5,
+      "reasons": [
+        "Downtrend: price below 20 and 50 day averages",
+        "RSI 47: weak momentum",
+        "Down 1.0% yesterday",
+        "Closed near the day's low"
+      ],
+      "headlines": [],
+      "news_flag": false
+    },
+    {
+      "symbol": "HINDUNILVR",
+      "price": 1853.199951171875,
+      "atr": 37.028706501694295,
+      "chg": -2.1438428878155946,
+      "rsi": 41.53848706844082,
+      "vol_ratio": 0.8458772002247739,
+      "buy": 0,
+      "sell": 5,
+      "why_buy": [],
+      "why_sell": [
+        "Downtrend: price below 20 and 50 day averages",
+        "RSI 42: weak momentum",
+        "Down 2.1% yesterday",
+        "Closed near the day's low"
+      ],
+      "entry": 1853.2,
+      "stop": 1890.23,
+      "target": 1797.66,
+      "qty": 17,
+      "invest": 31504,
+      "max_loss": 629,
+      "profit": 944,
+      "side": "SELL",
+      "score": 5,
+      "reasons": [
+        "Downtrend: price below 20 and 50 day averages",
+        "RSI 42: weak momentum",
+        "Down 2.1% yesterday",
+        "Closed near the day's low"
+      ],
+      "headlines": [],
+      "news_flag": false
+    }
+  ],
+  "capital": 100000,
+  "loss_limit": 2000
+}
