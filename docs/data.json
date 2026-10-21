@@ -1,7 +1,7 @@
 {
-  "date": "Tuesday, 20 October 2026",
-  "updated": "16:32 IST",
-  "mood": "mixed",
+  "date": "Wednesday, 21 October 2026",
+  "updated": "08:49 IST",
+  "mood": "positive",
   "cues": [
     {
       "name": "Nifty 50",
@@ -20,37 +20,39 @@
     },
     {
       "name": "S&P 500",
-      "value": 7690.73,
-      "chg": 0.41
+      "value": 7712.57,
+      "chg": 0.28
     },
     {
       "name": "Nasdaq",
-      "value": 26430.89,
-      "chg": 1.11
+      "value": 26424.82,
+      "chg": -0.02
     },
     {
       "name": "Nikkei",
-      "value": 64075.42,
-      "chg": -1.3
+      "value": 64823.55,
+      "chg": 1.17
     },
     {
       "name": "Crude (WTI)",
-      "value": 100.83,
-      "chg": -2.73
+      "value": 99.31,
+      "chg": -4.2
     },
     {
       "name": "USD/INR",
-      "value": 94.93,
-      "chg": -0.05
+      "value": 94.77,
+      "chg": -0.24
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "Global markets are strong. Short picks need a higher score today."
+  ],
   "demo": false,
   "market_news": [
     "Stock Market Crash: Investors Lose Rs 5 Lakh Crore As Sensex, Nifty Tank. 3 Reasons Why Market Are Falling Today - NDTV",
-    "Stock market holiday today: BSE, NSE to remain closed for Dussehra - Moneycontrol.com",
-    "Stock market crash today: Sensex plunges over 900 points, Nifty50 below 22,900 - top reasons for fall - The Times of India",
-    "Three Reasons Why Markets Are Falling Today: Sensex Slumps 700 Points, Nifty Cracks Below 23,000 - NDTV Profit"
+    "Sensex Today | Stock Market LIVE Updates: GIFT Nifty hints a strong start; US, Asian markets gain - Moneycontrol.com",
+    "Stock market outlook today, 21 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+    "Stock market crash today: Sensex ends over 870 points down, Nifty50 below 22,900 - top reasons for fall - The Times of India"
   ],
   "buys": [
     {
@@ -86,8 +88,8 @@
       ],
       "headlines": [
         "DRREDDY Share Price Today - Dr Reddys Laboratories on NSE/BSE - scanx.trade",
-        "Dr Reddy stock: Dr Reddy sets October 23 results. P/ E is 31.29 for Dr Reddy stock - ad-hoc-news.de",
-        "Is It Smart To Buy Dr. Reddy's Laboratories Limited (NSE:DRREDDY) Before It Goes Ex-Dividend? - Simply Wall Street"
+        "Is It Smart To Buy Dr. Reddy's Laboratories Limited (NSE:DRREDDY) Before It Goes Ex-Dividend? - Simply Wall Street",
+        "Dr Reddy stock: Dr Reddy sets October 23 results. P/ E is 31.29 for Dr Reddy stock - ad-hoc-news.de"
       ],
       "news_flag": false
     },
@@ -123,9 +125,9 @@
         "Closed near the day's high"
       ],
       "headlines": [
-        "JSW Steel (NSEI:JSWSTEEL) Stock Forecast & Analyst Predictions - Simply Wall Street",
+        "JSW Steel stock: INR 466.62 billion revenue, October 19 close - ad-hoc-news.de",
         "JSW Steel NCLT Approves Piombino Steel Amalgamation - Kalkine India",
-        "JSW Steel reports INR 47.36 billion revenue for JSW Steel stock - ad-hoc-news.de"
+        "We Think That There Are Issues Underlying JSW Steel's (NSE:JSWSTEEL) Earnings - Simply Wall Street"
       ],
       "news_flag": false
     }
@@ -165,9 +167,9 @@
         "Closed near the day's low"
       ],
       "headlines": [
+        "ULTRACEMCO Share Price Today - UltraTech Cement Stock Analysis - Equitypandit",
         "Ultratech Cement Share Price - Live NSE: ULTRACEMCO Stock Price & Chart - Upstox",
-        "UltraTech Cement (NSEI:ULTRACEMCO) Stock Forecast & Analyst Predictions - Simply Wall Street",
-        "UltraTech Cement (NSE: ULTRACEMCO) Up 0.82% at \u20b911,147: EMA 51, RSI and Q1 Numbers - Kalkine India"
+        "UltraTech Cement (NSEI:ULTRACEMCO) Stock Forecast & Analyst Predictions - Simply Wall Street"
       ],
       "news_flag": false
     },
