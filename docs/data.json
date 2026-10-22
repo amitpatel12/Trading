@@ -1,66 +1,64 @@
 {
-  "date": "Wednesday, 21 October 2026",
-  "updated": "08:49 IST",
-  "mood": "positive",
+  "date": "Thursday, 22 October 2026",
+  "updated": "08:48 IST",
+  "mood": "mixed",
   "cues": [
     {
       "name": "Nifty 50",
-      "value": 22888.95,
-      "chg": -1.11
+      "value": 22811.35,
+      "chg": -0.34
     },
     {
       "name": "Sensex",
-      "value": 73852.9,
-      "chg": -1.17
+      "value": 73709.69,
+      "chg": -0.19
     },
     {
       "name": "India VIX",
-      "value": 14.77,
-      "chg": 5.05
+      "value": 15.68,
+      "chg": 6.16
     },
     {
       "name": "S&P 500",
-      "value": 7712.57,
-      "chg": 0.28
+      "value": 7757.17,
+      "chg": 0.58
     },
     {
       "name": "Nasdaq",
-      "value": 26424.82,
-      "chg": -0.02
+      "value": 26702.86,
+      "chg": 1.05
     },
     {
       "name": "Nikkei",
-      "value": 64823.55,
-      "chg": 1.17
+      "value": 63917.43,
+      "chg": -1.09
     },
     {
       "name": "Crude (WTI)",
-      "value": 99.31,
-      "chg": -4.2
+      "value": 98.48,
+      "chg": -3.25
     },
     {
       "name": "USD/INR",
-      "value": 94.77,
-      "chg": -0.24
+      "value": 94.45,
+      "chg": -0.28
     }
   ],
-  "warnings": [
-    "Global markets are strong. Short picks need a higher score today."
-  ],
+  "warnings": [],
   "demo": false,
   "market_news": [
-    "Stock Market Crash: Investors Lose Rs 5 Lakh Crore As Sensex, Nifty Tank. 3 Reasons Why Market Are Falling Today - NDTV",
-    "Sensex Today | Stock Market LIVE Updates: GIFT Nifty hints a strong start; US, Asian markets gain - Moneycontrol.com",
-    "Stock market outlook today, 21 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
-    "Stock market crash today: Sensex ends over 870 points down, Nifty50 below 22,900 - top reasons for fall - The Times of India"
+    "Stock Market Highlights: Sensex declines 143.21 points to settle at 73,709.69; Nifty drops to 22,811.35 - The Times of India",
+    "Stock market outlook today, 22 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - India IPO",
+    "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open In Red Amid Mixed Global Cues, Oil Price Rise - NDTV",
+    "Sensex Today | Stock Market LIVE Updates: Nifty aims to protect 22,800 on Sensex expiry; Oil remains at $110 - CNBC TV18"
   ],
   "buys": [
     {
       "symbol": "DRREDDY",
       "price": 1242.5,
-      "atr": 25.94774681292595,
+      "atr": 25.94741702308317,
       "chg": 0.7704785077047749,
-      "rsi": 59.93368103545836,
+      "rsi": 59.93739264038824,
       "vol_ratio": 0.4670950117123103,
       "buy": 5,
       "sell": 0,
@@ -87,18 +85,56 @@
         "Closed near the day's high"
       ],
       "headlines": [
-        "DRREDDY Share Price Today - Dr Reddys Laboratories on NSE/BSE - scanx.trade",
-        "Is It Smart To Buy Dr. Reddy's Laboratories Limited (NSE:DRREDDY) Before It Goes Ex-Dividend? - Simply Wall Street",
-        "Dr Reddy stock: Dr Reddy sets October 23 results. P/ E is 31.29 for Dr Reddy stock - ad-hoc-news.de"
+        "Dr. Reddy's Laboratories Share Price - Live NSE: DRREDDY Stock Price & Chart - Upstox",
+        "Dr Reddy receives Zytorvi approval: Citi targets Dr Reddy stock at USD 1,450 - AD HOC NEWS",
+        "Is It Smart To Buy Dr. Reddy's Laboratories Limited (NSE:DRREDDY) Before It Goes Ex-Dividend? - Simply Wall Street"
+      ],
+      "news_flag": false
+    },
+    {
+      "symbol": "INFY",
+      "price": 1168.0,
+      "atr": 32.671463646975226,
+      "chg": 3.298845886520696,
+      "rsi": 67.04334734586517,
+      "vol_ratio": 1.406846269681989,
+      "buy": 4,
+      "sell": 0,
+      "why_buy": [
+        "RSI 67: strong but not overheated",
+        "Volume 1.4x average on a green day",
+        "Up 3.3% yesterday",
+        "Closed near the day's high"
+      ],
+      "why_sell": [],
+      "entry": 1168.0,
+      "stop": 1135.33,
+      "target": 1217.01,
+      "qty": 28,
+      "invest": 32704,
+      "max_loss": 915,
+      "profit": 1372,
+      "side": "BUY",
+      "score": 4,
+      "reasons": [
+        "RSI 67: strong but not overheated",
+        "Volume 1.4x average on a green day",
+        "Up 3.3% yesterday",
+        "Closed near the day's high"
+      ],
+      "headlines": [
+        "INFY Share Price Today - Infosys on NSE/BSE - scanx.trade",
+        "INFY Share Price Today - Infosys Ltd. Stock Price Live NSE/BSE - Univest",
+        "Infosys (INFY) Share Price Today, Live Chart & News - TechGraph"
       ],
       "news_flag": false
     },
     {
       "symbol": "JSWSTEEL",
       "price": 1241.300048828125,
-      "atr": 29.477989541937575,
+      "atr": 29.475792786566256,
       "chg": 2.055413877857437,
-      "rsi": 51.291770887097115,
+      "rsi": 51.28500941272813,
       "vol_ratio": 1.9230212994351885,
       "buy": 4,
       "sell": 0,
@@ -111,7 +147,7 @@
       "why_sell": [],
       "entry": 1241.3,
       "stop": 1211.82,
-      "target": 1285.52,
+      "target": 1285.51,
       "qty": 26,
       "invest": 32274,
       "max_loss": 766,
@@ -125,127 +161,127 @@
         "Closed near the day's high"
       ],
       "headlines": [
-        "JSW Steel stock: INR 466.62 billion revenue, October 19 close - ad-hoc-news.de",
-        "JSW Steel NCLT Approves Piombino Steel Amalgamation - Kalkine India",
-        "We Think That There Are Issues Underlying JSW Steel's (NSE:JSWSTEEL) Earnings - Simply Wall Street"
+        "JSW Steel Share Price - Live NSE: JSWSTEEL Stock Price & Chart - Upstox",
+        "JSWSTEEL Share Price Today - JSW Steel on NSE/BSE - scanx.trade",
+        "JSW Steel stock: INR 466.62 billion revenue, October 19 close - ad-hoc-news.de"
       ],
       "news_flag": false
     }
   ],
   "sells": [
     {
-      "symbol": "ULTRACEMCO",
-      "price": 10650.0,
-      "atr": 251.83623002660397,
-      "chg": -2.3562849546163056,
-      "rsi": 43.17549930997446,
-      "vol_ratio": 2.0387310980058775,
+      "symbol": "BAJFINANCE",
+      "price": 926.0,
+      "atr": 27.70264563235827,
+      "chg": -3.2746619716316427,
+      "rsi": 35.764054101195995,
+      "vol_ratio": 2.1647017564738142,
       "buy": 0,
       "sell": 6,
       "why_buy": [],
       "why_sell": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 43: weak momentum",
-        "Volume 2.0x average on a red day",
-        "Down 2.4% yesterday",
+        "RSI 36: weak momentum",
+        "Volume 2.2x average on a red day",
+        "Down 3.3% yesterday",
         "Closed near the day's low"
       ],
-      "entry": 10650.0,
-      "stop": 10901.84,
-      "target": 10272.25,
-      "qty": 3,
-      "invest": 31950,
-      "max_loss": 756,
-      "profit": 1133,
+      "entry": 926.0,
+      "stop": 953.7,
+      "target": 884.45,
+      "qty": 35,
+      "invest": 32410,
+      "max_loss": 970,
+      "profit": 1454,
       "side": "SELL",
       "score": 6,
       "reasons": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 43: weak momentum",
-        "Volume 2.0x average on a red day",
-        "Down 2.4% yesterday",
+        "RSI 36: weak momentum",
+        "Volume 2.2x average on a red day",
+        "Down 3.3% yesterday",
         "Closed near the day's low"
       ],
       "headlines": [
-        "ULTRACEMCO Share Price Today - UltraTech Cement Stock Analysis - Equitypandit",
-        "Ultratech Cement Share Price - Live NSE: ULTRACEMCO Stock Price & Chart - Upstox",
-        "UltraTech Cement (NSEI:ULTRACEMCO) Stock Forecast & Analyst Predictions - Simply Wall Street"
+        "Bajaj Finance (NSE: BAJFINANCE) Slides as Gold Loan Stress Overshadows Q2 Profit Growth - Kalkine India",
+        "Here's Why We Think Bajaj Finance (NSE:BAJFINANCE) Is Well Worth Watching - Simply Wall Street",
+        "Bajaj Finance's board to meet on October 1 to consider proposal for fundraiser; shares fall 6% - Upstox"
       ],
       "news_flag": false
     },
     {
-      "symbol": "ITC",
-      "price": 260.79998779296875,
-      "atr": 5.858292626767921,
-      "chg": -1.024672564338236,
-      "rsi": 46.64048936289918,
-      "vol_ratio": 0.5818894960129117,
+      "symbol": "SBIN",
+      "price": 963.0,
+      "atr": 17.712451227611204,
+      "chg": -1.0989023387992125,
+      "rsi": 45.41414418545694,
+      "vol_ratio": 1.0662944644748837,
       "buy": 0,
       "sell": 5,
       "why_buy": [],
       "why_sell": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 47: weak momentum",
-        "Down 1.0% yesterday",
+        "RSI 45: weak momentum",
+        "Down 1.1% yesterday",
         "Closed near the day's low"
       ],
-      "entry": 260.8,
-      "stop": 266.66,
-      "target": 252.01,
-      "qty": 127,
-      "invest": 33122,
-      "max_loss": 744,
-      "profit": 1116,
+      "entry": 963.0,
+      "stop": 980.71,
+      "target": 936.43,
+      "qty": 34,
+      "invest": 32742,
+      "max_loss": 602,
+      "profit": 903,
       "side": "SELL",
       "score": 5,
       "reasons": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 47: weak momentum",
-        "Down 1.0% yesterday",
+        "RSI 45: weak momentum",
+        "Down 1.1% yesterday",
         "Closed near the day's low"
       ],
       "headlines": [
-        "ITC Share Price - Upstox",
-        "ITC shareholders approve final dividend, reappoint Hemant Bhargava - scanx.trade",
-        "ITC stock: ITC sets November 2 results date. ITC stock trades 3.02 percent above its 52-week low - ad-hoc-news.de"
+        "State Bank of India (NSEI:SBIN) Stock Forecast & Analyst Predictions - Simply Wall Street",
+        "NSE IPO: Ahead of mega \u20b930k cr issue, should you buy SBI, Bank of Baroda shares? What investors should do? - Livemint",
+        "State Bank of India (NSE:SBIN) jumps 4.2% this week, though earnings growth is still tracking behind five-year shareholder returns - Simply Wall Street"
       ],
-      "news_flag": false
+      "news_flag": true
     },
     {
-      "symbol": "HINDUNILVR",
-      "price": 1853.199951171875,
-      "atr": 37.0287065016943,
-      "chg": -2.1438428878155946,
-      "rsi": 41.53848706844082,
-      "vol_ratio": 0.8458772002247739,
+      "symbol": "LT",
+      "price": 3636.0,
+      "atr": 73.14932595140124,
+      "chg": -0.7072804564421054,
+      "rsi": 38.71340611714325,
+      "vol_ratio": 1.0430227712921458,
       "buy": 0,
       "sell": 5,
       "why_buy": [],
       "why_sell": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 42: weak momentum",
-        "Down 2.1% yesterday",
+        "RSI 39: weak momentum",
+        "Down 0.7% yesterday",
         "Closed near the day's low"
       ],
-      "entry": 1853.2,
-      "stop": 1890.23,
-      "target": 1797.66,
-      "qty": 17,
-      "invest": 31504,
-      "max_loss": 629,
-      "profit": 944,
+      "entry": 3636.0,
+      "stop": 3709.15,
+      "target": 3526.28,
+      "qty": 9,
+      "invest": 32724,
+      "max_loss": 658,
+      "profit": 988,
       "side": "SELL",
       "score": 5,
       "reasons": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 42: weak momentum",
-        "Down 2.1% yesterday",
+        "RSI 39: weak momentum",
+        "Down 0.7% yesterday",
         "Closed near the day's low"
       ],
       "headlines": [
-        "Don't Race Out To Buy Hindustan Unilever Limited (NSE:HINDUNILVR) Just Because It's Going Ex-Dividend - Simply Wall Street",
-        "Hindustan Unilever (NSE: HINDUNILVR) at \u20b91,935.0: EMA 51, RSI and Q1 Numbers - Kalkine India",
-        "Why did HUL share price jump over 3% today? Check JP Morgan and other analysts' views - Upstox"
+        "BPCL Share Price - Upstox",
+        "Why You Might Be Interested In Larsen & Toubro Limited (NSE:LT) For Its Upcoming Dividend - Simply Wall Street",
+        "LT Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView"
       ],
       "news_flag": false
     }
