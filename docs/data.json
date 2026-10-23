@@ -1,287 +1,172 @@
 {
-  "date": "Thursday, 22 October 2026",
+  "date": "Friday, 23 October 2026",
   "updated": "08:48 IST",
-  "mood": "mixed",
+  "mood": "negative",
   "cues": [
     {
       "name": "Nifty 50",
-      "value": 22811.35,
-      "chg": -0.34
+      "value": 22687.65,
+      "chg": -0.54
     },
     {
       "name": "Sensex",
-      "value": 73709.69,
-      "chg": -0.19
+      "value": 73249.39,
+      "chg": -0.62
     },
     {
       "name": "India VIX",
-      "value": 15.68,
-      "chg": 6.16
+      "value": 15.76,
+      "chg": 0.51
     },
     {
       "name": "S&P 500",
-      "value": 7757.17,
-      "chg": 0.58
+      "value": 7663.43,
+      "chg": -1.21
     },
     {
       "name": "Nasdaq",
-      "value": 26702.86,
-      "chg": 1.05
+      "value": 26008.86,
+      "chg": -2.6
     },
     {
       "name": "Nikkei",
-      "value": 63917.43,
-      "chg": -1.09
+      "value": 61825.26,
+      "chg": -1.72
     },
     {
       "name": "Crude (WTI)",
-      "value": 98.48,
-      "chg": -3.25
+      "value": 100.14,
+      "chg": 3.08
     },
     {
       "name": "USD/INR",
-      "value": 94.45,
-      "chg": -0.28
+      "value": 94.81,
+      "chg": 0.53
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "Global markets are weak. Buy picks need a higher score today."
+  ],
   "demo": false,
   "market_news": [
-    "Stock Market Highlights: Sensex declines 143.21 points to settle at 73,709.69; Nifty drops to 22,811.35 - The Times of India",
-    "Stock market outlook today, 22 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - India IPO",
-    "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open In Red Amid Mixed Global Cues, Oil Price Rise - NDTV",
-    "Sensex Today | Stock Market LIVE Updates: Nifty aims to protect 22,800 on Sensex expiry; Oil remains at $110 - CNBC TV18"
+    "Stock Market Today Highlights: Sensex plunges over 400 points, Nifty50 tumbles below 22,700 - The Times of India",
+    "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a positive start; Asian shares trade lower - The Economic Times",
+    "Stock market outlook today, 23 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+    "Stock Market Crash: Investors Lose Rs 5 Lakh Crore As Sensex, Nifty Tank. 3 Reasons Why Market Are Falling Today - NDTV"
   ],
-  "buys": [
-    {
-      "symbol": "DRREDDY",
-      "price": 1242.5,
-      "atr": 25.94741702308317,
-      "chg": 0.7704785077047749,
-      "rsi": 59.93739264038824,
-      "vol_ratio": 0.4670950117123103,
-      "buy": 5,
-      "sell": 0,
-      "why_buy": [
-        "Uptrend: price above 20 and 50 day averages",
-        "RSI 60: strong but not overheated",
-        "Up 0.8% yesterday",
-        "Closed near the day's high"
-      ],
-      "why_sell": [],
-      "entry": 1242.5,
-      "stop": 1216.55,
-      "target": 1281.42,
-      "qty": 26,
-      "invest": 32305,
-      "max_loss": 675,
-      "profit": 1012,
-      "side": "BUY",
-      "score": 5,
-      "reasons": [
-        "Uptrend: price above 20 and 50 day averages",
-        "RSI 60: strong but not overheated",
-        "Up 0.8% yesterday",
-        "Closed near the day's high"
-      ],
-      "headlines": [
-        "Dr. Reddy's Laboratories Share Price - Live NSE: DRREDDY Stock Price & Chart - Upstox",
-        "Dr Reddy receives Zytorvi approval: Citi targets Dr Reddy stock at USD 1,450 - AD HOC NEWS",
-        "Is It Smart To Buy Dr. Reddy's Laboratories Limited (NSE:DRREDDY) Before It Goes Ex-Dividend? - Simply Wall Street"
-      ],
-      "news_flag": false
-    },
-    {
-      "symbol": "INFY",
-      "price": 1168.0,
-      "atr": 32.671463646975226,
-      "chg": 3.298845886520696,
-      "rsi": 67.04334734586517,
-      "vol_ratio": 1.406846269681989,
-      "buy": 4,
-      "sell": 0,
-      "why_buy": [
-        "RSI 67: strong but not overheated",
-        "Volume 1.4x average on a green day",
-        "Up 3.3% yesterday",
-        "Closed near the day's high"
-      ],
-      "why_sell": [],
-      "entry": 1168.0,
-      "stop": 1135.33,
-      "target": 1217.01,
-      "qty": 28,
-      "invest": 32704,
-      "max_loss": 915,
-      "profit": 1372,
-      "side": "BUY",
-      "score": 4,
-      "reasons": [
-        "RSI 67: strong but not overheated",
-        "Volume 1.4x average on a green day",
-        "Up 3.3% yesterday",
-        "Closed near the day's high"
-      ],
-      "headlines": [
-        "INFY Share Price Today - Infosys on NSE/BSE - scanx.trade",
-        "INFY Share Price Today - Infosys Ltd. Stock Price Live NSE/BSE - Univest",
-        "Infosys (INFY) Share Price Today, Live Chart & News - TechGraph"
-      ],
-      "news_flag": false
-    },
-    {
-      "symbol": "JSWSTEEL",
-      "price": 1241.300048828125,
-      "atr": 29.475792786566256,
-      "chg": 2.055413877857437,
-      "rsi": 51.28500941272813,
-      "vol_ratio": 1.9230212994351885,
-      "buy": 4,
-      "sell": 0,
-      "why_buy": [
-        "RSI 51: strong but not overheated",
-        "Volume 1.9x average on a green day",
-        "Up 2.1% yesterday",
-        "Closed near the day's high"
-      ],
-      "why_sell": [],
-      "entry": 1241.3,
-      "stop": 1211.82,
-      "target": 1285.51,
-      "qty": 26,
-      "invest": 32274,
-      "max_loss": 766,
-      "profit": 1150,
-      "side": "BUY",
-      "score": 4,
-      "reasons": [
-        "RSI 51: strong but not overheated",
-        "Volume 1.9x average on a green day",
-        "Up 2.1% yesterday",
-        "Closed near the day's high"
-      ],
-      "headlines": [
-        "JSW Steel Share Price - Live NSE: JSWSTEEL Stock Price & Chart - Upstox",
-        "JSWSTEEL Share Price Today - JSW Steel on NSE/BSE - scanx.trade",
-        "JSW Steel stock: INR 466.62 billion revenue, October 19 close - ad-hoc-news.de"
-      ],
-      "news_flag": false
-    }
-  ],
+  "buys": [],
   "sells": [
     {
-      "symbol": "BAJFINANCE",
-      "price": 926.0,
-      "atr": 27.70264563235827,
-      "chg": -3.2746619716316427,
-      "rsi": 35.764054101195995,
-      "vol_ratio": 2.1647017564738142,
-      "buy": 0,
-      "sell": 6,
-      "why_buy": [],
-      "why_sell": [
-        "Downtrend: price below 20 and 50 day averages",
-        "RSI 36: weak momentum",
-        "Volume 2.2x average on a red day",
-        "Down 3.3% yesterday",
-        "Closed near the day's low"
-      ],
-      "entry": 926.0,
-      "stop": 953.7,
-      "target": 884.45,
-      "qty": 35,
-      "invest": 32410,
-      "max_loss": 970,
-      "profit": 1454,
-      "side": "SELL",
-      "score": 6,
-      "reasons": [
-        "Downtrend: price below 20 and 50 day averages",
-        "RSI 36: weak momentum",
-        "Volume 2.2x average on a red day",
-        "Down 3.3% yesterday",
-        "Closed near the day's low"
-      ],
-      "headlines": [
-        "Bajaj Finance (NSE: BAJFINANCE) Slides as Gold Loan Stress Overshadows Q2 Profit Growth - Kalkine India",
-        "Here's Why We Think Bajaj Finance (NSE:BAJFINANCE) Is Well Worth Watching - Simply Wall Street",
-        "Bajaj Finance's board to meet on October 1 to consider proposal for fundraiser; shares fall 6% - Upstox"
-      ],
-      "news_flag": false
-    },
-    {
-      "symbol": "SBIN",
-      "price": 963.0,
-      "atr": 17.712451227611204,
-      "chg": -1.0989023387992125,
-      "rsi": 45.41414418545694,
-      "vol_ratio": 1.0662944644748837,
+      "symbol": "RELIANCE",
+      "price": 1184.5,
+      "atr": 25.011136942237574,
+      "chg": -2.026468155500416,
+      "rsi": 42.771814714132596,
+      "vol_ratio": 1.0017064188694251,
       "buy": 0,
       "sell": 5,
       "why_buy": [],
       "why_sell": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 45: weak momentum",
-        "Down 1.1% yesterday",
+        "RSI 43: weak momentum",
+        "Down 2.0% yesterday",
         "Closed near the day's low"
       ],
-      "entry": 963.0,
-      "stop": 980.71,
-      "target": 936.43,
-      "qty": 34,
-      "invest": 32742,
-      "max_loss": 602,
-      "profit": 903,
+      "entry": 1184.5,
+      "stop": 1209.51,
+      "target": 1146.98,
+      "qty": 28,
+      "invest": 33166,
+      "max_loss": 700,
+      "profit": 1050,
       "side": "SELL",
       "score": 5,
       "reasons": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 45: weak momentum",
-        "Down 1.1% yesterday",
+        "RSI 43: weak momentum",
+        "Down 2.0% yesterday",
         "Closed near the day's low"
       ],
       "headlines": [
-        "State Bank of India (NSEI:SBIN) Stock Forecast & Analyst Predictions - Simply Wall Street",
-        "NSE IPO: Ahead of mega \u20b930k cr issue, should you buy SBI, Bank of Baroda shares? What investors should do? - Livemint",
-        "State Bank of India (NSE:SBIN) jumps 4.2% this week, though earnings growth is still tracking behind five-year shareholder returns - Simply Wall Street"
+        "Reliance Industries Limited (RELIANCE.NS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+        "Reliance Jio IPO review: Apply or not? Bid now or buy shares post NSE, BSE debut? Check GMP, listing price prediction - Livemint",
+        "Jio Platforms IPO Day 1: Subscription Status, Timeline & Key Issue Details - Groww"
+      ],
+      "news_flag": false
+    },
+    {
+      "symbol": "HDFCBANK",
+      "price": 694.0499877929688,
+      "atr": 15.4261979239783,
+      "chg": -1.8247435025554148,
+      "rsi": 41.284285743553845,
+      "vol_ratio": 1.9159488182048436,
+      "buy": 0,
+      "sell": 5,
+      "why_buy": [],
+      "why_sell": [
+        "Downtrend: price below 20 and 50 day averages",
+        "RSI 41: weak momentum",
+        "Volume 1.9x average on a red day",
+        "Down 1.8% yesterday"
+      ],
+      "entry": 694.05,
+      "stop": 709.48,
+      "target": 670.91,
+      "qty": 48,
+      "invest": 33314,
+      "max_loss": 740,
+      "profit": 1111,
+      "side": "SELL",
+      "score": 5,
+      "reasons": [
+        "Downtrend: price below 20 and 50 day averages",
+        "RSI 41: weak momentum",
+        "Volume 1.9x average on a red day",
+        "Down 1.8% yesterday"
+      ],
+      "headlines": [
+        "Here's why HDFC Bank shares fell over 2% today despite optimism over appointment of new CEO - Moneycontrol.com",
+        "HDFC Bank shares trade flat ahead of Q2 results: What\u2019s happening? - BusinessLine",
+        "Weekly Recap: HDFC Bank ADR nominates MD/CEO and share down 25% YTD - TradingView"
       ],
       "news_flag": true
     },
     {
-      "symbol": "LT",
-      "price": 3636.0,
-      "atr": 73.14932595140124,
-      "chg": -0.7072804564421054,
-      "rsi": 38.71340611714325,
-      "vol_ratio": 1.0430227712921458,
+      "symbol": "MARUTI",
+      "price": 11200.0,
+      "atr": 256.93698298097604,
+      "chg": -2.3965141612200425,
+      "rsi": 33.24039638959438,
+      "vol_ratio": 0.8705692441468034,
       "buy": 0,
       "sell": 5,
       "why_buy": [],
       "why_sell": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 39: weak momentum",
-        "Down 0.7% yesterday",
+        "RSI 33: weak momentum",
+        "Down 2.4% yesterday",
         "Closed near the day's low"
       ],
-      "entry": 3636.0,
-      "stop": 3709.15,
-      "target": 3526.28,
-      "qty": 9,
-      "invest": 32724,
-      "max_loss": 658,
-      "profit": 988,
+      "entry": 11200.0,
+      "stop": 11456.94,
+      "target": 10814.59,
+      "qty": 2,
+      "invest": 22400,
+      "max_loss": 514,
+      "profit": 771,
       "side": "SELL",
       "score": 5,
       "reasons": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 39: weak momentum",
-        "Down 0.7% yesterday",
+        "RSI 33: weak momentum",
+        "Down 2.4% yesterday",
         "Closed near the day's low"
       ],
       "headlines": [
-        "BPCL Share Price - Upstox",
-        "Why You Might Be Interested In Larsen & Toubro Limited (NSE:LT) For Its Upcoming Dividend - Simply Wall Street",
-        "LT Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView"
+        "Maruti Suzuki is top Nifty 50 loser today - what's driving the fall? - Livemint",
+        "MARUTI Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
+        "Will Maruti reclaim \u20b915,000-mark in next 3 months? Analyst flags key hurdle - Business Standard"
       ],
       "news_flag": false
     }
