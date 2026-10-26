@@ -1,47 +1,47 @@
 {
-  "date": "Friday, 23 October 2026",
-  "updated": "08:48 IST",
+  "date": "Monday, 26 October 2026",
+  "updated": "08:52 IST",
   "mood": "negative",
   "cues": [
     {
       "name": "Nifty 50",
-      "value": 22687.65,
-      "chg": -0.54
+      "value": 22600.0,
+      "chg": -0.39
     },
     {
       "name": "Sensex",
-      "value": 73249.39,
-      "chg": -0.62
+      "value": 73123.83,
+      "chg": -0.17
     },
     {
       "name": "India VIX",
-      "value": 15.76,
-      "chg": 0.51
+      "value": 16.86,
+      "chg": 6.98
     },
     {
       "name": "S&P 500",
-      "value": 7663.43,
-      "chg": -1.21
+      "value": 7623.68,
+      "chg": -0.52
     },
     {
       "name": "Nasdaq",
-      "value": 26008.86,
-      "chg": -2.6
+      "value": 25955.34,
+      "chg": -0.21
     },
     {
       "name": "Nikkei",
-      "value": 61825.26,
-      "chg": -1.72
+      "value": 62214.66,
+      "chg": -0.76
     },
     {
       "name": "Crude (WTI)",
-      "value": 100.14,
-      "chg": 3.08
+      "value": 100.95,
+      "chg": -2.25
     },
     {
       "name": "USD/INR",
-      "value": 94.81,
-      "chg": 0.53
+      "value": 94.94,
+      "chg": 0.24
     }
   ],
   "warnings": [
@@ -49,124 +49,128 @@
   ],
   "demo": false,
   "market_news": [
-    "Stock Market Today Highlights: Sensex plunges over 400 points, Nifty50 tumbles below 22,700 - The Times of India",
-    "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a positive start; Asian shares trade lower - The Economic Times",
-    "Stock market outlook today, 23 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
-    "Stock Market Crash: Investors Lose Rs 5 Lakh Crore As Sensex, Nifty Tank. 3 Reasons Why Market Are Falling Today - NDTV"
+    "Sensex Today | Stock Market LIVE Updates: Nifty may open above 22,600; Shriram Fin in focus - CNBC TV18",
+    "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Flat, Asian Shares Trade Lower - NDTV",
+    "Stock Market Today Live Updates: GIFT Nifty signals muted start for Dalal Street - where are BSE Sensex and NSE Nifty50 headed? - The Times of India",
+    "Stock market outlook today, 26 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei cues - Livemint"
   ],
   "buys": [],
   "sells": [
     {
-      "symbol": "RELIANCE",
-      "price": 1184.5,
-      "atr": 25.011136942237574,
-      "chg": -2.026468155500416,
-      "rsi": 42.771814714132596,
-      "vol_ratio": 1.0017064188694251,
+      "symbol": "JSWSTEEL",
+      "price": 1185.5,
+      "atr": 31.168477911867075,
+      "chg": -2.8278688524590145,
+      "rsi": 39.696048991415815,
+      "vol_ratio": 1.2582044366593044,
       "buy": 0,
-      "sell": 5,
+      "sell": 6,
       "why_buy": [],
       "why_sell": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 43: weak momentum",
-        "Down 2.0% yesterday",
+        "RSI 40: weak momentum",
+        "Volume 1.3x average on a red day",
+        "Down 2.8% yesterday",
         "Closed near the day's low"
       ],
-      "entry": 1184.5,
-      "stop": 1209.51,
-      "target": 1146.98,
+      "entry": 1185.5,
+      "stop": 1216.67,
+      "target": 1138.75,
       "qty": 28,
-      "invest": 33166,
-      "max_loss": 700,
-      "profit": 1050,
+      "invest": 33194,
+      "max_loss": 873,
+      "profit": 1309,
       "side": "SELL",
-      "score": 5,
+      "score": 6,
       "reasons": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 43: weak momentum",
-        "Down 2.0% yesterday",
+        "RSI 40: weak momentum",
+        "Volume 1.3x average on a red day",
+        "Down 2.8% yesterday",
         "Closed near the day's low"
       ],
       "headlines": [
-        "Reliance Industries Limited (RELIANCE.NS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-        "Reliance Jio IPO review: Apply or not? Bid now or buy shares post NSE, BSE debut? Check GMP, listing price prediction - Livemint",
-        "Jio Platforms IPO Day 1: Subscription Status, Timeline & Key Issue Details - Groww"
+        "JSWSTEEL Share Price Today - JSW Steel on NSE/BSE - scanx.trade",
+        "JSW Steel Ltd. Share Price Today - JSW Steel Ltd. Stock Price Live NSE/BSE - CNBC TV18",
+        "JSW Steel Share Price - Live NSE: JSWSTEEL Stock Price & Chart - Upstox"
       ],
       "news_flag": false
     },
     {
-      "symbol": "HDFCBANK",
-      "price": 694.0499877929688,
-      "atr": 15.4261979239783,
-      "chg": -1.8247435025554148,
-      "rsi": 41.284285743553845,
-      "vol_ratio": 1.9159488182048436,
-      "buy": 0,
+      "symbol": "HINDALCO",
+      "price": 869.8499755859375,
+      "atr": 23.470740089958138,
+      "chg": -1.778455333580986,
+      "rsi": 32.293733224240896,
+      "vol_ratio": 1.904019057884279,
+      "buy": 1,
       "sell": 5,
-      "why_buy": [],
+      "why_buy": [
+        "Closed near the day's high"
+      ],
       "why_sell": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 41: weak momentum",
+        "RSI 32: weak momentum",
         "Volume 1.9x average on a red day",
         "Down 1.8% yesterday"
       ],
-      "entry": 694.05,
-      "stop": 709.48,
-      "target": 670.91,
-      "qty": 48,
-      "invest": 33314,
-      "max_loss": 740,
-      "profit": 1111,
+      "entry": 869.85,
+      "stop": 893.32,
+      "target": 834.64,
+      "qty": 38,
+      "invest": 33054,
+      "max_loss": 892,
+      "profit": 1338,
       "side": "SELL",
       "score": 5,
       "reasons": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 41: weak momentum",
+        "RSI 32: weak momentum",
         "Volume 1.9x average on a red day",
         "Down 1.8% yesterday"
       ],
       "headlines": [
-        "Here's why HDFC Bank shares fell over 2% today despite optimism over appointment of new CEO - Moneycontrol.com",
-        "HDFC Bank shares trade flat ahead of Q2 results: What\u2019s happening? - BusinessLine",
-        "Weekly Recap: HDFC Bank ADR nominates MD/CEO and share down 25% YTD - TradingView"
+        "Hindalco Industries Share Price - Upstox",
+        "Hindalco Industries Ltd. Share Price Today - Hindalco Industries Ltd. Stock Price Live NSE/BSE - CNBC TV18",
+        "Hindalco Share Price Today, August 24, 2026: Closes at \u20b91,058.50 - The Eastern Herald"
       ],
-      "news_flag": true
+      "news_flag": false
     },
     {
-      "symbol": "MARUTI",
-      "price": 11200.0,
-      "atr": 256.93698298097604,
-      "chg": -2.3965141612200425,
-      "rsi": 33.24039638959438,
-      "vol_ratio": 0.8705692441468034,
+      "symbol": "HEROMOTOCO",
+      "price": 5047.0,
+      "atr": 142.53686204220372,
+      "chg": -1.5795631825272993,
+      "rsi": 42.55684970912105,
+      "vol_ratio": 0.9824775366620693,
       "buy": 0,
       "sell": 5,
       "why_buy": [],
       "why_sell": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 33: weak momentum",
-        "Down 2.4% yesterday",
+        "RSI 43: weak momentum",
+        "Down 1.6% yesterday",
         "Closed near the day's low"
       ],
-      "entry": 11200.0,
-      "stop": 11456.94,
-      "target": 10814.59,
-      "qty": 2,
-      "invest": 22400,
-      "max_loss": 514,
-      "profit": 771,
+      "entry": 5047.0,
+      "stop": 5189.54,
+      "target": 4833.19,
+      "qty": 6,
+      "invest": 30282,
+      "max_loss": 855,
+      "profit": 1283,
       "side": "SELL",
       "score": 5,
       "reasons": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 33: weak momentum",
-        "Down 2.4% yesterday",
+        "RSI 43: weak momentum",
+        "Down 1.6% yesterday",
         "Closed near the day's low"
       ],
       "headlines": [
-        "Maruti Suzuki is top Nifty 50 loser today - what's driving the fall? - Livemint",
-        "MARUTI Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
-        "Will Maruti reclaim \u20b915,000-mark in next 3 months? Analyst flags key hurdle - Business Standard"
+        "Hero MotoCorp Share Price - Live NSE: HEROMOTOCO Stock Price & Chart - Upstox",
+        "HEROMOTOCO Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
+        "Hero MotoCorp (NSE:HEROMOTOCO) Could Be A Buy For Its Upcoming Dividend - Simply Wall Street"
       ],
       "news_flag": false
     }
