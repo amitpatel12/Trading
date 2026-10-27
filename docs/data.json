@@ -1,147 +1,182 @@
 {
-  "date": "Monday, 26 October 2026",
-  "updated": "08:52 IST",
-  "mood": "negative",
+  "date": "Tuesday, 27 October 2026",
+  "updated": "08:48 IST",
+  "mood": "positive",
   "cues": [
     {
       "name": "Nifty 50",
-      "value": 22600.0,
-      "chg": -0.39
+      "value": 22753.2,
+      "chg": 0.68
     },
     {
       "name": "Sensex",
-      "value": 73123.83,
-      "chg": -0.17
+      "value": 73606.75,
+      "chg": 0.66
     },
     {
       "name": "India VIX",
-      "value": 16.86,
-      "chg": 6.98
+      "value": 17.16,
+      "chg": 1.78
     },
     {
       "name": "S&P 500",
-      "value": 7623.68,
-      "chg": -0.52
+      "value": 7676.77,
+      "chg": 0.7
     },
     {
       "name": "Nasdaq",
-      "value": 25955.34,
-      "chg": -0.21
+      "value": 26169.38,
+      "chg": 0.82
     },
     {
       "name": "Nikkei",
-      "value": 62214.66,
-      "chg": -0.76
+      "value": 63381.29,
+      "chg": 1.92
     },
     {
       "name": "Crude (WTI)",
-      "value": 100.95,
-      "chg": -2.25
+      "value": 100.69,
+      "chg": -2.5
     },
     {
       "name": "USD/INR",
-      "value": 94.94,
-      "chg": 0.24
+      "value": 95.18,
+      "chg": 0.26
     }
   ],
   "warnings": [
-    "Global markets are weak. Buy picks need a higher score today."
+    "Global markets are strong. Short picks need a higher score today."
   ],
   "demo": false,
   "market_news": [
-    "Sensex Today | Stock Market LIVE Updates: Nifty may open above 22,600; Shriram Fin in focus - CNBC TV18",
-    "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Flat, Asian Shares Trade Lower - NDTV",
-    "Stock Market Today Live Updates: GIFT Nifty signals muted start for Dalal Street - where are BSE Sensex and NSE Nifty50 headed? - The Times of India",
-    "Stock market outlook today, 26 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei cues - Livemint"
+    "Stock Market Today Highlights: Dalal Street ends in green after weak start; Sensex closes 480 points up, Nifty50 beyond 22,700 - The Times of India",
+    "Stock Market Today Live, October 27: Nifty 50, Sensex seen opening flat amidst positive Asian markets - BusinessLine",
+    "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open In Red, Asian Shares Trade Higher - NDTV",
+    "Sensex Today | Stock Market Live Updates: Nifty may fall below 22,650; Ather Energy in focus - CNBC TV18"
   ],
-  "buys": [],
-  "sells": [
+  "buys": [
     {
-      "symbol": "JSWSTEEL",
-      "price": 1185.5,
-      "atr": 31.168477911867075,
-      "chg": -2.8278688524590145,
-      "rsi": 39.696048991415815,
-      "vol_ratio": 1.2582044366593044,
-      "buy": 0,
-      "sell": 6,
-      "why_buy": [],
-      "why_sell": [
-        "Downtrend: price below 20 and 50 day averages",
-        "RSI 40: weak momentum",
-        "Volume 1.3x average on a red day",
-        "Down 2.8% yesterday",
-        "Closed near the day's low"
-      ],
-      "entry": 1185.5,
-      "stop": 1216.67,
-      "target": 1138.75,
-      "qty": 28,
-      "invest": 33194,
-      "max_loss": 873,
-      "profit": 1309,
-      "side": "SELL",
-      "score": 6,
-      "reasons": [
-        "Downtrend: price below 20 and 50 day averages",
-        "RSI 40: weak momentum",
-        "Volume 1.3x average on a red day",
-        "Down 2.8% yesterday",
-        "Closed near the day's low"
-      ],
-      "headlines": [
-        "JSWSTEEL Share Price Today - JSW Steel on NSE/BSE - scanx.trade",
-        "JSW Steel Ltd. Share Price Today - JSW Steel Ltd. Stock Price Live NSE/BSE - CNBC TV18",
-        "JSW Steel Share Price - Live NSE: JSWSTEEL Stock Price & Chart - Upstox"
-      ],
-      "news_flag": false
-    },
-    {
-      "symbol": "HINDALCO",
-      "price": 869.8499755859375,
-      "atr": 23.470740089958138,
-      "chg": -1.778455333580986,
-      "rsi": 32.293733224240896,
-      "vol_ratio": 1.904019057884279,
-      "buy": 1,
-      "sell": 5,
+      "symbol": "KOTAKBANK",
+      "price": 440.75,
+      "atr": 9.985900370267151,
+      "chg": 2.3809523809523725,
+      "rsi": 58.95130304188547,
+      "vol_ratio": 1.2013348515667799,
+      "buy": 5,
+      "sell": 0,
       "why_buy": [
-        "Closed near the day's high"
+        "Uptrend: price above 20 and 50 day averages",
+        "RSI 59: strong but not overheated",
+        "Volume 1.2x average on a green day",
+        "Up 2.4% yesterday"
       ],
-      "why_sell": [
-        "Downtrend: price below 20 and 50 day averages",
-        "RSI 32: weak momentum",
-        "Volume 1.9x average on a red day",
-        "Down 1.8% yesterday"
-      ],
-      "entry": 869.85,
-      "stop": 893.32,
-      "target": 834.64,
-      "qty": 38,
-      "invest": 33054,
-      "max_loss": 892,
-      "profit": 1338,
-      "side": "SELL",
+      "why_sell": [],
+      "entry": 440.75,
+      "stop": 430.76,
+      "target": 455.73,
+      "qty": 75,
+      "invest": 33056,
+      "max_loss": 749,
+      "profit": 1123,
+      "side": "BUY",
       "score": 5,
       "reasons": [
-        "Downtrend: price below 20 and 50 day averages",
-        "RSI 32: weak momentum",
-        "Volume 1.9x average on a red day",
-        "Down 1.8% yesterday"
+        "Uptrend: price above 20 and 50 day averages",
+        "RSI 59: strong but not overheated",
+        "Volume 1.2x average on a green day",
+        "Up 2.4% yesterday"
       ],
       "headlines": [
-        "Hindalco Industries Share Price - Upstox",
-        "Hindalco Industries Ltd. Share Price Today - Hindalco Industries Ltd. Stock Price Live NSE/BSE - CNBC TV18",
-        "Hindalco Share Price Today, August 24, 2026: Closes at \u20b91,058.50 - The Eastern Herald"
+        "Kotak Mahindra Bank Ltd. Share Price Today - Kotak Mahindra Bank Ltd. Stock Price Live NSE/BSE - CNBC TV18",
+        "Kotak Mahindra Bank (NSE: KOTAKBANK) share price \u2013 Sep 4, 2026 - The Eastern Herald",
+        "Kotak Mahindra Bank shares gain over 3% after Anup Kumar Saha named new MD & CEO - Moneycontrol.com"
+      ],
+      "news_flag": true
+    },
+    {
+      "symbol": "INFY",
+      "price": 1166.0,
+      "atr": 42.84320307034553,
+      "chg": 1.0573713516710326,
+      "rsi": 65.4617161328427,
+      "vol_ratio": 1.6275296078657275,
+      "buy": 4,
+      "sell": 0,
+      "why_buy": [
+        "RSI 65: strong but not overheated",
+        "Volume 1.6x average on a green day",
+        "Up 1.1% yesterday",
+        "Closed near the day's high"
+      ],
+      "why_sell": [],
+      "entry": 1166.0,
+      "stop": 1123.16,
+      "target": 1230.26,
+      "qty": 23,
+      "invest": 26818,
+      "max_loss": 985,
+      "profit": 1478,
+      "side": "BUY",
+      "score": 4,
+      "reasons": [
+        "RSI 65: strong but not overheated",
+        "Volume 1.6x average on a green day",
+        "Up 1.1% yesterday",
+        "Closed near the day's high"
+      ],
+      "headlines": [
+        "Infosys Limited (INFY.NS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+        "Infosys (INFY) Share Price Today, Live Chart & News - TechGraph",
+        "INFY Share Price Today - Infosys Ltd. Stock Price Live NSE/BSE - Univest"
       ],
       "news_flag": false
     },
+    {
+      "symbol": "CIPLA",
+      "price": 1355.0,
+      "atr": 26.36179283137864,
+      "chg": 1.2705530642750373,
+      "rsi": 52.680575723543,
+      "vol_ratio": 1.5837697426180342,
+      "buy": 4,
+      "sell": 0,
+      "why_buy": [
+        "RSI 53: strong but not overheated",
+        "Volume 1.6x average on a green day",
+        "Up 1.3% yesterday",
+        "Closed near the day's high"
+      ],
+      "why_sell": [],
+      "entry": 1355.0,
+      "stop": 1328.64,
+      "target": 1394.54,
+      "qty": 24,
+      "invest": 32520,
+      "max_loss": 633,
+      "profit": 949,
+      "side": "BUY",
+      "score": 4,
+      "reasons": [
+        "RSI 53: strong but not overheated",
+        "Volume 1.6x average on a green day",
+        "Up 1.3% yesterday",
+        "Closed near the day's high"
+      ],
+      "headlines": [
+        "Cipla Ltd. Share Price Today - Cipla Ltd. Stock Price Live NSE/BSE - CNBC TV18",
+        "CIPLA Share Price Today - Cipla on NSE/BSE - scanx.trade",
+        "CIPLA Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView"
+      ],
+      "news_flag": false
+    }
+  ],
+  "sells": [
     {
       "symbol": "HEROMOTOCO",
       "price": 5047.0,
-      "atr": 142.53686204220372,
+      "atr": 142.52955590899452,
       "chg": -1.5795631825272993,
-      "rsi": 42.55684970912105,
+      "rsi": 42.56340504534323,
       "vol_ratio": 0.9824775366620693,
       "buy": 0,
       "sell": 5,
@@ -153,8 +188,8 @@
         "Closed near the day's low"
       ],
       "entry": 5047.0,
-      "stop": 5189.54,
-      "target": 4833.19,
+      "stop": 5189.53,
+      "target": 4833.21,
       "qty": 6,
       "invest": 30282,
       "max_loss": 855,
@@ -168,9 +203,9 @@
         "Closed near the day's low"
       ],
       "headlines": [
-        "Hero MotoCorp Share Price - Live NSE: HEROMOTOCO Stock Price & Chart - Upstox",
         "HEROMOTOCO Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
-        "Hero MotoCorp (NSE:HEROMOTOCO) Could Be A Buy For Its Upcoming Dividend - Simply Wall Street"
+        "Hero MotoCorp (NSE:HEROMOTOCO) Could Be A Buy For Its Upcoming Dividend - Simply Wall Street",
+        "Hero MotoCorp Shares Gain 0.66% After Rs 3,200-Cr Andhra Investment Push - HDFC Sky"
       ],
       "news_flag": false
     }
