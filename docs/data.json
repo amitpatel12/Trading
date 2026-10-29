@@ -1,146 +1,220 @@
 {
-  "date": "Wednesday, 28 October 2026",
+  "date": "Thursday, 29 October 2026",
   "updated": "08:44 IST",
-  "mood": "positive",
+  "mood": "mixed",
   "cues": [
     {
       "name": "Nifty 50",
-      "value": 22749.75,
-      "chg": -0.02
+      "value": 22698.85,
+      "chg": -0.22
     },
     {
       "name": "Sensex",
-      "value": 73598.67,
-      "chg": -0.01
+      "value": 73246.03,
+      "chg": -0.48
     },
     {
       "name": "India VIX",
-      "value": 16.4,
-      "chg": -4.43
+      "value": 16.25,
+      "chg": -0.91
     },
     {
       "name": "S&P 500",
-      "value": 7722.6,
-      "chg": 0.6
+      "value": 7743.98,
+      "chg": 0.28
     },
     {
       "name": "Nasdaq",
-      "value": 26477.81,
-      "chg": 1.18
+      "value": 26549.85,
+      "chg": 0.27
     },
     {
       "name": "Nikkei",
-      "value": 64067.1,
-      "chg": 1.26
+      "value": 64131.28,
+      "chg": 0.28
     },
     {
       "name": "Crude (WTI)",
-      "value": 101.18,
-      "chg": -0.57
+      "value": 101.54,
+      "chg": 1.64
     },
     {
       "name": "USD/INR",
-      "value": 95.11,
-      "chg": -0.09
+      "value": 95.21,
+      "chg": 0.03
     }
   ],
-  "warnings": [
-    "Global markets are strong. Short picks need a higher score today."
-  ],
+  "warnings": [],
   "demo": false,
   "market_news": [
     "Sensex settles 500 pts higher, Nifty ends above 22,750: Key factors behind markets snapping 4-day fall - Moneycontrol.com",
-    "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open In Red As Oil Prices Remains Steady At $115 - NDTV",
-    "Sensex Today | Stock Market LIVE Updates: GIFT Nifty signals weak opening; US, Asian markets trade higher - Moneycontrol.com",
-    "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a negative start; Asian shares trade higher - The Economic Times"
+    "Stock Market Highlights, Sensex Today: Sensex Closes 350 Points Lower As Oil Prices Remains Steady At $115 - NDTV",
+    "Stock Market Today Live, October 29: Stock to buy today: APL Apollo Tubes (\u20b92,165) - BusinessLine",
+    "28 October, 2026 Stock Market Updates: Sensex down 345 points, Nifty below 22,700, IT shares drag - India TV News"
   ],
   "buys": [
     {
-      "symbol": "ONGC",
-      "price": 229.85000610351562,
-      "atr": 3.9539046282257897,
-      "chg": 0.6172315036947262,
-      "rsi": 54.527993265373304,
-      "vol_ratio": 1.8898834781058862,
+      "symbol": "TCS",
+      "price": 2460.0,
+      "atr": 75.44570035619284,
+      "chg": -1.477828659014857,
+      "rsi": 64.59657475078401,
+      "vol_ratio": 0.4192284655482276,
       "buy": 4,
-      "sell": 0,
+      "sell": 1,
       "why_buy": [
-        "RSI 55: strong but not overheated",
-        "Volume 1.9x average on a green day",
-        "Up 0.6% yesterday",
+        "Uptrend: price above 20 and 50 day averages",
+        "RSI 65: strong but not overheated",
         "Closed near the day's high"
       ],
-      "why_sell": [],
-      "entry": 229.85,
-      "stop": 225.9,
-      "target": 235.78,
-      "qty": 145,
-      "invest": 33328,
-      "max_loss": 573,
-      "profit": 860,
+      "why_sell": [
+        "Down 1.5% yesterday"
+      ],
+      "entry": 2460.0,
+      "stop": 2384.55,
+      "target": 2573.17,
+      "qty": 13,
+      "invest": 31980,
+      "max_loss": 981,
+      "profit": 1471,
       "side": "BUY",
       "score": 4,
       "reasons": [
-        "RSI 55: strong but not overheated",
-        "Volume 1.9x average on a green day",
-        "Up 0.6% yesterday",
+        "Uptrend: price above 20 and 50 day averages",
+        "RSI 65: strong but not overheated",
         "Closed near the day's high"
       ],
       "headlines": [
-        "ONGC Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
-        "Oil and Natural Gas Corporation Limited (NSE:ONGC) Looks Interesting, And It's About To Pay A Dividend - Simply Wall Street",
-        "ONGC stock trades near ?232 as crude softens and recent results frame value - ad-hoc-news.de"
+        "TCS shares jump over 5% after Q2 results; IT stocks rally, shrug off US visa curbs on AI, growth optimism - Moneycontrol.com",
+        "TCS share price surges 28% in October, hits over 7-month high; here's why - Business Standard",
+        "Tata Consultancy Services (NSEI:TCS) Stock Forecast & Analyst Predictions - Simply Wall St"
       ],
       "news_flag": false
+    },
+    {
+      "symbol": "HCLTECH",
+      "price": 1400.5,
+      "atr": 40.457818966050276,
+      "chg": -1.373239436619722,
+      "rsi": 66.95599215488758,
+      "vol_ratio": 0.372473059391994,
+      "buy": 4,
+      "sell": 1,
+      "why_buy": [
+        "Uptrend: price above 20 and 50 day averages",
+        "RSI 67: strong but not overheated",
+        "Closed near the day's high"
+      ],
+      "why_sell": [
+        "Down 1.4% yesterday"
+      ],
+      "entry": 1400.5,
+      "stop": 1360.04,
+      "target": 1461.19,
+      "qty": 23,
+      "invest": 32212,
+      "max_loss": 931,
+      "profit": 1396,
+      "side": "BUY",
+      "score": 4,
+      "reasons": [
+        "Uptrend: price above 20 and 50 day averages",
+        "RSI 67: strong but not overheated",
+        "Closed near the day's high"
+      ],
+      "headlines": [
+        "HCLTECH Share Price Fall: Price Action and Fundamentals - Univest",
+        "HCL Technologies (HCLTECH) Share Price Today & Chart - TechGraph",
+        "HCLTech shares snap three-day gaining streak post-Q1 results, fall 4%: Should you buy, sell or hold? - Moneycontrol.com"
+      ],
+      "news_flag": false
+    },
+    {
+      "symbol": "TECHM",
+      "price": 1776.5999755859375,
+      "atr": 54.996310583244785,
+      "chg": -1.9211686186976773,
+      "rsi": 66.84788491191262,
+      "vol_ratio": 0.6542347526090527,
+      "buy": 4,
+      "sell": 1,
+      "why_buy": [
+        "Uptrend: price above 20 and 50 day averages",
+        "RSI 67: strong but not overheated",
+        "Closed near the day's high"
+      ],
+      "why_sell": [
+        "Down 1.9% yesterday"
+      ],
+      "entry": 1776.6,
+      "stop": 1721.6,
+      "target": 1859.09,
+      "qty": 18,
+      "invest": 31979,
+      "max_loss": 990,
+      "profit": 1485,
+      "side": "BUY",
+      "score": 4,
+      "reasons": [
+        "Uptrend: price above 20 and 50 day averages",
+        "RSI 67: strong but not overheated",
+        "Closed near the day's high"
+      ],
+      "headlines": [
+        "\u20b91,747 - That's What Analysts Think Tech Mahindra Limited (NSE:TECHM) Is Worth After These Results - Simply Wall Street",
+        "How Did Tech Mahindra (NSE:TECHM) Expand EBIT Margins in Q2FY27? - Kalkine India",
+        "Infosys, Tech Mahindra, HCL Tech shares fall over 2%: IT index plunges 2.3%; here is why - Upstox"
+      ],
+      "news_flag": true
     }
   ],
   "sells": [
     {
-      "symbol": "HDFCBANK",
-      "price": 680.2000122070312,
-      "atr": 14.441859338036293,
-      "chg": -1.1409019293957878,
-      "rsi": 36.49659094757739,
-      "vol_ratio": 1.2697748130444855,
+      "symbol": "RELIANCE",
+      "price": 1158.0,
+      "atr": 27.318215697053457,
+      "chg": -3.193441960472565,
+      "rsi": 37.99739658699235,
+      "vol_ratio": 1.4247899583685493,
       "buy": 0,
       "sell": 6,
       "why_buy": [],
       "why_sell": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 36: weak momentum",
-        "Volume 1.3x average on a red day",
-        "Down 1.1% yesterday",
+        "RSI 38: weak momentum",
+        "Volume 1.4x average on a red day",
+        "Down 3.2% yesterday",
         "Closed near the day's low"
       ],
-      "entry": 680.2,
-      "stop": 694.64,
-      "target": 658.54,
-      "qty": 49,
-      "invest": 33330,
-      "max_loss": 708,
-      "profit": 1061,
+      "entry": 1158.0,
+      "stop": 1185.32,
+      "target": 1117.02,
+      "qty": 28,
+      "invest": 32424,
+      "max_loss": 765,
+      "profit": 1147,
       "side": "SELL",
       "score": 6,
       "reasons": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 36: weak momentum",
-        "Volume 1.3x average on a red day",
-        "Down 1.1% yesterday",
+        "RSI 38: weak momentum",
+        "Volume 1.4x average on a red day",
+        "Down 3.2% yesterday",
         "Closed near the day's low"
       ],
       "headlines": [
-        "Here's why HDFC Bank shares fell over 2% today despite optimism over appointment of new CEO - Moneycontrol.com",
-        "HDFC Bank shares flat, Bernstein maintains outperform rating with \u20b91,150 target - TradingView",
-        "HDFC Bank gets new CEO: Stock down 25% thus far in 2026; what charts say? - Business Standard"
+        "Jio Platforms becomes 12th Reliance Group company to list on NSE, says CEO Ashishkumar Chauhan - Moneycontrol.com",
+        "Businesses and investors of Ambani's Jio as it debuts on Indian bourses - Reuters",
+        "Reliance Industries Shares Fall 2% After Jio Platforms Listing; Q2 Results on October 30 - India Infoline"
       ],
       "news_flag": true
     },
     {
       "symbol": "ASIANPAINT",
       "price": 2277.0,
-      "atr": 51.259876799085255,
+      "atr": 51.25974517501472,
       "chg": -1.9379844961240345,
-      "rsi": 34.97029240308639,
+      "rsi": 34.97130163091542,
       "vol_ratio": 1.4811798928785054,
       "buy": 0,
       "sell": 6,
@@ -169,49 +243,49 @@
         "Closed near the day's low"
       ],
       "headlines": [
-        "Asian Paints Share Price - Live NSE: ASIANPAINT Stock Price & Chart - Upstox",
         "Asian Paints (NSEI:ASIANPAINT) Stock Forecast & Analyst Predictions - Simply Wall Street",
-        "ASIANPAINT Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView"
+        "ASIANPAINT Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
+        "Asian Paints shares jump 3% after Q4 beat; brokerages see up to 34% upside but divided on outlook - Moneycontrol.com"
       ],
       "news_flag": false
     },
     {
-      "symbol": "SBIN",
-      "price": 945.0999755859375,
-      "atr": 18.35383255279392,
-      "chg": -1.634056245472626,
-      "rsi": 39.64405361206255,
-      "vol_ratio": 1.1077701261507775,
+      "symbol": "BPCL",
+      "price": 287.0,
+      "atr": 8.223421662722021,
+      "chg": -2.9093389465303376,
+      "rsi": 42.302644030495955,
+      "vol_ratio": 0.5583435325745985,
       "buy": 0,
       "sell": 5,
       "why_buy": [],
       "why_sell": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 40: weak momentum",
-        "Down 1.6% yesterday",
+        "RSI 42: weak momentum",
+        "Down 2.9% yesterday",
         "Closed near the day's low"
       ],
-      "entry": 945.1,
-      "stop": 963.45,
-      "target": 917.57,
-      "qty": 35,
-      "invest": 33078,
-      "max_loss": 642,
-      "profit": 964,
+      "entry": 287.0,
+      "stop": 295.22,
+      "target": 274.66,
+      "qty": 116,
+      "invest": 33292,
+      "max_loss": 954,
+      "profit": 1431,
       "side": "SELL",
       "score": 5,
       "reasons": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 40: weak momentum",
-        "Down 1.6% yesterday",
+        "RSI 42: weak momentum",
+        "Down 2.9% yesterday",
         "Closed near the day's low"
       ],
       "headlines": [
-        "SBIN Outlook for the Week - Equitypandit",
-        "NSE IPO: Ahead of mega \u20b930k cr issue, should you buy SBI, Bank of Baroda shares? What investors should do? - Livemint",
-        "State Bank of India (NSEI:SBIN) Stock Forecast & Analyst Predictions - Simply Wall Street"
+        "BPCL Share Price - Upstox",
+        "BPCL shares in spotlight as board approves raising funds up to \u20b95,000 crore via issuance of NCDs - Upstox",
+        "HPCL tanks 18% from record high, nears 200-DMA; lags BPCL, IOC; show charts - Business Standard"
       ],
-      "news_flag": true
+      "news_flag": false
     }
   ],
   "capital": 100000,
