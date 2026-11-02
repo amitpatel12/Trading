@@ -1,47 +1,47 @@
 {
-  "date": "Friday, 30 October 2026",
+  "date": "Monday, 02 November 2026",
   "updated": "08:44 IST",
   "mood": "negative",
   "cues": [
     {
       "name": "Nifty 50",
-      "value": 22936.75,
-      "chg": 1.05
+      "value": 23053.1,
+      "chg": 0.51
     },
     {
       "name": "Sensex",
-      "value": 74151.04,
-      "chg": 1.24
+      "value": 74459.53,
+      "chg": 0.42
     },
     {
       "name": "India VIX",
-      "value": 15.12,
-      "chg": -6.95
+      "value": 15.3,
+      "chg": 1.19
     },
     {
       "name": "S&P 500",
-      "value": 7720.39,
-      "chg": -0.3
+      "value": 7580.07,
+      "chg": -1.82
     },
     {
       "name": "Nasdaq",
-      "value": 26184.72,
-      "chg": -1.38
+      "value": 25437.0,
+      "chg": -2.86
     },
     {
       "name": "Nikkei",
-      "value": 63019.78,
-      "chg": -2.54
+      "value": 63095.11,
+      "chg": -0.31
     },
     {
       "name": "Crude (WTI)",
-      "value": 103.41,
-      "chg": 0.61
+      "value": 100.9,
+      "chg": -3.09
     },
     {
       "name": "USD/INR",
-      "value": 95.18,
-      "chg": -0.03
+      "value": 94.94,
+      "chg": -0.22
     }
   ],
   "warnings": [
@@ -49,237 +49,163 @@
   ],
   "demo": false,
   "market_news": [
-    "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open In Red Amid Negative Global Cues - NDTV",
-    "Stock Market Highlights, Sensex Today: Sensex Closes 905 Points Higher Amid Mixed Global Cues - NDTV",
-    "Stock Markets Today: Sensex, Nifty Tumble as IT Stocks, Crude Prices Weigh - Rediff",
-    "29 October, 2026 Stock Market Updates: Sensex and Nifty flat, IT stocks in action with TCS being top gainer - India TV News"
+    "Sensex Today | Stock Market LIVE Updates: GIFT Nifty hints at gap-up opening; US, Asian markets decline - Moneycontrol.com",
+    "Stock Market Today: Gift Nifty, Tech Stocks Selloff To Oil Prices; Five Key Factors For Sensex, Nifty 50 On Nov 2 - NDTV Profit",
+    "Stock market outlook today, 2 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+    "Stock Market LIVE Updates, Sensex Today: Markets Likely To Start Higher As Oil Prices Ease, GST Collections Rise - NDTV"
   ],
   "buys": [
     {
       "symbol": "INFY",
-      "price": 1146.5,
-      "atr": 42.18354626039431,
-      "chg": 2.0789720944109025,
-      "rsi": 59.09287603611947,
-      "vol_ratio": 0.8335667227895104,
+      "price": 1185.0,
+      "atr": 41.92119425703335,
+      "chg": 3.3580462276493694,
+      "rsi": 64.36335416633011,
+      "vol_ratio": 0.7742765763951468,
       "buy": 5,
       "sell": 0,
       "why_buy": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 59: strong but not overheated",
-        "Up 2.1% yesterday",
+        "RSI 64: strong but not overheated",
+        "Up 3.4% yesterday",
         "Closed near the day's high"
       ],
       "why_sell": [],
-      "entry": 1146.5,
-      "stop": 1104.32,
-      "target": 1209.78,
+      "entry": 1185.0,
+      "stop": 1143.08,
+      "target": 1247.88,
       "qty": 23,
-      "invest": 26370,
-      "max_loss": 970,
-      "profit": 1455,
+      "invest": 27255,
+      "max_loss": 964,
+      "profit": 1446,
       "side": "BUY",
       "score": 5,
       "reasons": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 59: strong but not overheated",
-        "Up 2.1% yesterday",
+        "RSI 64: strong but not overheated",
+        "Up 3.4% yesterday",
         "Closed near the day's high"
       ],
       "headlines": [
         "Infosys Share Price - Live NSE: INFY Stock Price & Chart - Upstox",
-        "Infosys INFY Physical Share Demat Special Window 2027 - Kalkine India",
-        "INFY Share Price Today - Infosys Ltd. Stock Price Live NSE/BSE - Univest"
-      ],
-      "news_flag": false
-    },
-    {
-      "symbol": "ADANIPORTS",
-      "price": 1872.0,
-      "atr": 50.56399265304614,
-      "chg": 6.285127354963094,
-      "rsi": 64.83061537174771,
-      "vol_ratio": 2.3806534499721317,
-      "buy": 5,
-      "sell": 0,
-      "why_buy": [
-        "Uptrend: price above 20 and 50 day averages",
-        "RSI 65: strong but not overheated",
-        "Volume 2.4x average on a green day",
-        "Closed near the day's high"
-      ],
-      "why_sell": [],
-      "entry": 1872.0,
-      "stop": 1821.44,
-      "target": 1947.85,
-      "qty": 17,
-      "invest": 31824,
-      "max_loss": 860,
-      "profit": 1289,
-      "side": "BUY",
-      "score": 5,
-      "reasons": [
-        "Uptrend: price above 20 and 50 day averages",
-        "RSI 65: strong but not overheated",
-        "Volume 2.4x average on a green day",
-        "Closed near the day's high"
-      ],
-      "headlines": [
-        "Adani Ports and Special Economic Zone (NSEI:ADANIPORTS) Stock Forecast & Analyst Predictions - Simply Wall St",
-        "ADANIPORTS Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
-        "Adani Ports share price tanks 3% after Q1 results 2026. Should you buy, sell or hold? - Livemint"
-      ],
-      "news_flag": false
-    },
-    {
-      "symbol": "WIPRO",
-      "price": 190.10000610351562,
-      "atr": 5.107939781725996,
-      "chg": 3.0352336604420715,
-      "rsi": 67.84650268472612,
-      "vol_ratio": 0.7353388088487277,
-      "buy": 5,
-      "sell": 0,
-      "why_buy": [
-        "Uptrend: price above 20 and 50 day averages",
-        "RSI 68: strong but not overheated",
-        "Up 3.0% yesterday",
-        "Closed near the day's high"
-      ],
-      "why_sell": [],
-      "entry": 190.1,
-      "stop": 184.99,
-      "target": 197.76,
-      "qty": 175,
-      "invest": 33268,
-      "max_loss": 894,
-      "profit": 1341,
-      "side": "BUY",
-      "score": 5,
-      "reasons": [
-        "Uptrend: price above 20 and 50 day averages",
-        "RSI 68: strong but not overheated",
-        "Up 3.0% yesterday",
-        "Closed near the day's high"
-      ],
-      "headlines": [
-        "Wipro (NSEI:WIPRO) Stock Forecast & Analyst Predictions - Simply Wall St",
-        "Wipro shares fall over 11% in 2 days; should you buy, sell or hold? - Moneycontrol.com",
-        "Wipro shares tank up to 8% as stock turns ex-date for \u20b915,000 crore buyback - Upstox"
+        "Infosys Limited (INFY.NS) stock price, news, quote and history - Yahoo Finance UK",
+        "Infosys Ltd. Share Price Today - Infosys Ltd. Stock Price Live NSE/BSE - CNBC TV18"
       ],
       "news_flag": false
     }
   ],
   "sells": [
     {
-      "symbol": "HINDALCO",
-      "price": 886.2999877929688,
-      "atr": 22.282797893539406,
-      "chg": -0.833567799388113,
-      "rsi": 39.221003827362416,
-      "vol_ratio": 1.2322293329067753,
+      "symbol": "TATASTEEL",
+      "price": 167.60000610351562,
+      "atr": 4.191905914668274,
+      "chg": -1.0976044710609312,
+      "rsi": 34.433586009170526,
+      "vol_ratio": 0.6941454057279315,
       "buy": 0,
       "sell": 5,
       "why_buy": [],
       "why_sell": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 39: weak momentum",
-        "Volume 1.2x average on a red day",
-        "Down 0.8% yesterday"
+        "RSI 34: weak momentum",
+        "Down 1.1% yesterday",
+        "Closed near the day's low"
       ],
-      "entry": 886.3,
-      "stop": 908.58,
-      "target": 852.88,
-      "qty": 37,
-      "invest": 32793,
-      "max_loss": 824,
-      "profit": 1237,
+      "entry": 167.6,
+      "stop": 171.79,
+      "target": 161.31,
+      "qty": 198,
+      "invest": 33185,
+      "max_loss": 830,
+      "profit": 1245,
       "side": "SELL",
       "score": 5,
       "reasons": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 39: weak momentum",
-        "Volume 1.2x average on a red day",
-        "Down 0.8% yesterday"
+        "RSI 34: weak momentum",
+        "Down 1.1% yesterday",
+        "Closed near the day's low"
       ],
       "headlines": [
-        "Hindalco Share Price Today, August 24, 2026: Closes at \u20b91,058.50 - The Eastern Herald",
-        "Hindalco stock jumps 3.5% as top Nifty gainer, NALCO up 8% after Brazil production cut lifts aluminium... - Moneycontrol.com",
-        "Hindalco Industries (NSEI:HINDALCO) Stock Forecast & Analyst Predictions - Simply Wall St"
+        "Tata Steel Share Price - Live NSE: TATASTEEL Stock Price & Chart - Upstox",
+        "Tata Steel (NSEI:TATASTEEL) Stock Forecast & Analyst Predictions - Simply Wall St",
+        "Tata Steel shares fall 1% despite relief in Rs 1,755 crore mining demand case - Moneycontrol.com"
       ],
       "news_flag": false
     },
     {
-      "symbol": "HEROMOTOCO",
-      "price": 5105.0,
-      "atr": 159.97418052219606,
-      "chg": -4.086425551902306,
-      "rsi": 46.34569132485767,
-      "vol_ratio": 1.9549035646924413,
+      "symbol": "M&M",
+      "price": 2840.300048828125,
+      "atr": 64.31903518877564,
+      "chg": -1.7197214938365013,
+      "rsi": 40.231189347700465,
+      "vol_ratio": 0.7547882500315719,
       "buy": 0,
       "sell": 5,
       "why_buy": [],
       "why_sell": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 46: weak momentum",
-        "Volume 2.0x average on a red day",
+        "RSI 40: weak momentum",
+        "Down 1.7% yesterday",
         "Closed near the day's low"
       ],
-      "entry": 5105.0,
-      "stop": 5264.97,
-      "target": 4865.04,
-      "qty": 6,
-      "invest": 30630,
-      "max_loss": 960,
-      "profit": 1440,
+      "entry": 2840.3,
+      "stop": 2904.62,
+      "target": 2743.82,
+      "qty": 11,
+      "invest": 31243,
+      "max_loss": 708,
+      "profit": 1061,
       "side": "SELL",
       "score": 5,
       "reasons": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 46: weak momentum",
-        "Volume 2.0x average on a red day",
+        "RSI 40: weak momentum",
+        "Down 1.7% yesterday",
         "Closed near the day's low"
       ],
       "headlines": [
-        "Hero MotoCorp (HEROMOTOCO) Share Price Today & Chart - TechGraph",
-        "Hero MotoCorp (NSE:HEROMOTOCO) Allots 20,615 Shares, Approves RSU and PRSU Grants - Kalkine India",
-        "HEROMOTOCO Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView"
+        "Mahindra & Mahindra Share Price - Live NSE: M&M Stock Price & Chart - Upstox",
+        "M&M Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
+        "M&M Financial Services Share Price - Live NSE: M&MFIN Stock Price & Chart - Upstox"
       ],
       "news_flag": false
     },
     {
-      "symbol": "BAJAJFINSV",
-      "price": 1652.4000244140625,
-      "atr": 39.24309605299993,
-      "chg": -1.4669037320177436,
-      "rsi": 30.661263999893833,
-      "vol_ratio": 1.3379811102617594,
+      "symbol": "COALINDIA",
+      "price": 389.0,
+      "atr": 9.571223705663549,
+      "chg": -1.0429931416576887,
+      "rsi": 34.69582914578113,
+      "vol_ratio": 3.074420467076231,
       "buy": 0,
-      "sell": 4,
+      "sell": 5,
       "why_buy": [],
       "why_sell": [
         "Downtrend: price below 20 and 50 day averages",
-        "Volume 1.3x average on a red day",
-        "Down 1.5% yesterday"
+        "RSI 35: weak momentum",
+        "Volume 3.1x average on a red day",
+        "Down 1.0% yesterday"
       ],
-      "entry": 1652.4,
-      "stop": 1691.64,
-      "target": 1593.54,
-      "qty": 20,
-      "invest": 33048,
-      "max_loss": 785,
-      "profit": 1177,
+      "entry": 389.0,
+      "stop": 398.57,
+      "target": 374.64,
+      "qty": 85,
+      "invest": 33065,
+      "max_loss": 814,
+      "profit": 1220,
       "side": "SELL",
-      "score": 4,
+      "score": 5,
       "reasons": [
         "Downtrend: price below 20 and 50 day averages",
-        "Volume 1.3x average on a red day",
-        "Down 1.5% yesterday"
+        "RSI 35: weak momentum",
+        "Volume 3.1x average on a red day",
+        "Down 1.0% yesterday"
       ],
       "headlines": [
-        "Bajaj Finserv Limited Actuals & Estimates (NSE:BAJAJFINSV) - TradingView",
-        "Bajaj Finserv (NSEI:BAJAJFINSV) Stock Forecast & Analyst Predictions - Simply Wall St",
-        "BAJAJFINSV Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView"
+        "Coal India Share Price - Live NSE: COALINDIA Stock Price & Chart - Upstox",
+        "Coal India falls 3% post Q2 results but brokerages upbeat on PSU stock - Business Standard",
+        "Coal India Limited (NSE:COALINDIA) Looks Interesting, And It's About To Pay A Dividend - Simply Wall St"
       ],
       "news_flag": false
     }
