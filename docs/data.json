@@ -1,47 +1,47 @@
 {
-  "date": "Monday, 02 November 2026",
-  "updated": "08:44 IST",
+  "date": "Tuesday, 03 November 2026",
+  "updated": "16:06 IST",
   "mood": "negative",
   "cues": [
     {
       "name": "Nifty 50",
-      "value": 23053.1,
-      "chg": 0.51
+      "value": 23810.85,
+      "chg": 1.58
     },
     {
       "name": "Sensex",
-      "value": 74459.53,
-      "chg": 0.42
+      "value": 76917.85,
+      "chg": 1.62
     },
     {
       "name": "India VIX",
-      "value": 15.3,
-      "chg": 1.19
+      "value": 15.72,
+      "chg": 1.44
     },
     {
       "name": "S&P 500",
-      "value": 7580.07,
-      "chg": -1.82
+      "value": 7541.4,
+      "chg": -0.51
     },
     {
       "name": "Nasdaq",
-      "value": 25437.0,
-      "chg": -2.86
+      "value": 25164.31,
+      "chg": -1.07
     },
     {
       "name": "Nikkei",
-      "value": 63095.11,
-      "chg": -0.31
+      "value": 63081.86,
+      "chg": -0.33
     },
     {
       "name": "Crude (WTI)",
-      "value": 100.9,
-      "chg": -3.09
+      "value": 97.64,
+      "chg": 1.22
     },
     {
       "name": "USD/INR",
-      "value": 94.94,
-      "chg": -0.22
+      "value": 94.74,
+      "chg": -0.17
     }
   ],
   "warnings": [
@@ -49,163 +49,125 @@
   ],
   "demo": false,
   "market_news": [
-    "Sensex Today | Stock Market LIVE Updates: GIFT Nifty hints at gap-up opening; US, Asian markets decline - Moneycontrol.com",
-    "Stock Market Today: Gift Nifty, Tech Stocks Selloff To Oil Prices; Five Key Factors For Sensex, Nifty 50 On Nov 2 - NDTV Profit",
-    "Stock market outlook today, 2 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
-    "Stock Market LIVE Updates, Sensex Today: Markets Likely To Start Higher As Oil Prices Ease, GST Collections Rise - NDTV"
+    "Why is market rising today? Sensex jumps over 1,000 pts, Nifty above 23,700. 6 key factors behind today's - The Economic Times",
+    "Stock market outlook today, 3 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Taiwan cues - Livemint",
+    "Sensex up 800 points: Why the stock market is rising for the second straight day - India Today",
+    "Stock Market Today: Gift Nifty, US-Iran Talks To Crude Oil Prices; Five Key Factors For Sensex, Nifty 50 On Nov 3 - NDTV Profit"
   ],
   "buys": [
     {
-      "symbol": "INFY",
-      "price": 1185.0,
-      "atr": 41.92119425703335,
-      "chg": 3.3580462276493694,
-      "rsi": 64.36335416633011,
-      "vol_ratio": 0.7742765763951468,
+      "symbol": "BHARTIARTL",
+      "price": 2065.0,
+      "atr": 45.822477659207834,
+      "chg": 3.774057724736757,
+      "rsi": 73.66393973441993,
+      "vol_ratio": 1.9385081075970871,
       "buy": 5,
       "sell": 0,
       "why_buy": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 64: strong but not overheated",
-        "Up 3.4% yesterday",
+        "Volume 1.9x average on a green day",
+        "Up 3.8% yesterday",
         "Closed near the day's high"
       ],
       "why_sell": [],
-      "entry": 1185.0,
-      "stop": 1143.08,
-      "target": 1247.88,
-      "qty": 23,
-      "invest": 27255,
-      "max_loss": 964,
-      "profit": 1446,
+      "entry": 2065.0,
+      "stop": 2019.18,
+      "target": 2133.73,
+      "qty": 16,
+      "invest": 33040,
+      "max_loss": 733,
+      "profit": 1100,
       "side": "BUY",
       "score": 5,
       "reasons": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 64: strong but not overheated",
-        "Up 3.4% yesterday",
+        "Volume 1.9x average on a green day",
+        "Up 3.8% yesterday",
         "Closed near the day's high"
       ],
       "headlines": [
-        "Infosys Share Price - Live NSE: INFY Stock Price & Chart - Upstox",
-        "Infosys Limited (INFY.NS) stock price, news, quote and history - Yahoo Finance UK",
-        "Infosys Ltd. Share Price Today - Infosys Ltd. Stock Price Live NSE/BSE - CNBC TV18"
+        "Bharti Airtel Share Price - Live NSE: BHARTIARTL Stock Price & Chart - Upstox",
+        "Bharti Airtel Limited (BHARTIARTL.NS) stock price, news, quote and history - Yahoo Finance Singapore",
+        "Bharti Airtel (BHARTIARTL) Share Price Today & Chart - TechGraph"
+      ],
+      "news_flag": false
+    },
+    {
+      "symbol": "ADANIPORTS",
+      "price": 1866.9000244140625,
+      "atr": 49.113002114038984,
+      "chg": 0.69579419709076,
+      "rsi": 63.04740967390057,
+      "vol_ratio": 1.083895518860683,
+      "buy": 5,
+      "sell": 0,
+      "why_buy": [
+        "Uptrend: price above 20 and 50 day averages",
+        "RSI 63: strong but not overheated",
+        "Up 0.7% yesterday",
+        "Closed near the day's high"
+      ],
+      "why_sell": [],
+      "entry": 1866.9,
+      "stop": 1817.79,
+      "target": 1940.57,
+      "qty": 17,
+      "invest": 31737,
+      "max_loss": 835,
+      "profit": 1252,
+      "side": "BUY",
+      "score": 5,
+      "reasons": [
+        "Uptrend: price above 20 and 50 day averages",
+        "RSI 63: strong but not overheated",
+        "Up 0.7% yesterday",
+        "Closed near the day's high"
+      ],
+      "headlines": [
+        "Adani Ports and Special Economic Zone (NSEI:ADANIPORTS) - Stock Analysis - Simply Wall St",
+        "Adani Ports Jumps 6% After Q2 Profit Rises to \u20b93,682 Crore - HDFC Sky",
+        "Adani Ports and Special Economic Zone Limited Share Price and Technical Levels - Kalkine India"
       ],
       "news_flag": false
     }
   ],
   "sells": [
     {
-      "symbol": "TATASTEEL",
-      "price": 167.60000610351562,
-      "atr": 4.191905914668274,
-      "chg": -1.0976044710609312,
-      "rsi": 34.433586009170526,
-      "vol_ratio": 0.6941454057279315,
+      "symbol": "ADANIENT",
+      "price": 2593.300048828125,
+      "atr": 77.67924137270917,
+      "chg": -0.8449894601517904,
+      "rsi": 42.981865788910845,
+      "vol_ratio": 0.5151071920874689,
       "buy": 0,
       "sell": 5,
       "why_buy": [],
       "why_sell": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 34: weak momentum",
-        "Down 1.1% yesterday",
+        "RSI 43: weak momentum",
+        "Down 0.8% yesterday",
         "Closed near the day's low"
       ],
-      "entry": 167.6,
-      "stop": 171.79,
-      "target": 161.31,
-      "qty": 198,
-      "invest": 33185,
-      "max_loss": 830,
-      "profit": 1245,
+      "entry": 2593.3,
+      "stop": 2670.98,
+      "target": 2476.78,
+      "qty": 12,
+      "invest": 31120,
+      "max_loss": 932,
+      "profit": 1398,
       "side": "SELL",
       "score": 5,
       "reasons": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 34: weak momentum",
-        "Down 1.1% yesterday",
+        "RSI 43: weak momentum",
+        "Down 0.8% yesterday",
         "Closed near the day's low"
       ],
       "headlines": [
-        "Tata Steel Share Price - Live NSE: TATASTEEL Stock Price & Chart - Upstox",
-        "Tata Steel (NSEI:TATASTEEL) Stock Forecast & Analyst Predictions - Simply Wall St",
-        "Tata Steel shares fall 1% despite relief in Rs 1,755 crore mining demand case - Moneycontrol.com"
-      ],
-      "news_flag": false
-    },
-    {
-      "symbol": "M&M",
-      "price": 2840.300048828125,
-      "atr": 64.31903518877564,
-      "chg": -1.7197214938365013,
-      "rsi": 40.231189347700465,
-      "vol_ratio": 0.7547882500315719,
-      "buy": 0,
-      "sell": 5,
-      "why_buy": [],
-      "why_sell": [
-        "Downtrend: price below 20 and 50 day averages",
-        "RSI 40: weak momentum",
-        "Down 1.7% yesterday",
-        "Closed near the day's low"
-      ],
-      "entry": 2840.3,
-      "stop": 2904.62,
-      "target": 2743.82,
-      "qty": 11,
-      "invest": 31243,
-      "max_loss": 708,
-      "profit": 1061,
-      "side": "SELL",
-      "score": 5,
-      "reasons": [
-        "Downtrend: price below 20 and 50 day averages",
-        "RSI 40: weak momentum",
-        "Down 1.7% yesterday",
-        "Closed near the day's low"
-      ],
-      "headlines": [
-        "Mahindra & Mahindra Share Price - Live NSE: M&M Stock Price & Chart - Upstox",
-        "M&M Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
-        "M&M Financial Services Share Price - Live NSE: M&MFIN Stock Price & Chart - Upstox"
-      ],
-      "news_flag": false
-    },
-    {
-      "symbol": "COALINDIA",
-      "price": 389.0,
-      "atr": 9.571223705663549,
-      "chg": -1.0429931416576887,
-      "rsi": 34.69582914578113,
-      "vol_ratio": 3.074420467076231,
-      "buy": 0,
-      "sell": 5,
-      "why_buy": [],
-      "why_sell": [
-        "Downtrend: price below 20 and 50 day averages",
-        "RSI 35: weak momentum",
-        "Volume 3.1x average on a red day",
-        "Down 1.0% yesterday"
-      ],
-      "entry": 389.0,
-      "stop": 398.57,
-      "target": 374.64,
-      "qty": 85,
-      "invest": 33065,
-      "max_loss": 814,
-      "profit": 1220,
-      "side": "SELL",
-      "score": 5,
-      "reasons": [
-        "Downtrend: price below 20 and 50 day averages",
-        "RSI 35: weak momentum",
-        "Volume 3.1x average on a red day",
-        "Down 1.0% yesterday"
-      ],
-      "headlines": [
-        "Coal India Share Price - Live NSE: COALINDIA Stock Price & Chart - Upstox",
-        "Coal India falls 3% post Q2 results but brokerages upbeat on PSU stock - Business Standard",
-        "Coal India Limited (NSE:COALINDIA) Looks Interesting, And It's About To Pay A Dividend - Simply Wall St"
+        "Weekly Recap: NSE:ADANIENT share fall and \u20b92 lakh crore plan - TradingView",
+        "Adani Enterprises (NSEI:ADANIENT) Stock Forecast & Analyst Predictions - Simply Wall St",
+        "ADANIENT Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView"
       ],
       "news_flag": false
     }
