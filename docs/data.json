@@ -1,177 +1,176 @@
 {
-  "date": "Tuesday, 03 November 2026",
-  "updated": "16:06 IST",
-  "mood": "negative",
+  "date": "Wednesday, 04 November 2026",
+  "updated": "16:09 IST",
+  "mood": "mixed",
   "cues": [
     {
       "name": "Nifty 50",
-      "value": 23810.85,
-      "chg": 1.58
+      "value": 23960.6,
+      "chg": 0.63
     },
     {
       "name": "Sensex",
-      "value": 76917.85,
-      "chg": 1.62
+      "value": 77301.4,
+      "chg": 0.5
     },
     {
       "name": "India VIX",
-      "value": 15.72,
-      "chg": 1.44
+      "value": 15.19,
+      "chg": -3.39
     },
     {
       "name": "S&P 500",
-      "value": 7541.4,
-      "chg": -0.51
+      "value": 7568.92,
+      "chg": 0.36
     },
     {
       "name": "Nasdaq",
-      "value": 25164.31,
-      "chg": -1.07
+      "value": 25372.01,
+      "chg": 0.83
     },
     {
       "name": "Nikkei",
-      "value": 63081.86,
-      "chg": -0.33
+      "value": 62188.63,
+      "chg": -1.42
     },
     {
       "name": "Crude (WTI)",
-      "value": 97.64,
-      "chg": 1.22
+      "value": 94.71,
+      "chg": -1.44
     },
     {
       "name": "USD/INR",
-      "value": 94.74,
-      "chg": -0.17
+      "value": 94.64,
+      "chg": -0.09
     }
   ],
-  "warnings": [
-    "Global markets are weak. Buy picks need a higher score today."
-  ],
+  "warnings": [],
   "demo": false,
   "market_news": [
-    "Why is market rising today? Sensex jumps over 1,000 pts, Nifty above 23,700. 6 key factors behind today's - The Economic Times",
-    "Stock market outlook today, 3 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Taiwan cues - Livemint",
-    "Sensex up 800 points: Why the stock market is rising for the second straight day - India Today",
-    "Stock Market Today: Gift Nifty, US-Iran Talks To Crude Oil Prices; Five Key Factors For Sensex, Nifty 50 On Nov 3 - NDTV Profit"
+    "Closing Bell: Sensex gains 384 pts, Nifty above 23,950; Media index up 5%, IT down 2% - Moneycontrol.com",
+    "Stock Market Close: Sensex rises for 5th day, gains 384 pts; Nifty at 23,961; IT only sectoral loser - Business Standard",
+    "- The HinduBusinessLine - BusinessLine",
+    "Sensex, Nifty open flat as IT stocks drag, but FII buying supports market sentiment - ChiniMandi"
   ],
   "buys": [
     {
-      "symbol": "BHARTIARTL",
-      "price": 2065.0,
-      "atr": 45.822477659207834,
-      "chg": 3.774057724736757,
-      "rsi": 73.66393973441993,
-      "vol_ratio": 1.9385081075970871,
-      "buy": 5,
-      "sell": 0,
-      "why_buy": [
-        "Uptrend: price above 20 and 50 day averages",
-        "Volume 1.9x average on a green day",
-        "Up 3.8% yesterday",
-        "Closed near the day's high"
-      ],
-      "why_sell": [],
-      "entry": 2065.0,
-      "stop": 2019.18,
-      "target": 2133.73,
-      "qty": 16,
-      "invest": 33040,
-      "max_loss": 733,
-      "profit": 1100,
-      "side": "BUY",
-      "score": 5,
-      "reasons": [
-        "Uptrend: price above 20 and 50 day averages",
-        "Volume 1.9x average on a green day",
-        "Up 3.8% yesterday",
-        "Closed near the day's high"
-      ],
-      "headlines": [
-        "Bharti Airtel Share Price - Live NSE: BHARTIARTL Stock Price & Chart - Upstox",
-        "Bharti Airtel Limited (BHARTIARTL.NS) stock price, news, quote and history - Yahoo Finance Singapore",
-        "Bharti Airtel (BHARTIARTL) Share Price Today & Chart - TechGraph"
-      ],
-      "news_flag": false
-    },
-    {
       "symbol": "ADANIPORTS",
-      "price": 1866.9000244140625,
-      "atr": 49.113002114038984,
-      "chg": 0.69579419709076,
-      "rsi": 63.04740967390057,
-      "vol_ratio": 1.083895518860683,
-      "buy": 5,
+      "price": 1910.0,
+      "atr": 50.17635910589334,
+      "chg": 2.3086386535060788,
+      "rsi": 67.23923873515915,
+      "vol_ratio": 1.2438742724165472,
+      "buy": 6,
       "sell": 0,
       "why_buy": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 63: strong but not overheated",
-        "Up 0.7% yesterday",
+        "RSI 67: strong but not overheated",
+        "Volume 1.2x average on a green day",
+        "Up 2.3% yesterday",
         "Closed near the day's high"
       ],
       "why_sell": [],
-      "entry": 1866.9,
-      "stop": 1817.79,
-      "target": 1940.57,
+      "entry": 1910.0,
+      "stop": 1859.82,
+      "target": 1985.26,
       "qty": 17,
-      "invest": 31737,
-      "max_loss": 835,
-      "profit": 1252,
+      "invest": 32470,
+      "max_loss": 853,
+      "profit": 1279,
       "side": "BUY",
-      "score": 5,
+      "score": 6,
       "reasons": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 63: strong but not overheated",
-        "Up 0.7% yesterday",
+        "RSI 67: strong but not overheated",
+        "Volume 1.2x average on a green day",
+        "Up 2.3% yesterday",
         "Closed near the day's high"
       ],
       "headlines": [
         "Adani Ports and Special Economic Zone (NSEI:ADANIPORTS) - Stock Analysis - Simply Wall St",
-        "Adani Ports Jumps 6% After Q2 Profit Rises to \u20b93,682 Crore - HDFC Sky",
-        "Adani Ports and Special Economic Zone Limited Share Price and Technical Levels - Kalkine India"
+        "Adani Ports and Special Economic Zone Limited Share Price and Technical Levels - Kalkine India",
+        "Adani Ports and Special Economic Zone Ltd. Share Price, Stock Price - NSE/BSE Live - NDTV Profit"
       ],
       "news_flag": false
-    }
-  ],
-  "sells": [
+    },
     {
-      "symbol": "ADANIENT",
-      "price": 2593.300048828125,
-      "atr": 77.67924137270917,
-      "chg": -0.8449894601517904,
-      "rsi": 42.981865788910845,
-      "vol_ratio": 0.5151071920874689,
-      "buy": 0,
-      "sell": 5,
-      "why_buy": [],
-      "why_sell": [
-        "Downtrend: price below 20 and 50 day averages",
-        "RSI 43: weak momentum",
-        "Down 0.8% yesterday",
-        "Closed near the day's low"
+      "symbol": "TRENT",
+      "price": 3060.0,
+      "atr": 81.52312657701498,
+      "chg": 0.7739173390416632,
+      "rsi": 63.76754529222615,
+      "vol_ratio": 0.6124843146768943,
+      "buy": 5,
+      "sell": 0,
+      "why_buy": [
+        "Uptrend: price above 20 and 50 day averages",
+        "RSI 64: strong but not overheated",
+        "Up 0.8% yesterday",
+        "Closed near the day's high"
       ],
-      "entry": 2593.3,
-      "stop": 2670.98,
-      "target": 2476.78,
-      "qty": 12,
-      "invest": 31120,
-      "max_loss": 932,
-      "profit": 1398,
-      "side": "SELL",
+      "why_sell": [],
+      "entry": 3060.0,
+      "stop": 2978.48,
+      "target": 3182.28,
+      "qty": 10,
+      "invest": 30600,
+      "max_loss": 815,
+      "profit": 1223,
+      "side": "BUY",
       "score": 5,
       "reasons": [
-        "Downtrend: price below 20 and 50 day averages",
-        "RSI 43: weak momentum",
-        "Down 0.8% yesterday",
-        "Closed near the day's low"
+        "Uptrend: price above 20 and 50 day averages",
+        "RSI 64: strong but not overheated",
+        "Up 0.8% yesterday",
+        "Closed near the day's high"
       ],
       "headlines": [
-        "Weekly Recap: NSE:ADANIENT share fall and \u20b92 lakh crore plan - TradingView",
-        "Adani Enterprises (NSEI:ADANIENT) Stock Forecast & Analyst Predictions - Simply Wall St",
-        "ADANIENT Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView"
+        "TRENT Share Price Today - Trent on NSE/BSE - scanx.trade",
+        "Trent shares jump over 6% on strong Q2 nos; brokerages stay bullish - Business Standard",
+        "Trent shares jump up to 7% on strong Q2 earnings for September quarter; should you buy, sell or hold? - Moneycontrol.com"
       ],
       "news_flag": false
+    },
+    {
+      "symbol": "HDFCBANK",
+      "price": 736.7000122070312,
+      "atr": 15.475336279670389,
+      "chg": 1.5437646046907227,
+      "rsi": 62.097971092514726,
+      "vol_ratio": 1.6832746751815453,
+      "buy": 4,
+      "sell": 0,
+      "why_buy": [
+        "RSI 62: strong but not overheated",
+        "Volume 1.7x average on a green day",
+        "Up 1.5% yesterday",
+        "Closed near the day's high"
+      ],
+      "why_sell": [],
+      "entry": 736.7,
+      "stop": 721.22,
+      "target": 759.91,
+      "qty": 45,
+      "invest": 33152,
+      "max_loss": 696,
+      "profit": 1045,
+      "side": "BUY",
+      "score": 4,
+      "reasons": [
+        "RSI 62: strong but not overheated",
+        "Volume 1.7x average on a green day",
+        "Up 1.5% yesterday",
+        "Closed near the day's high"
+      ],
+      "headlines": [
+        "HDFC Bank Share Price - Live NSE: HDFCBANK Stock Price & Chart - Upstox",
+        "Reliance Industries shares: Another record! RIL biggest on MTF book with 60% jump; dethrones HDFC Bank | Buy or sell? - Livemint",
+        "HDFC Bank share price surges over 7% in 5 sessions; new leadership and challenges ahead - Upstox"
+      ],
+      "news_flag": true
     }
   ],
+  "sells": [],
   "capital": 100000,
   "loss_limit": 2000
 }
