@@ -1,176 +1,213 @@
 {
-  "date": "Wednesday, 04 November 2026",
-  "updated": "16:09 IST",
-  "mood": "mixed",
+  "date": "Thursday, 05 November 2026",
+  "updated": "16:02 IST",
+  "mood": "positive",
   "cues": [
     {
       "name": "Nifty 50",
-      "value": 23960.6,
-      "chg": 0.63
+      "value": 24536.6,
+      "chg": 2.4
     },
     {
       "name": "Sensex",
-      "value": 77301.4,
-      "chg": 0.5
+      "value": 79310.01,
+      "chg": 2.6
     },
     {
       "name": "India VIX",
-      "value": 15.19,
-      "chg": -3.39
+      "value": 15.58,
+      "chg": 2.57
     },
     {
       "name": "S&P 500",
-      "value": 7568.92,
-      "chg": 0.36
+      "value": 7688.62,
+      "chg": 1.58
     },
     {
       "name": "Nasdaq",
-      "value": 25372.01,
-      "chg": 0.83
+      "value": 25736.51,
+      "chg": 1.44
     },
     {
       "name": "Nikkei",
-      "value": 62188.63,
-      "chg": -1.42
+      "value": 61077.9,
+      "chg": -1.79
     },
     {
       "name": "Crude (WTI)",
-      "value": 94.71,
-      "chg": -1.44
+      "value": 88.67,
+      "chg": 0.62
     },
     {
       "name": "USD/INR",
-      "value": 94.64,
-      "chg": -0.09
+      "value": 94.47,
+      "chg": -0.29
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "Global markets are strong. Short picks need a higher score today."
+  ],
   "demo": false,
   "market_news": [
-    "Closing Bell: Sensex gains 384 pts, Nifty above 23,950; Media index up 5%, IT down 2% - Moneycontrol.com",
-    "Stock Market Close: Sensex rises for 5th day, gains 384 pts; Nifty at 23,961; IT only sectoral loser - Business Standard",
-    "- The HinduBusinessLine - BusinessLine",
-    "Sensex, Nifty open flat as IT stocks drag, but FII buying supports market sentiment - ChiniMandi"
+    "Sensex settles 1,200 pts higher, Nifty ends near 23,450: Strong RIL Q2 results among key factors behind... - Moneycontrol.com",
+    "Stock Market Today Highlights: BSE Sensex settles over 2,000 points higher, NSE Nifty50 ends session above 24,500 - The Times of India",
+    "SENSEX rallies over 1,600 pts; NIFTY50 jumps 1.8% as crude oil plummets; key factors behind today's stock market surge - Upstox",
+    "Sensex falls 700 pts from day's high, Nifty near 23,750: Profit booking among key factors behind markets... - Moneycontrol.com"
   ],
   "buys": [
     {
-      "symbol": "ADANIPORTS",
-      "price": 1910.0,
-      "atr": 50.17635910589334,
-      "chg": 2.3086386535060788,
-      "rsi": 67.23923873515915,
-      "vol_ratio": 1.2438742724165472,
-      "buy": 6,
-      "sell": 0,
-      "why_buy": [
-        "Uptrend: price above 20 and 50 day averages",
-        "RSI 67: strong but not overheated",
-        "Volume 1.2x average on a green day",
-        "Up 2.3% yesterday",
-        "Closed near the day's high"
-      ],
-      "why_sell": [],
-      "entry": 1910.0,
-      "stop": 1859.82,
-      "target": 1985.26,
-      "qty": 17,
-      "invest": 32470,
-      "max_loss": 853,
-      "profit": 1279,
-      "side": "BUY",
-      "score": 6,
-      "reasons": [
-        "Uptrend: price above 20 and 50 day averages",
-        "RSI 67: strong but not overheated",
-        "Volume 1.2x average on a green day",
-        "Up 2.3% yesterday",
-        "Closed near the day's high"
-      ],
-      "headlines": [
-        "Adani Ports and Special Economic Zone (NSEI:ADANIPORTS) - Stock Analysis - Simply Wall St",
-        "Adani Ports and Special Economic Zone Limited Share Price and Technical Levels - Kalkine India",
-        "Adani Ports and Special Economic Zone Ltd. Share Price, Stock Price - NSE/BSE Live - NDTV Profit"
-      ],
-      "news_flag": false
-    },
-    {
-      "symbol": "TRENT",
-      "price": 3060.0,
-      "atr": 81.52312657701498,
-      "chg": 0.7739173390416632,
-      "rsi": 63.76754529222615,
-      "vol_ratio": 0.6124843146768943,
+      "symbol": "INFY",
+      "price": 1167.4000244140625,
+      "atr": 40.1416935872143,
+      "chg": 3.4745678903345123,
+      "rsi": 62.39791528731893,
+      "vol_ratio": 0.604655338974999,
       "buy": 5,
       "sell": 0,
       "why_buy": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 64: strong but not overheated",
-        "Up 0.8% yesterday",
+        "RSI 62: strong but not overheated",
+        "Up 3.5% yesterday",
         "Closed near the day's high"
       ],
       "why_sell": [],
-      "entry": 3060.0,
-      "stop": 2978.48,
-      "target": 3182.28,
-      "qty": 10,
-      "invest": 30600,
-      "max_loss": 815,
-      "profit": 1223,
+      "entry": 1167.4,
+      "stop": 1127.26,
+      "target": 1227.61,
+      "qty": 24,
+      "invest": 28018,
+      "max_loss": 963,
+      "profit": 1445,
       "side": "BUY",
       "score": 5,
       "reasons": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 64: strong but not overheated",
-        "Up 0.8% yesterday",
+        "RSI 62: strong but not overheated",
+        "Up 3.5% yesterday",
         "Closed near the day's high"
       ],
       "headlines": [
-        "TRENT Share Price Today - Trent on NSE/BSE - scanx.trade",
-        "Trent shares jump over 6% on strong Q2 nos; brokerages stay bullish - Business Standard",
-        "Trent shares jump up to 7% on strong Q2 earnings for September quarter; should you buy, sell or hold? - Moneycontrol.com"
+        "Infosys Share Price - Live NSE: INFY Stock Price & Chart - Upstox",
+        "INFY Share Price Today - Infosys Ltd. Stock Price Live NSE/BSE - Univest",
+        "Infosys Ltd. Share Price Today - Infosys Ltd. Stock Price Live NSE/BSE - CNBC TV18"
       ],
       "news_flag": false
     },
     {
-      "symbol": "HDFCBANK",
-      "price": 736.7000122070312,
-      "atr": 15.475336279670389,
-      "chg": 1.5437646046907227,
-      "rsi": 62.097971092514726,
-      "vol_ratio": 1.6832746751815453,
+      "symbol": "TCS",
+      "price": 2495.699951171875,
+      "atr": 71.28132694512469,
+      "chg": 2.4507369118175193,
+      "rsi": 63.007944766519316,
+      "vol_ratio": 1.0976868879730577,
       "buy": 4,
       "sell": 0,
       "why_buy": [
-        "RSI 62: strong but not overheated",
-        "Volume 1.7x average on a green day",
-        "Up 1.5% yesterday",
-        "Closed near the day's high"
+        "Uptrend: price above 20 and 50 day averages",
+        "RSI 63: strong but not overheated",
+        "Up 2.5% yesterday"
       ],
       "why_sell": [],
-      "entry": 736.7,
-      "stop": 721.22,
-      "target": 759.91,
-      "qty": 45,
-      "invest": 33152,
-      "max_loss": 696,
-      "profit": 1045,
+      "entry": 2495.7,
+      "stop": 2424.42,
+      "target": 2602.62,
+      "qty": 13,
+      "invest": 32444,
+      "max_loss": 927,
+      "profit": 1390,
       "side": "BUY",
       "score": 4,
       "reasons": [
-        "RSI 62: strong but not overheated",
-        "Volume 1.7x average on a green day",
-        "Up 1.5% yesterday",
+        "Uptrend: price above 20 and 50 day averages",
+        "RSI 63: strong but not overheated",
+        "Up 2.5% yesterday"
+      ],
+      "headlines": [
+        "TCS Share Price - Upstox",
+        "Tata Consultancy Services (TCS) Share Price Today (NSE), Market News - TechGraph",
+        "TCS share price surges 28% in October, hits over 7-month high; here's why - Business Standard"
+      ],
+      "news_flag": false
+    },
+    {
+      "symbol": "ICICIBANK",
+      "price": 1500.0,
+      "atr": 30.06315756469284,
+      "chg": 5.3296837100803796,
+      "rsi": 73.4493195592629,
+      "vol_ratio": 2.8028020945129897,
+      "buy": 4,
+      "sell": 0,
+      "why_buy": [
+        "Uptrend: price above 20 and 50 day averages",
+        "Volume 2.8x average on a green day",
+        "Closed near the day's high"
+      ],
+      "why_sell": [],
+      "entry": 1500.0,
+      "stop": 1469.94,
+      "target": 1545.09,
+      "qty": 22,
+      "invest": 33000,
+      "max_loss": 661,
+      "profit": 992,
+      "side": "BUY",
+      "score": 4,
+      "reasons": [
+        "Uptrend: price above 20 and 50 day averages",
+        "Volume 2.8x average on a green day",
         "Closed near the day's high"
       ],
       "headlines": [
-        "HDFC Bank Share Price - Live NSE: HDFCBANK Stock Price & Chart - Upstox",
-        "Reliance Industries shares: Another record! RIL biggest on MTF book with 60% jump; dethrones HDFC Bank | Buy or sell? - Livemint",
-        "HDFC Bank share price surges over 7% in 5 sessions; new leadership and challenges ahead - Upstox"
+        "ICICI Bank (NSEI:ICICIBANK) Stock Forecast & Analyst Predictions - Simply Wall St",
+        "Axis Bank to ICICI Bank - Why banking stocks are falling today? - Livemint",
+        "ICICIBANK Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView"
       ],
       "news_flag": true
     }
   ],
-  "sells": [],
+  "sells": [
+    {
+      "symbol": "COALINDIA",
+      "price": 394.29998779296875,
+      "atr": 9.35662197690246,
+      "chg": -1.3386728850798835,
+      "rsi": 47.75914885395119,
+      "vol_ratio": 1.7863305414939972,
+      "buy": 0,
+      "sell": 6,
+      "why_buy": [],
+      "why_sell": [
+        "Downtrend: price below 20 and 50 day averages",
+        "RSI 48: weak momentum",
+        "Volume 1.8x average on a red day",
+        "Down 1.3% yesterday",
+        "Closed near the day's low"
+      ],
+      "entry": 394.3,
+      "stop": 403.66,
+      "target": 380.27,
+      "qty": 84,
+      "invest": 33121,
+      "max_loss": 786,
+      "profit": 1179,
+      "side": "SELL",
+      "score": 6,
+      "reasons": [
+        "Downtrend: price below 20 and 50 day averages",
+        "RSI 48: weak momentum",
+        "Volume 1.8x average on a red day",
+        "Down 1.3% yesterday",
+        "Closed near the day's low"
+      ],
+      "headlines": [
+        "Coal India Share Price - Live NSE: COALINDIA Stock Price & Chart - Upstox",
+        "Coal India Limited (NSE:COALINDIA) Looks Interesting, And It's About To Pay A Dividend - Simply Wall St",
+        "Coal India to sell 10% stake in unit Mahanadi Coalfields' IPO - Reuters"
+      ],
+      "news_flag": false
+    }
+  ],
   "capital": 100000,
   "loss_limit": 2000
 }
