@@ -1,209 +1,173 @@
 {
-  "date": "Thursday, 05 November 2026",
-  "updated": "16:02 IST",
-  "mood": "positive",
+  "date": "Friday, 06 November 2026",
+  "updated": "16:05 IST",
+  "mood": "negative",
   "cues": [
     {
       "name": "Nifty 50",
-      "value": 24536.6,
-      "chg": 2.4
+      "value": 25030.35,
+      "chg": 2.01
     },
     {
       "name": "Sensex",
-      "value": 79310.01,
-      "chg": 2.6
+      "value": 81028.02,
+      "chg": 2.17
     },
     {
       "name": "India VIX",
-      "value": 15.58,
-      "chg": 2.57
+      "value": 17.47,
+      "chg": 12.1
     },
     {
       "name": "S&P 500",
-      "value": 7688.62,
-      "chg": 1.58
+      "value": 7353.73,
+      "chg": -4.36
     },
     {
       "name": "Nasdaq",
-      "value": 25736.51,
-      "chg": 1.44
+      "value": 24315.0,
+      "chg": -5.52
     },
     {
       "name": "Nikkei",
-      "value": 61077.9,
-      "chg": -1.79
+      "value": 57434.77,
+      "chg": -5.96
     },
     {
       "name": "Crude (WTI)",
-      "value": 88.67,
-      "chg": 0.62
+      "value": 90.2,
+      "chg": -0.35
     },
     {
       "name": "USD/INR",
-      "value": 94.47,
-      "chg": -0.29
+      "value": 93.91,
+      "chg": -0.64
     }
   ],
   "warnings": [
-    "Global markets are strong. Short picks need a higher score today."
+    "Global markets are weak. Buy picks need a higher score today."
   ],
   "demo": false,
   "market_news": [
-    "Sensex settles 1,200 pts higher, Nifty ends near 23,450: Strong RIL Q2 results among key factors behind... - Moneycontrol.com",
-    "Stock Market Today Highlights: BSE Sensex settles over 2,000 points higher, NSE Nifty50 ends session above 24,500 - The Times of India",
+    "Why is market rising today? Sensex jumps 1,200 pts, Nifty tops 24,850 as Diwali fireworks continue. 4 fact - The Economic Times",
     "SENSEX rallies over 1,600 pts; NIFTY50 jumps 1.8% as crude oil plummets; key factors behind today's stock market surge - Upstox",
-    "Sensex falls 700 pts from day's high, Nifty near 23,750: Profit booking among key factors behind markets... - Moneycontrol.com"
+    "Stock Market Today: Sensex, Nifty Trade Flat Amid Bloodbath In Global Markets - ETV Bharat",
+    "Nifty, Sensex open flat amid bloodbath in global markets - ChiniMandi"
   ],
   "buys": [
     {
-      "symbol": "INFY",
-      "price": 1167.4000244140625,
-      "atr": 40.1416935872143,
-      "chg": 3.4745678903345123,
-      "rsi": 62.39791528731893,
-      "vol_ratio": 0.604655338974999,
+      "symbol": "ADANIPORTS",
+      "price": 1936.5999755859375,
+      "atr": 52.13198956588376,
+      "chg": 2.7592062333457568,
+      "rsi": 67.53110112378332,
+      "vol_ratio": 1.0564329041210914,
       "buy": 5,
       "sell": 0,
       "why_buy": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 62: strong but not overheated",
-        "Up 3.5% yesterday",
+        "RSI 68: strong but not overheated",
+        "Up 2.8% yesterday",
         "Closed near the day's high"
       ],
       "why_sell": [],
-      "entry": 1167.4,
-      "stop": 1127.26,
-      "target": 1227.61,
-      "qty": 24,
-      "invest": 28018,
-      "max_loss": 963,
-      "profit": 1445,
+      "entry": 1936.6,
+      "stop": 1884.47,
+      "target": 2014.8,
+      "qty": 17,
+      "invest": 32922,
+      "max_loss": 886,
+      "profit": 1329,
       "side": "BUY",
       "score": 5,
       "reasons": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 62: strong but not overheated",
-        "Up 3.5% yesterday",
+        "RSI 68: strong but not overheated",
+        "Up 2.8% yesterday",
         "Closed near the day's high"
       ],
       "headlines": [
-        "Infosys Share Price - Live NSE: INFY Stock Price & Chart - Upstox",
-        "INFY Share Price Today - Infosys Ltd. Stock Price Live NSE/BSE - Univest",
-        "Infosys Ltd. Share Price Today - Infosys Ltd. Stock Price Live NSE/BSE - CNBC TV18"
+        "Adani Ports and Special Economic Zone (NSEI:ADANIPORTS) Stock Forecast & Analyst Predictions - Simply Wall St",
+        "Adani Ports share price tanks 3% after Q1 results 2026. Should you buy, sell or hold? - Livemint",
+        "Stock Picks Today: HUL, TVS Motor, NSE, Meesho, Pidilite, And More On Brokerages' Radar - NDTV Profit"
       ],
       "news_flag": false
     },
     {
-      "symbol": "TCS",
-      "price": 2495.699951171875,
-      "atr": 71.28132694512469,
-      "chg": 2.4507369118175193,
-      "rsi": 63.007944766519316,
-      "vol_ratio": 1.0976868879730577,
-      "buy": 4,
+      "symbol": "TRENT",
+      "price": 3079.0,
+      "atr": 80.91700157866234,
+      "chg": 0.7855973813420514,
+      "rsi": 64.70926694578262,
+      "vol_ratio": 0.5932502187002808,
+      "buy": 5,
       "sell": 0,
       "why_buy": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 63: strong but not overheated",
-        "Up 2.5% yesterday"
+        "RSI 65: strong but not overheated",
+        "Up 0.8% yesterday",
+        "Closed near the day's high"
       ],
       "why_sell": [],
-      "entry": 2495.7,
-      "stop": 2424.42,
-      "target": 2602.62,
-      "qty": 13,
-      "invest": 32444,
-      "max_loss": 927,
-      "profit": 1390,
+      "entry": 3079.0,
+      "stop": 2998.08,
+      "target": 3200.38,
+      "qty": 10,
+      "invest": 30790,
+      "max_loss": 809,
+      "profit": 1214,
       "side": "BUY",
-      "score": 4,
+      "score": 5,
       "reasons": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 63: strong but not overheated",
-        "Up 2.5% yesterday"
+        "RSI 65: strong but not overheated",
+        "Up 0.8% yesterday",
+        "Closed near the day's high"
       ],
       "headlines": [
-        "TCS Share Price - Upstox",
-        "Tata Consultancy Services (TCS) Share Price Today (NSE), Market News - TechGraph",
-        "TCS share price surges 28% in October, hits over 7-month high; here's why - Business Standard"
+        "Trent (NSEI:TRENT) Stock Forecast & Analyst Predictions - Simply Wall St",
+        "Trent shares surge 11% as revenue rises 23% in Q2; brokerages strike bullish tone - Moneycontrol.com",
+        "Trent share price: Tata Group stock jumps 6% after Q2 results | Should you buy or sell? Check target, upside - Livemint"
       ],
       "news_flag": false
-    },
-    {
-      "symbol": "ICICIBANK",
-      "price": 1500.0,
-      "atr": 30.06315756469284,
-      "chg": 5.3296837100803796,
-      "rsi": 73.4493195592629,
-      "vol_ratio": 2.8028020945129897,
-      "buy": 4,
-      "sell": 0,
-      "why_buy": [
-        "Uptrend: price above 20 and 50 day averages",
-        "Volume 2.8x average on a green day",
-        "Closed near the day's high"
-      ],
-      "why_sell": [],
-      "entry": 1500.0,
-      "stop": 1469.94,
-      "target": 1545.09,
-      "qty": 22,
-      "invest": 33000,
-      "max_loss": 661,
-      "profit": 992,
-      "side": "BUY",
-      "score": 4,
-      "reasons": [
-        "Uptrend: price above 20 and 50 day averages",
-        "Volume 2.8x average on a green day",
-        "Closed near the day's high"
-      ],
-      "headlines": [
-        "ICICI Bank (NSEI:ICICIBANK) Stock Forecast & Analyst Predictions - Simply Wall St",
-        "Axis Bank to ICICI Bank - Why banking stocks are falling today? - Livemint",
-        "ICICIBANK Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView"
-      ],
-      "news_flag": true
     }
   ],
   "sells": [
     {
-      "symbol": "COALINDIA",
-      "price": 394.29998779296875,
-      "atr": 9.35662197690246,
-      "chg": -1.3386728850798835,
-      "rsi": 47.75914885395119,
-      "vol_ratio": 1.7863305414939972,
+      "symbol": "BRITANNIA",
+      "price": 4785.0,
+      "atr": 128.44188775748157,
+      "chg": -3.9214467471151426,
+      "rsi": 49.2848886239538,
+      "vol_ratio": 2.087794076309253,
       "buy": 0,
-      "sell": 6,
+      "sell": 4,
       "why_buy": [],
       "why_sell": [
-        "Downtrend: price below 20 and 50 day averages",
-        "RSI 48: weak momentum",
-        "Volume 1.8x average on a red day",
-        "Down 1.3% yesterday",
+        "RSI 49: weak momentum",
+        "Volume 2.1x average on a red day",
+        "Down 3.9% yesterday",
         "Closed near the day's low"
       ],
-      "entry": 394.3,
-      "stop": 403.66,
-      "target": 380.27,
-      "qty": 84,
-      "invest": 33121,
-      "max_loss": 786,
-      "profit": 1179,
+      "entry": 4785.0,
+      "stop": 4913.44,
+      "target": 4592.34,
+      "qty": 6,
+      "invest": 28710,
+      "max_loss": 771,
+      "profit": 1156,
       "side": "SELL",
-      "score": 6,
+      "score": 4,
       "reasons": [
-        "Downtrend: price below 20 and 50 day averages",
-        "RSI 48: weak momentum",
-        "Volume 1.8x average on a red day",
-        "Down 1.3% yesterday",
+        "RSI 49: weak momentum",
+        "Volume 2.1x average on a red day",
+        "Down 3.9% yesterday",
         "Closed near the day's low"
       ],
       "headlines": [
-        "Coal India Share Price - Live NSE: COALINDIA Stock Price & Chart - Upstox",
-        "Coal India Limited (NSE:COALINDIA) Looks Interesting, And It's About To Pay A Dividend - Simply Wall St",
-        "Coal India to sell 10% stake in unit Mahanadi Coalfields' IPO - Reuters"
+        "Britannia shares jump 5% after Q1 nos; Nomura retains 'Buy' for 20% upside - Business Standard",
+        "Britannia shares fall 4.5% as firm warns about price hikes post-Q4 results - Moneycontrol.com",
+        "Britannia Industries (NSEI:BRITANNIA) Stock Forecast & Analyst Predictions - Simply Wall St"
       ],
       "news_flag": false
     }
