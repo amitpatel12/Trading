@@ -1,177 +1,174 @@
 {
-  "date": "Friday, 06 November 2026",
-  "updated": "16:05 IST",
-  "mood": "negative",
+  "date": "Monday, 09 November 2026",
+  "updated": "16:36 IST",
+  "mood": "positive",
   "cues": [
     {
       "name": "Nifty 50",
-      "value": 25030.35,
-      "chg": 2.01
+      "value": 25044.65,
+      "chg": 0.06
     },
     {
       "name": "Sensex",
-      "value": 81028.02,
-      "chg": 2.17
+      "value": 81106.65,
+      "chg": 0.1
     },
     {
       "name": "India VIX",
-      "value": 17.47,
-      "chg": 12.1
+      "value": 17.42,
+      "chg": -0.29
     },
     {
       "name": "S&P 500",
-      "value": 7353.73,
-      "chg": -4.36
+      "value": 7376.86,
+      "chg": 0.31
     },
     {
       "name": "Nasdaq",
-      "value": 24315.0,
-      "chg": -5.52
+      "value": 24579.43,
+      "chg": 1.09
     },
     {
       "name": "Nikkei",
-      "value": 57434.77,
-      "chg": -5.96
+      "value": 58775.5,
+      "chg": 2.33
     },
     {
       "name": "Crude (WTI)",
-      "value": 90.2,
-      "chg": -0.35
+      "value": 89.56,
+      "chg": -1.4
     },
     {
       "name": "USD/INR",
-      "value": 93.91,
-      "chg": -0.64
+      "value": 93.93,
+      "chg": -0.56
     }
   ],
   "warnings": [
-    "Global markets are weak. Buy picks need a higher score today."
+    "Global markets are strong. Short picks need a higher score today."
   ],
   "demo": false,
   "market_news": [
-    "Why is market rising today? Sensex jumps 1,200 pts, Nifty tops 24,850 as Diwali fireworks continue. 4 fact - The Economic Times",
-    "SENSEX rallies over 1,600 pts; NIFTY50 jumps 1.8% as crude oil plummets; key factors behind today's stock market surge - Upstox",
-    "Stock Market Today: Sensex, Nifty Trade Flat Amid Bloodbath In Global Markets - ETV Bharat",
-    "Nifty, Sensex open flat amid bloodbath in global markets - ChiniMandi"
+    "Stock Market Today Highlights: BSE Sensex ends over 100 points higher, Nifty50 closes above 25,000 in first regular trading session of Samvat 2083 - The Times of India",
+    "Stock Market Highlights: Sensex ends 107 pts higher, Nifty near 25,050; L&T, Trent rise 2% each - The Economic Times",
+    "Stock Market Highlights, Sensex Today: Sensex, Nifty Close Flat, Tech Stocks Drag - NDTV",
+    "Sensex Today | Stock Market Live: Sensex ends 107 pts higher, Nifty above 25,000; PSU banks surge 3.7%, IT slides 1.2% - Moneycontrol.com"
   ],
   "buys": [
     {
-      "symbol": "ADANIPORTS",
-      "price": 1936.5999755859375,
-      "atr": 52.13198956588376,
-      "chg": 2.7592062333457568,
-      "rsi": 67.53110112378332,
-      "vol_ratio": 1.0564329041210914,
+      "symbol": "TRENT",
+      "price": 3119.199951171875,
+      "atr": 82.80448731810307,
+      "chg": 1.3056171215289014,
+      "rsi": 67.03604398293206,
+      "vol_ratio": 0.9727214619301139,
       "buy": 5,
       "sell": 0,
       "why_buy": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 68: strong but not overheated",
-        "Up 2.8% yesterday",
+        "RSI 67: strong but not overheated",
+        "Up 1.3% yesterday",
         "Closed near the day's high"
       ],
       "why_sell": [],
-      "entry": 1936.6,
-      "stop": 1884.47,
-      "target": 2014.8,
-      "qty": 17,
-      "invest": 32922,
-      "max_loss": 886,
-      "profit": 1329,
+      "entry": 3119.2,
+      "stop": 3036.4,
+      "target": 3243.41,
+      "qty": 10,
+      "invest": 31192,
+      "max_loss": 828,
+      "profit": 1242,
       "side": "BUY",
       "score": 5,
       "reasons": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 68: strong but not overheated",
-        "Up 2.8% yesterday",
+        "RSI 67: strong but not overheated",
+        "Up 1.3% yesterday",
         "Closed near the day's high"
       ],
       "headlines": [
-        "Adani Ports and Special Economic Zone (NSEI:ADANIPORTS) Stock Forecast & Analyst Predictions - Simply Wall St",
-        "Adani Ports share price tanks 3% after Q1 results 2026. Should you buy, sell or hold? - Livemint",
-        "Stock Picks Today: HUL, TVS Motor, NSE, Meesho, Pidilite, And More On Brokerages' Radar - NDTV Profit"
+        "Trent shares surge 11% as revenue rises 23% in Q2; brokerages strike bullish tone - Moneycontrol.com",
+        "Trent (NSEI:TRENT) Stock Forecast & Analyst Predictions - Simply Wall St",
+        "Trent Plunges 34% After Bonus? Reality Behind the Sharp NSE Drop Revealed - NiftyTrader"
       ],
-      "news_flag": false
+      "news_flag": true
     },
     {
-      "symbol": "TRENT",
-      "price": 3079.0,
-      "atr": 80.91700157866234,
-      "chg": 0.7855973813420514,
-      "rsi": 64.70926694578262,
-      "vol_ratio": 0.5932502187002808,
-      "buy": 5,
+      "symbol": "SBIN",
+      "price": 1042.0,
+      "atr": 22.134652527065427,
+      "chg": 2.307314678448691,
+      "rsi": 67.91921414589751,
+      "vol_ratio": 1.9483728922662542,
+      "buy": 4,
       "sell": 0,
       "why_buy": [
-        "Uptrend: price above 20 and 50 day averages",
-        "RSI 65: strong but not overheated",
-        "Up 0.8% yesterday",
+        "RSI 68: strong but not overheated",
+        "Volume 1.9x average on a green day",
+        "Up 2.3% yesterday",
         "Closed near the day's high"
       ],
       "why_sell": [],
-      "entry": 3079.0,
-      "stop": 2998.08,
-      "target": 3200.38,
-      "qty": 10,
-      "invest": 30790,
-      "max_loss": 809,
-      "profit": 1214,
+      "entry": 1042.0,
+      "stop": 1019.87,
+      "target": 1075.2,
+      "qty": 31,
+      "invest": 32302,
+      "max_loss": 686,
+      "profit": 1029,
       "side": "BUY",
-      "score": 5,
+      "score": 4,
       "reasons": [
-        "Uptrend: price above 20 and 50 day averages",
-        "RSI 65: strong but not overheated",
-        "Up 0.8% yesterday",
+        "RSI 68: strong but not overheated",
+        "Volume 1.9x average on a green day",
+        "Up 2.3% yesterday",
         "Closed near the day's high"
       ],
       "headlines": [
-        "Trent (NSEI:TRENT) Stock Forecast & Analyst Predictions - Simply Wall St",
-        "Trent shares surge 11% as revenue rises 23% in Q2; brokerages strike bullish tone - Moneycontrol.com",
-        "Trent share price: Tata Group stock jumps 6% after Q2 results | Should you buy or sell? Check target, upside - Livemint"
+        "SBIN Share Price Today - State Bank of India on NSE/BSE - scanx.trade",
+        "State Bank of India (NSEI:SBIN) Stock Forecast & Analyst Predictions - Simply Wall St",
+        "SBI Q2 results: Net profit seen rising 45% on stake-sale gains and income growth - TradingView"
       ],
-      "news_flag": false
-    }
-  ],
-  "sells": [
+      "news_flag": true
+    },
     {
-      "symbol": "BRITANNIA",
-      "price": 4785.0,
-      "atr": 128.44188775748157,
-      "chg": -3.9214467471151426,
-      "rsi": 49.2848886239538,
-      "vol_ratio": 2.087794076309253,
-      "buy": 0,
-      "sell": 4,
-      "why_buy": [],
-      "why_sell": [
-        "RSI 49: weak momentum",
-        "Volume 2.1x average on a red day",
-        "Down 3.9% yesterday",
-        "Closed near the day's low"
+      "symbol": "WIPRO",
+      "price": 199.0,
+      "atr": 4.989120518402608,
+      "chg": 0.5050505050504972,
+      "rsi": 68.96808137339222,
+      "vol_ratio": 0.5587830548832023,
+      "buy": 4,
+      "sell": 0,
+      "why_buy": [
+        "Uptrend: price above 20 and 50 day averages",
+        "Up 0.5% yesterday",
+        "Closed near the day's high"
       ],
-      "entry": 4785.0,
-      "stop": 4913.44,
-      "target": 4592.34,
-      "qty": 6,
-      "invest": 28710,
-      "max_loss": 771,
-      "profit": 1156,
-      "side": "SELL",
+      "why_sell": [],
+      "entry": 199.0,
+      "stop": 194.01,
+      "target": 206.48,
+      "qty": 167,
+      "invest": 33233,
+      "max_loss": 833,
+      "profit": 1250,
+      "side": "BUY",
       "score": 4,
       "reasons": [
-        "RSI 49: weak momentum",
-        "Volume 2.1x average on a red day",
-        "Down 3.9% yesterday",
-        "Closed near the day's low"
+        "Uptrend: price above 20 and 50 day averages",
+        "Up 0.5% yesterday",
+        "Closed near the day's high"
       ],
       "headlines": [
-        "Britannia shares jump 5% after Q1 nos; Nomura retains 'Buy' for 20% upside - Business Standard",
-        "Britannia shares fall 4.5% as firm warns about price hikes post-Q4 results - Moneycontrol.com",
-        "Britannia Industries (NSEI:BRITANNIA) Stock Forecast & Analyst Predictions - Simply Wall St"
+        "Wipro Share Price - Upstox",
+        "Wipro (WIPRO) Share Price Today (NSE), Market News - TechGraph",
+        "Earnings Update: Wipro Limited (NSE:WIPRO) Just Reported Its Second-Quarter Results And Analysts Are Updating Their Forecasts - Simply Wall St"
       ],
       "news_flag": false
     }
   ],
+  "sells": [],
   "capital": 100000,
   "loss_limit": 2000
 }
