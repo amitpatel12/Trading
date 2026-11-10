@@ -1,6 +1,6 @@
 {
-  "date": "Monday, 09 November 2026",
-  "updated": "16:36 IST",
+  "date": "Tuesday, 10 November 2026",
+  "updated": "16:22 IST",
   "mood": "positive",
   "cues": [
     {
@@ -20,28 +20,28 @@
     },
     {
       "name": "S&P 500",
-      "value": 7376.86,
-      "chg": 0.31
+      "value": 7549.94,
+      "chg": 2.35
     },
     {
       "name": "Nasdaq",
-      "value": 24579.43,
-      "chg": 1.09
+      "value": 25253.14,
+      "chg": 2.74
     },
     {
       "name": "Nikkei",
-      "value": 58775.5,
-      "chg": 2.33
+      "value": 60459.58,
+      "chg": 2.87
     },
     {
       "name": "Crude (WTI)",
-      "value": 89.56,
-      "chg": -1.4
+      "value": 85.17,
+      "chg": -1.93
     },
     {
       "name": "USD/INR",
-      "value": 93.93,
-      "chg": -0.56
+      "value": 93.92,
+      "chg": 0.02
     }
   ],
   "warnings": [
@@ -49,9 +49,9 @@
   ],
   "demo": false,
   "market_news": [
-    "Stock Market Today Highlights: BSE Sensex ends over 100 points higher, Nifty50 closes above 25,000 in first regular trading session of Samvat 2083 - The Times of India",
-    "Stock Market Highlights: Sensex ends 107 pts higher, Nifty near 25,050; L&T, Trent rise 2% each - The Economic Times",
+    "Stock Market Holiday Today: NSE, BSE Shut, When Will Trading Resume? - NDTV",
     "Stock Market Highlights, Sensex Today: Sensex, Nifty Close Flat, Tech Stocks Drag - NDTV",
+    "Stock Market Today Highlights: BSE Sensex ends over 100 points higher, Nifty50 closes above 25,000 in first regular trading session of Samvat 2083 - The Times of India",
     "Sensex Today | Stock Market Live: Sensex ends 107 pts higher, Nifty above 25,000; PSU banks surge 3.7%, IT slides 1.2% - Moneycontrol.com"
   ],
   "buys": [
@@ -61,7 +61,7 @@
       "atr": 82.80448731810307,
       "chg": 1.3056171215289014,
       "rsi": 67.03604398293206,
-      "vol_ratio": 0.9727214619301139,
+      "vol_ratio": 0.972746504429534,
       "buy": 5,
       "sell": 0,
       "why_buy": [
@@ -87,11 +87,11 @@
         "Closed near the day's high"
       ],
       "headlines": [
+        "Trent Share Price - Upstox",
         "Trent shares surge 11% as revenue rises 23% in Q2; brokerages strike bullish tone - Moneycontrol.com",
-        "Trent (NSEI:TRENT) Stock Forecast & Analyst Predictions - Simply Wall St",
-        "Trent Plunges 34% After Bonus? Reality Behind the Sharp NSE Drop Revealed - NiftyTrader"
+        "TRENT Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView"
       ],
-      "news_flag": true
+      "news_flag": false
     },
     {
       "symbol": "SBIN",
@@ -99,7 +99,7 @@
       "atr": 22.134652527065427,
       "chg": 2.307314678448691,
       "rsi": 67.91921414589751,
-      "vol_ratio": 1.9483728922662542,
+      "vol_ratio": 1.9486073383582263,
       "buy": 4,
       "sell": 0,
       "why_buy": [
@@ -137,7 +137,7 @@
       "atr": 4.989120518402608,
       "chg": 0.5050505050504972,
       "rsi": 68.96808137339222,
-      "vol_ratio": 0.5587830548832023,
+      "vol_ratio": 0.5588685212352068,
       "buy": 4,
       "sell": 0,
       "why_buy": [
@@ -163,7 +163,7 @@
       "headlines": [
         "Wipro Share Price - Upstox",
         "Wipro (WIPRO) Share Price Today (NSE), Market News - TechGraph",
-        "Earnings Update: Wipro Limited (NSE:WIPRO) Just Reported Its Second-Quarter Results And Analysts Are Updating Their Forecasts - Simply Wall St"
+        "Wipro (NSEI:WIPRO) Stock Forecast & Analyst Predictions - Simply Wall St"
       ],
       "news_flag": false
     }
