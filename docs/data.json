@@ -1,89 +1,125 @@
 {
-  "date": "Tuesday, 10 November 2026",
-  "updated": "16:22 IST",
-  "mood": "positive",
+  "date": "Wednesday, 11 November 2026",
+  "updated": "16:01 IST",
+  "mood": "mixed",
   "cues": [
     {
       "name": "Nifty 50",
-      "value": 25044.65,
-      "chg": 0.06
+      "value": 25255.05,
+      "chg": 0.84
     },
     {
       "name": "Sensex",
-      "value": 81106.65,
-      "chg": 0.1
+      "value": 81879.4,
+      "chg": 0.95
     },
     {
       "name": "India VIX",
-      "value": 17.42,
-      "chg": -0.29
+      "value": 17.56,
+      "chg": 0.77
     },
     {
       "name": "S&P 500",
-      "value": 7549.94,
-      "chg": 2.35
+      "value": 7520.93,
+      "chg": -0.38
     },
     {
       "name": "Nasdaq",
-      "value": 25253.14,
-      "chg": 2.74
+      "value": 25065.87,
+      "chg": -0.74
     },
     {
       "name": "Nikkei",
-      "value": 60459.58,
-      "chg": 2.87
+      "value": 61248.59,
+      "chg": 1.31
     },
     {
       "name": "Crude (WTI)",
-      "value": 85.17,
-      "chg": -1.93
+      "value": 87.08,
+      "chg": 1.21
     },
     {
       "name": "USD/INR",
-      "value": 93.92,
-      "chg": 0.02
+      "value": 93.68,
+      "chg": -0.28
     }
   ],
-  "warnings": [
-    "Global markets are strong. Short picks need a higher score today."
-  ],
+  "warnings": [],
   "demo": false,
   "market_news": [
+    "Closing Bell: Nifty at 25,255, Sensex gains 772 pts; auto, banks shine, IT drags - Moneycontrol.com",
     "Stock Market Holiday Today: NSE, BSE Shut, When Will Trading Resume? - NDTV",
-    "Stock Market Highlights, Sensex Today: Sensex, Nifty Close Flat, Tech Stocks Drag - NDTV",
-    "Stock Market Today Highlights: BSE Sensex ends over 100 points higher, Nifty50 closes above 25,000 in first regular trading session of Samvat 2083 - The Times of India",
-    "Sensex Today | Stock Market Live: Sensex ends 107 pts higher, Nifty above 25,000; PSU banks surge 3.7%, IT slides 1.2% - Moneycontrol.com"
+    "Stock Market Highlights: Sensex Jumps 773 Points, Nifty 50 Ends Above 25,250; IndiGo, M&M, Trent Top Gainers - NDTV Profit",
+    "Stock Market Today: Massive jump in Sensex, Nifty! \u20b94.5 lakh cr wealth added in a few mins - Reasons for bullish party - Livemint"
   ],
   "buys": [
     {
-      "symbol": "TRENT",
-      "price": 3119.199951171875,
-      "atr": 82.80448731810307,
-      "chg": 1.3056171215289014,
-      "rsi": 67.03604398293206,
-      "vol_ratio": 0.972746504429534,
+      "symbol": "ITC",
+      "price": 285.0,
+      "atr": 6.596444237075547,
+      "chg": 2.2238208315974672,
+      "rsi": 67.08976230311708,
+      "vol_ratio": 1.1707115755813817,
       "buy": 5,
       "sell": 0,
       "why_buy": [
         "Uptrend: price above 20 and 50 day averages",
         "RSI 67: strong but not overheated",
-        "Up 1.3% yesterday",
+        "Up 2.2% yesterday",
         "Closed near the day's high"
       ],
       "why_sell": [],
-      "entry": 3119.2,
-      "stop": 3036.4,
-      "target": 3243.41,
-      "qty": 10,
-      "invest": 31192,
-      "max_loss": 828,
-      "profit": 1242,
+      "entry": 285.0,
+      "stop": 278.4,
+      "target": 294.89,
+      "qty": 116,
+      "invest": 33060,
+      "max_loss": 765,
+      "profit": 1148,
       "side": "BUY",
       "score": 5,
       "reasons": [
         "Uptrend: price above 20 and 50 day averages",
         "RSI 67: strong but not overheated",
-        "Up 1.3% yesterday",
+        "Up 2.2% yesterday",
+        "Closed near the day's high"
+      ],
+      "headlines": [
+        "ITC Share Price - Upstox",
+        "ITC (ITC) Share Price Today (NSE), Market News - TechGraph",
+        "ITC stock falls over 4%, among top Nifty losers as Rs 9,437-crore block deal follows GQG stake sale - Moneycontrol.com"
+      ],
+      "news_flag": false
+    },
+    {
+      "symbol": "TRENT",
+      "price": 3222.699951171875,
+      "atr": 85.37559885453321,
+      "chg": 3.3181585541226744,
+      "rsi": 72.1524926878957,
+      "vol_ratio": 1.512226953421641,
+      "buy": 5,
+      "sell": 0,
+      "why_buy": [
+        "Uptrend: price above 20 and 50 day averages",
+        "Volume 1.5x average on a green day",
+        "Up 3.3% yesterday",
+        "Closed near the day's high"
+      ],
+      "why_sell": [],
+      "entry": 3222.7,
+      "stop": 3137.32,
+      "target": 3350.76,
+      "qty": 10,
+      "invest": 32227,
+      "max_loss": 854,
+      "profit": 1281,
+      "side": "BUY",
+      "score": 5,
+      "reasons": [
+        "Uptrend: price above 20 and 50 day averages",
+        "Volume 1.5x average on a green day",
+        "Up 3.3% yesterday",
         "Closed near the day's high"
       ],
       "headlines": [
@@ -94,76 +130,38 @@
       "news_flag": false
     },
     {
-      "symbol": "SBIN",
-      "price": 1042.0,
-      "atr": 22.134652527065427,
-      "chg": 2.307314678448691,
-      "rsi": 67.91921414589751,
-      "vol_ratio": 1.9486073383582263,
-      "buy": 4,
-      "sell": 0,
-      "why_buy": [
-        "RSI 68: strong but not overheated",
-        "Volume 1.9x average on a green day",
-        "Up 2.3% yesterday",
-        "Closed near the day's high"
-      ],
-      "why_sell": [],
-      "entry": 1042.0,
-      "stop": 1019.87,
-      "target": 1075.2,
-      "qty": 31,
-      "invest": 32302,
-      "max_loss": 686,
-      "profit": 1029,
-      "side": "BUY",
-      "score": 4,
-      "reasons": [
-        "RSI 68: strong but not overheated",
-        "Volume 1.9x average on a green day",
-        "Up 2.3% yesterday",
-        "Closed near the day's high"
-      ],
-      "headlines": [
-        "SBIN Share Price Today - State Bank of India on NSE/BSE - scanx.trade",
-        "State Bank of India (NSEI:SBIN) Stock Forecast & Analyst Predictions - Simply Wall St",
-        "SBI Q2 results: Net profit seen rising 45% on stake-sale gains and income growth - TradingView"
-      ],
-      "news_flag": true
-    },
-    {
-      "symbol": "WIPRO",
-      "price": 199.0,
-      "atr": 4.989120518402608,
-      "chg": 0.5050505050504972,
-      "rsi": 68.96808137339222,
-      "vol_ratio": 0.5588685212352068,
+      "symbol": "BHARTIARTL",
+      "price": 2109.0,
+      "atr": 46.56950364456163,
+      "chg": 1.780797288002045,
+      "rsi": 71.409292496917,
+      "vol_ratio": 0.8474822807724552,
       "buy": 4,
       "sell": 0,
       "why_buy": [
         "Uptrend: price above 20 and 50 day averages",
-        "Up 0.5% yesterday",
+        "Up 1.8% yesterday",
         "Closed near the day's high"
       ],
       "why_sell": [],
-      "entry": 199.0,
-      "stop": 194.01,
-      "target": 206.48,
-      "qty": 167,
-      "invest": 33233,
-      "max_loss": 833,
-      "profit": 1250,
+      "entry": 2109.0,
+      "stop": 2062.43,
+      "target": 2178.85,
+      "qty": 15,
+      "invest": 31635,
+      "max_loss": 699,
+      "profit": 1048,
       "side": "BUY",
       "score": 4,
       "reasons": [
         "Uptrend: price above 20 and 50 day averages",
-        "Up 0.5% yesterday",
+        "Up 1.8% yesterday",
         "Closed near the day's high"
       ],
       "headlines": [
-        "Wipro Share Price - Upstox",
-        "Wipro (WIPRO) Share Price Today (NSE), Market News - TechGraph",
-        "Wipro (NSEI:WIPRO) Stock Forecast & Analyst Predictions - Simply Wall St"
+        "BHARTIARTL Share Price Today - Bharti Airtel on NSE/BSE - scanx.trade",
+        "Bharti Airtel Share Price - Live NSE: BHARTIARTL Stock Price & Chart - Upstox",
+        "Earnings To Watch: Bharti Airtel Ltd (NSE:BHARTIARTL) Q2 2027 -- GF Value Sees 21% Upside - GuruFocus"
       ],
       "news_flag": false
     }
