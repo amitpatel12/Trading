@@ -1,167 +1,167 @@
 {
-  "date": "Wednesday, 11 November 2026",
-  "updated": "16:01 IST",
-  "mood": "mixed",
+  "date": "Thursday, 12 November 2026",
+  "updated": "16:16 IST",
+  "mood": "positive",
   "cues": [
     {
       "name": "Nifty 50",
-      "value": 25255.05,
-      "chg": 0.84
+      "value": 25299.35,
+      "chg": 0.18
     },
     {
       "name": "Sensex",
-      "value": 81879.4,
-      "chg": 0.95
+      "value": 81911.01,
+      "chg": 0.04
     },
     {
       "name": "India VIX",
-      "value": 17.56,
-      "chg": 0.77
+      "value": 16.62,
+      "chg": -5.37
     },
     {
       "name": "S&P 500",
-      "value": 7520.93,
-      "chg": -0.38
-    },
-    {
-      "name": "Nasdaq",
-      "value": 25065.87,
-      "chg": -0.74
-    },
-    {
-      "name": "Nikkei",
-      "value": 61248.59,
+      "value": 7619.38,
       "chg": 1.31
     },
     {
+      "name": "Nasdaq",
+      "value": 25466.19,
+      "chg": 1.6
+    },
+    {
+      "name": "Nikkei",
+      "value": 60819.36,
+      "chg": -0.7
+    },
+    {
       "name": "Crude (WTI)",
-      "value": 87.08,
-      "chg": 1.21
+      "value": 85.83,
+      "chg": -0.81
     },
     {
       "name": "USD/INR",
-      "value": 93.68,
-      "chg": -0.28
+      "value": 94.04,
+      "chg": 0.12
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "Global markets are strong. Short picks need a higher score today."
+  ],
   "demo": false,
   "market_news": [
-    "Closing Bell: Nifty at 25,255, Sensex gains 772 pts; auto, banks shine, IT drags - Moneycontrol.com",
-    "Stock Market Holiday Today: NSE, BSE Shut, When Will Trading Resume? - NDTV",
-    "Stock Market Highlights: Sensex Jumps 773 Points, Nifty 50 Ends Above 25,250; IndiGo, M&M, Trent Top Gainers - NDTV Profit",
-    "Stock Market Today: Massive jump in Sensex, Nifty! \u20b94.5 lakh cr wealth added in a few mins - Reasons for bullish party - Livemint"
+    "Stock Market Today Highlights: Sensex ends 770 points higher, NSE Nifty50 closes above 25,250 - The Times of India",
+    "Stock Market Highlights, Sensex Today: Sensex, Nifty Close Flat, Nvidia Shares Crash Amid China Spy Scandal - NDTV",
+    "Sensex, Nifty Rebound as Banks Lead Early Trade - HDFC Sky",
+    "Stock market outlook today, 12 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - TradingView"
   ],
   "buys": [
     {
-      "symbol": "ITC",
-      "price": 285.0,
-      "atr": 6.596444237075547,
-      "chg": 2.2238208315974672,
-      "rsi": 67.08976230311708,
-      "vol_ratio": 1.1707115755813817,
+      "symbol": "ADANIPORTS",
+      "price": 1930.0,
+      "atr": 51.6546397675058,
+      "chg": 1.2060828526481382,
+      "rsi": 64.10189691913953,
+      "vol_ratio": 0.5640028580943879,
       "buy": 5,
       "sell": 0,
       "why_buy": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 67: strong but not overheated",
-        "Up 2.2% yesterday",
+        "RSI 64: strong but not overheated",
+        "Up 1.2% yesterday",
         "Closed near the day's high"
       ],
       "why_sell": [],
-      "entry": 285.0,
-      "stop": 278.4,
-      "target": 294.89,
-      "qty": 116,
-      "invest": 33060,
-      "max_loss": 765,
-      "profit": 1148,
+      "entry": 1930.0,
+      "stop": 1878.35,
+      "target": 2007.48,
+      "qty": 17,
+      "invest": 32810,
+      "max_loss": 878,
+      "profit": 1317,
       "side": "BUY",
       "score": 5,
       "reasons": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 67: strong but not overheated",
-        "Up 2.2% yesterday",
+        "RSI 64: strong but not overheated",
+        "Up 1.2% yesterday",
         "Closed near the day's high"
       ],
       "headlines": [
-        "ITC Share Price - Upstox",
-        "ITC (ITC) Share Price Today (NSE), Market News - TechGraph",
-        "ITC stock falls over 4%, among top Nifty losers as Rs 9,437-crore block deal follows GQG stake sale - Moneycontrol.com"
+        "At new highs! Eternal, Groww, Adani Ports, Ather, 16 more NSE 500 stocks - Business Standard",
+        "Adani Ports and Special Economic Zone (NSEI:ADANIPORTS) Stock Forecast & Analyst Predictions - Simply Wall St",
+        "Adani Ports and Special Economic Zone Ltd. Share Price, Stock Price - NSE/BSE Live - NDTV Profit"
       ],
       "news_flag": false
     },
     {
-      "symbol": "TRENT",
-      "price": 3222.699951171875,
-      "atr": 85.37559885453321,
-      "chg": 3.3181585541226744,
-      "rsi": 72.1524926878957,
-      "vol_ratio": 1.512226953421641,
-      "buy": 5,
-      "sell": 0,
-      "why_buy": [
-        "Uptrend: price above 20 and 50 day averages",
-        "Volume 1.5x average on a green day",
-        "Up 3.3% yesterday",
-        "Closed near the day's high"
-      ],
-      "why_sell": [],
-      "entry": 3222.7,
-      "stop": 3137.32,
-      "target": 3350.76,
-      "qty": 10,
-      "invest": 32227,
-      "max_loss": 854,
-      "profit": 1281,
-      "side": "BUY",
-      "score": 5,
-      "reasons": [
-        "Uptrend: price above 20 and 50 day averages",
-        "Volume 1.5x average on a green day",
-        "Up 3.3% yesterday",
-        "Closed near the day's high"
-      ],
-      "headlines": [
-        "Trent Share Price - Upstox",
-        "Trent shares surge 11% as revenue rises 23% in Q2; brokerages strike bullish tone - Moneycontrol.com",
-        "TRENT Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView"
-      ],
-      "news_flag": false
-    },
-    {
-      "symbol": "BHARTIARTL",
-      "price": 2109.0,
-      "atr": 46.56950364456163,
-      "chg": 1.780797288002045,
-      "rsi": 71.409292496917,
-      "vol_ratio": 0.8474822807724552,
+      "symbol": "INFY",
+      "price": 1151.199951171875,
+      "atr": 37.71761890693134,
+      "chg": -0.3290085565476164,
+      "rsi": 57.68414525637968,
+      "vol_ratio": 0.4729904220139708,
       "buy": 4,
       "sell": 0,
       "why_buy": [
         "Uptrend: price above 20 and 50 day averages",
-        "Up 1.8% yesterday",
+        "RSI 58: strong but not overheated",
         "Closed near the day's high"
       ],
       "why_sell": [],
-      "entry": 2109.0,
-      "stop": 2062.43,
-      "target": 2178.85,
-      "qty": 15,
-      "invest": 31635,
-      "max_loss": 699,
-      "profit": 1048,
+      "entry": 1151.2,
+      "stop": 1113.48,
+      "target": 1207.78,
+      "qty": 26,
+      "invest": 29931,
+      "max_loss": 981,
+      "profit": 1471,
       "side": "BUY",
       "score": 4,
       "reasons": [
         "Uptrend: price above 20 and 50 day averages",
-        "Up 1.8% yesterday",
+        "RSI 58: strong but not overheated",
         "Closed near the day's high"
       ],
       "headlines": [
-        "BHARTIARTL Share Price Today - Bharti Airtel on NSE/BSE - scanx.trade",
-        "Bharti Airtel Share Price - Live NSE: BHARTIARTL Stock Price & Chart - Upstox",
-        "Earnings To Watch: Bharti Airtel Ltd (NSE:BHARTIARTL) Q2 2027 -- GF Value Sees 21% Upside - GuruFocus"
+        "Infosys Share Price - Live NSE: INFY Stock Price & Chart - Upstox",
+        "INFY Share Price Today - Infosys Ltd. Stock Price Live NSE/BSE - Univest",
+        "Infosys Ltd. Share Price Today - Infosys Ltd. Stock Price Live NSE/BSE - CNBC TV18"
+      ],
+      "news_flag": false
+    },
+    {
+      "symbol": "DRREDDY",
+      "price": 1386.5999755859375,
+      "atr": 26.50225459755734,
+      "chg": 0.6971659830020016,
+      "rsi": 73.6506266529733,
+      "vol_ratio": 0.5637299448358701,
+      "buy": 4,
+      "sell": 0,
+      "why_buy": [
+        "Uptrend: price above 20 and 50 day averages",
+        "Up 0.7% yesterday",
+        "Closed near the day's high"
+      ],
+      "why_sell": [],
+      "entry": 1386.6,
+      "stop": 1360.1,
+      "target": 1426.35,
+      "qty": 24,
+      "invest": 33278,
+      "max_loss": 636,
+      "profit": 954,
+      "side": "BUY",
+      "score": 4,
+      "reasons": [
+        "Uptrend: price above 20 and 50 day averages",
+        "Up 0.7% yesterday",
+        "Closed near the day's high"
+      ],
+      "headlines": [
+        "Dr. Reddy\u2019s Laboratories (DRREDDY) Share Price Today (NSE), Market News - TechGraph",
+        "Dr. Reddy's DRREDDY Lost Share Certificate Notice Nov 2026 - Kalkine India",
+        "Dr. Reddy's Lab jumps 2%: Why is this pharma stock rising? - India Infoline"
       ],
       "news_flag": false
     }
