@@ -1,172 +1,173 @@
 {
-  "date": "Thursday, 12 November 2026",
-  "updated": "16:16 IST",
-  "mood": "positive",
+  "date": "Friday, 13 November 2026",
+  "updated": "16:12 IST",
+  "mood": "mixed",
   "cues": [
     {
       "name": "Nifty 50",
-      "value": 25299.35,
-      "chg": 0.18
+      "value": 25144.3,
+      "chg": -0.61
     },
     {
       "name": "Sensex",
-      "value": 81911.01,
-      "chg": 0.04
+      "value": 81592.45,
+      "chg": -0.39
     },
     {
       "name": "India VIX",
-      "value": 16.62,
-      "chg": -5.37
+      "value": 15.49,
+      "chg": -6.77
     },
     {
       "name": "S&P 500",
-      "value": 7619.38,
-      "chg": 1.31
+      "value": 7592.4,
+      "chg": -0.35
     },
     {
       "name": "Nasdaq",
-      "value": 25466.19,
-      "chg": 1.6
+      "value": 25366.09,
+      "chg": -0.39
     },
     {
       "name": "Nikkei",
-      "value": 60819.36,
-      "chg": -0.7
+      "value": 61142.35,
+      "chg": 0.53
     },
     {
       "name": "Crude (WTI)",
-      "value": 85.83,
-      "chg": -0.81
+      "value": 87.9,
+      "chg": -0.95
     },
     {
       "name": "USD/INR",
-      "value": 94.04,
-      "chg": 0.12
+      "value": 94.23,
+      "chg": 0.57
     }
   ],
-  "warnings": [
-    "Global markets are strong. Short picks need a higher score today."
-  ],
+  "warnings": [],
   "demo": false,
   "market_news": [
-    "Stock Market Today Highlights: Sensex ends 770 points higher, NSE Nifty50 closes above 25,250 - The Times of India",
-    "Stock Market Highlights, Sensex Today: Sensex, Nifty Close Flat, Nvidia Shares Crash Amid China Spy Scandal - NDTV",
-    "Sensex, Nifty Rebound as Banks Lead Early Trade - HDFC Sky",
-    "Stock market outlook today, 12 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - TradingView"
+    "Stock Market Close: Sensex snaps 3-day winning run, ends 319 pts lower; Nifty at 25,144; VIX down 7% - Business Standard",
+    "Stock Market Highlights, Sensex Today: Sensex Closes 310 Points Lower, Inflation Hits Two-Year High - NDTV",
+    "Stock Market Today Live, Nov 13: Sensex settles at 81,592.45; Nifty falls to 25,144.30 - BusinessLine",
+    "Stock Market Highlights, Sensex Today: Sensex, Nifty Close Flat, Nvidia Shares Crash Amid China Spy Scandal - NDTV"
   ],
   "buys": [
     {
-      "symbol": "ADANIPORTS",
-      "price": 1930.0,
-      "atr": 51.6546397675058,
-      "chg": 1.2060828526481382,
-      "rsi": 64.10189691913953,
-      "vol_ratio": 0.5640028580943879,
+      "symbol": "HEROMOTOCO",
+      "price": 5385.0,
+      "atr": 142.1834428843503,
+      "chg": 0.8049419692998772,
+      "rsi": 55.897901692624224,
+      "vol_ratio": 0.9126291979053064,
       "buy": 5,
       "sell": 0,
       "why_buy": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 64: strong but not overheated",
-        "Up 1.2% yesterday",
+        "RSI 56: strong but not overheated",
+        "Up 0.8% yesterday",
         "Closed near the day's high"
       ],
       "why_sell": [],
-      "entry": 1930.0,
-      "stop": 1878.35,
-      "target": 2007.48,
-      "qty": 17,
-      "invest": 32810,
-      "max_loss": 878,
-      "profit": 1317,
+      "entry": 5385.0,
+      "stop": 5242.82,
+      "target": 5598.28,
+      "qty": 6,
+      "invest": 32310,
+      "max_loss": 853,
+      "profit": 1280,
       "side": "BUY",
       "score": 5,
       "reasons": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 64: strong but not overheated",
-        "Up 1.2% yesterday",
+        "RSI 56: strong but not overheated",
+        "Up 0.8% yesterday",
         "Closed near the day's high"
       ],
       "headlines": [
-        "At new highs! Eternal, Groww, Adani Ports, Ather, 16 more NSE 500 stocks - Business Standard",
-        "Adani Ports and Special Economic Zone (NSEI:ADANIPORTS) Stock Forecast & Analyst Predictions - Simply Wall St",
-        "Adani Ports and Special Economic Zone Ltd. Share Price, Stock Price - NSE/BSE Live - NDTV Profit"
+        "Hero MotoCorp (NSE:HEROMOTOCO) Could Be A Buy For Its Upcoming Dividend - Simply Wall St",
+        "HEROMOTOCO Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
+        "Hero MotoCorp (NSE:HEROMOTOCO) Allots 20,615 Shares, Approves RSU and PRSU Grants - Kalkine India"
       ],
       "news_flag": false
     },
     {
-      "symbol": "INFY",
-      "price": 1151.199951171875,
-      "atr": 37.71761890693134,
-      "chg": -0.3290085565476164,
-      "rsi": 57.68414525637968,
-      "vol_ratio": 0.4729904220139708,
+      "symbol": "ITC",
+      "price": 285.0,
+      "atr": 6.354206337108732,
+      "chg": 0.3344524724020248,
+      "rsi": 66.47237300746832,
+      "vol_ratio": 0.4218198955783818,
       "buy": 4,
       "sell": 0,
       "why_buy": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 58: strong but not overheated",
+        "RSI 66: strong but not overheated",
         "Closed near the day's high"
       ],
       "why_sell": [],
-      "entry": 1151.2,
-      "stop": 1113.48,
-      "target": 1207.78,
-      "qty": 26,
-      "invest": 29931,
-      "max_loss": 981,
-      "profit": 1471,
+      "entry": 285.0,
+      "stop": 278.65,
+      "target": 294.53,
+      "qty": 116,
+      "invest": 33060,
+      "max_loss": 737,
+      "profit": 1106,
       "side": "BUY",
       "score": 4,
       "reasons": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 58: strong but not overheated",
+        "RSI 66: strong but not overheated",
         "Closed near the day's high"
       ],
       "headlines": [
-        "Infosys Share Price - Live NSE: INFY Stock Price & Chart - Upstox",
-        "INFY Share Price Today - Infosys Ltd. Stock Price Live NSE/BSE - Univest",
-        "Infosys Ltd. Share Price Today - Infosys Ltd. Stock Price Live NSE/BSE - CNBC TV18"
-      ],
-      "news_flag": false
-    },
-    {
-      "symbol": "DRREDDY",
-      "price": 1386.5999755859375,
-      "atr": 26.50225459755734,
-      "chg": 0.6971659830020016,
-      "rsi": 73.6506266529733,
-      "vol_ratio": 0.5637299448358701,
-      "buy": 4,
-      "sell": 0,
-      "why_buy": [
-        "Uptrend: price above 20 and 50 day averages",
-        "Up 0.7% yesterday",
-        "Closed near the day's high"
-      ],
-      "why_sell": [],
-      "entry": 1386.6,
-      "stop": 1360.1,
-      "target": 1426.35,
-      "qty": 24,
-      "invest": 33278,
-      "max_loss": 636,
-      "profit": 954,
-      "side": "BUY",
-      "score": 4,
-      "reasons": [
-        "Uptrend: price above 20 and 50 day averages",
-        "Up 0.7% yesterday",
-        "Closed near the day's high"
-      ],
-      "headlines": [
-        "Dr. Reddy\u2019s Laboratories (DRREDDY) Share Price Today (NSE), Market News - TechGraph",
-        "Dr. Reddy's DRREDDY Lost Share Certificate Notice Nov 2026 - Kalkine India",
-        "Dr. Reddy's Lab jumps 2%: Why is this pharma stock rising? - India Infoline"
+        "ITC Share Price - Upstox",
+        "ITC jumps 5% as Citi upgrades rating, target. What prompted bullish view? - Business Standard",
+        "ITC Shares Hit Day\u2019s High of Rs 268.50 on NSE Today - Equitypandit"
       ],
       "news_flag": false
     }
   ],
-  "sells": [],
+  "sells": [
+    {
+      "symbol": "GRASIM",
+      "price": 3034.0,
+      "atr": 72.68718712133469,
+      "chg": -2.597191077725425,
+      "rsi": 48.05472862868684,
+      "vol_ratio": 2.349219662702573,
+      "buy": 0,
+      "sell": 4,
+      "why_buy": [],
+      "why_sell": [
+        "RSI 48: weak momentum",
+        "Volume 2.3x average on a red day",
+        "Down 2.6% yesterday",
+        "Closed near the day's low"
+      ],
+      "entry": 3034.0,
+      "stop": 3106.69,
+      "target": 2924.97,
+      "qty": 10,
+      "invest": 30340,
+      "max_loss": 727,
+      "profit": 1090,
+      "side": "SELL",
+      "score": 4,
+      "reasons": [
+        "RSI 48: weak momentum",
+        "Volume 2.3x average on a red day",
+        "Down 2.6% yesterday",
+        "Closed near the day's low"
+      ],
+      "headlines": [
+        "Proud Moment for Grasim Industries at the 30-Year Milestone of the Nifty50 - Grasim",
+        "NSE seeks explanations from Eventions, Grasim and Kolte-Patil - Traders Union",
+        "Grasim Industries Q4: Shares trade around 1.5% lower ahead of earnings; here is how firm fared in Q4 FY25 - Upstox"
+      ],
+      "news_flag": false
+    }
+  ],
   "capital": 100000,
   "loss_limit": 2000
 }
