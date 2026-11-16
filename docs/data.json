@@ -1,169 +1,249 @@
 {
-  "date": "Friday, 13 November 2026",
-  "updated": "16:12 IST",
-  "mood": "mixed",
+  "date": "Monday, 16 November 2026",
+  "updated": "16:18 IST",
+  "mood": "negative",
   "cues": [
     {
       "name": "Nifty 50",
-      "value": 25144.3,
-      "chg": -0.61
+      "value": 25291.1,
+      "chg": 0.58
     },
     {
       "name": "Sensex",
-      "value": 81592.45,
-      "chg": -0.39
+      "value": 82104.79,
+      "chg": 0.63
     },
     {
       "name": "India VIX",
-      "value": 15.49,
-      "chg": -6.77
+      "value": 15.68,
+      "chg": 1.15
     },
     {
       "name": "S&P 500",
-      "value": 7592.4,
-      "chg": -0.35
+      "value": 7561.67,
+      "chg": -0.4
     },
     {
       "name": "Nasdaq",
-      "value": 25366.09,
-      "chg": -0.39
+      "value": 25136.27,
+      "chg": -0.91
     },
     {
       "name": "Nikkei",
-      "value": 61142.35,
-      "chg": 0.53
+      "value": 59662.02,
+      "chg": -2.42
     },
     {
       "name": "Crude (WTI)",
-      "value": 87.9,
-      "chg": -0.95
+      "value": 88.37,
+      "chg": -0.21
     },
     {
       "name": "USD/INR",
-      "value": 94.23,
-      "chg": 0.57
+      "value": 93.92,
+      "chg": -0.12
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "Global markets are weak. Buy picks need a higher score today."
+  ],
   "demo": false,
   "market_news": [
-    "Stock Market Close: Sensex snaps 3-day winning run, ends 319 pts lower; Nifty at 25,144; VIX down 7% - Business Standard",
-    "Stock Market Highlights, Sensex Today: Sensex Closes 310 Points Lower, Inflation Hits Two-Year High - NDTV",
-    "Stock Market Today Live, Nov 13: Sensex settles at 81,592.45; Nifty falls to 25,144.30 - BusinessLine",
-    "Stock Market Highlights, Sensex Today: Sensex, Nifty Close Flat, Nvidia Shares Crash Amid China Spy Scandal - NDTV"
+    "Stock Market Close: Sensex ends 512 pts higher, Nifty at 25,291; FMGC, bank shares outshine - Business Standard",
+    "Stock market outlook today, 13 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - TradingView",
+    "Stock market outlook today,16 Nov: Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - TradingView",
+    "Why did stock market end mixed today? Sensex gains 512 points, Nifty Bank hits record high - CNBC TV18 - LinkedIn"
   ],
   "buys": [
     {
-      "symbol": "HEROMOTOCO",
-      "price": 5385.0,
-      "atr": 142.1834428843503,
-      "chg": 0.8049419692998772,
-      "rsi": 55.897901692624224,
-      "vol_ratio": 0.9126291979053064,
+      "symbol": "ITC",
+      "price": 295.1000061035156,
+      "atr": 6.778995341774242,
+      "chg": 3.543861790707248,
+      "rsi": 73.06339462287261,
+      "vol_ratio": 2.32847466263856,
       "buy": 5,
       "sell": 0,
       "why_buy": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 56: strong but not overheated",
-        "Up 0.8% yesterday",
+        "Volume 2.3x average on a green day",
+        "Up 3.5% yesterday",
         "Closed near the day's high"
       ],
       "why_sell": [],
-      "entry": 5385.0,
-      "stop": 5242.82,
-      "target": 5598.28,
-      "qty": 6,
-      "invest": 32310,
-      "max_loss": 853,
-      "profit": 1280,
+      "entry": 295.1,
+      "stop": 288.32,
+      "target": 305.27,
+      "qty": 112,
+      "invest": 33051,
+      "max_loss": 759,
+      "profit": 1139,
       "side": "BUY",
       "score": 5,
       "reasons": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 56: strong but not overheated",
-        "Up 0.8% yesterday",
+        "Volume 2.3x average on a green day",
+        "Up 3.5% yesterday",
         "Closed near the day's high"
       ],
       "headlines": [
-        "Hero MotoCorp (NSE:HEROMOTOCO) Could Be A Buy For Its Upcoming Dividend - Simply Wall St",
-        "HEROMOTOCO Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
-        "Hero MotoCorp (NSE:HEROMOTOCO) Allots 20,615 Shares, Approves RSU and PRSU Grants - Kalkine India"
+        "ITC HOTELS LIMITED Share Price - Live NSE: ITCHOTELS Stock Price & Chart - Upstox",
+        "ITC share price slips 2%, hits 52-week low; what's making Street nervous? - Business Standard",
+        "ITC Shares Hit Day\u2019s High of Rs 268.50 on NSE Today - Equitypandit"
       ],
       "news_flag": false
     },
     {
-      "symbol": "ITC",
-      "price": 285.0,
-      "atr": 6.354206337108732,
-      "chg": 0.3344524724020248,
-      "rsi": 66.47237300746832,
-      "vol_ratio": 0.4218198955783818,
-      "buy": 4,
+      "symbol": "ULTRACEMCO",
+      "price": 12270.0,
+      "atr": 264.8283897775074,
+      "chg": 1.4049586776859524,
+      "rsi": 66.41341323568814,
+      "vol_ratio": 0.598732182641348,
+      "buy": 5,
       "sell": 0,
       "why_buy": [
         "Uptrend: price above 20 and 50 day averages",
         "RSI 66: strong but not overheated",
+        "Up 1.4% yesterday",
         "Closed near the day's high"
       ],
       "why_sell": [],
-      "entry": 285.0,
-      "stop": 278.65,
-      "target": 294.53,
-      "qty": 116,
-      "invest": 33060,
-      "max_loss": 737,
-      "profit": 1106,
+      "entry": 12270.0,
+      "stop": 12005.17,
+      "target": 12667.24,
+      "qty": 2,
+      "invest": 24540,
+      "max_loss": 530,
+      "profit": 794,
       "side": "BUY",
-      "score": 4,
+      "score": 5,
       "reasons": [
         "Uptrend: price above 20 and 50 day averages",
         "RSI 66: strong but not overheated",
+        "Up 1.4% yesterday",
         "Closed near the day's high"
       ],
       "headlines": [
-        "ITC Share Price - Upstox",
-        "ITC jumps 5% as Citi upgrades rating, target. What prompted bullish view? - Business Standard",
-        "ITC Shares Hit Day\u2019s High of Rs 268.50 on NSE Today - Equitypandit"
+        "Ultratech Cement Share Price - Live NSE: ULTRACEMCO Stock Price & Chart - Upstox",
+        "UltraTech Cement (NSEI:ULTRACEMCO) Stock Forecast & Analyst Predictions - Simply Wall St",
+        "UltraTech Cement Limited (NSE:ULTRACEMCO) Looks Interesting, And It's About To Pay A Dividend - Webull"
+      ],
+      "news_flag": false
+    },
+    {
+      "symbol": "HDFCLIFE",
+      "price": 604.5,
+      "atr": 15.501793147171195,
+      "chg": 2.068383284086117,
+      "rsi": 74.22304177332391,
+      "vol_ratio": 1.4386418328329045,
+      "buy": 5,
+      "sell": 0,
+      "why_buy": [
+        "Uptrend: price above 20 and 50 day averages",
+        "Volume 1.4x average on a green day",
+        "Up 2.1% yesterday",
+        "Closed near the day's high"
+      ],
+      "why_sell": [],
+      "entry": 604.5,
+      "stop": 589.0,
+      "target": 627.75,
+      "qty": 55,
+      "invest": 33248,
+      "max_loss": 853,
+      "profit": 1279,
+      "side": "BUY",
+      "score": 5,
+      "reasons": [
+        "Uptrend: price above 20 and 50 day averages",
+        "Volume 1.4x average on a green day",
+        "Up 2.1% yesterday",
+        "Closed near the day's high"
+      ],
+      "headlines": [
+        "HDFCLIFE Share Price Today - HDFC Life Insurance on NSE/BSE - scanx.trade",
+        "HDFC Life Insurance Share Price - Live NSE: HDFCLIFE Stock Price & Chart - Upstox",
+        "HDFC Life Insurance (NSEI:HDFCLIFE) Stock Forecast & Analyst Predictions - Simply Wall St"
       ],
       "news_flag": false
     }
   ],
   "sells": [
     {
-      "symbol": "GRASIM",
-      "price": 3034.0,
-      "atr": 72.68718712133469,
-      "chg": -2.597191077725425,
-      "rsi": 48.05472862868684,
-      "vol_ratio": 2.349219662702573,
+      "symbol": "COALINDIA",
+      "price": 397.5,
+      "atr": 8.234442934295693,
+      "chg": -1.486988847583648,
+      "rsi": 48.735390818965705,
+      "vol_ratio": 2.190043200178086,
+      "buy": 0,
+      "sell": 4,
+      "why_buy": [],
+      "why_sell": [
+        "RSI 49: weak momentum",
+        "Volume 2.2x average on a red day",
+        "Down 1.5% yesterday",
+        "Closed near the day's low"
+      ],
+      "entry": 397.5,
+      "stop": 405.73,
+      "target": 385.15,
+      "qty": 83,
+      "invest": 32992,
+      "max_loss": 683,
+      "profit": 1025,
+      "side": "SELL",
+      "score": 4,
+      "reasons": [
+        "RSI 49: weak momentum",
+        "Volume 2.2x average on a red day",
+        "Down 1.5% yesterday",
+        "Closed near the day's low"
+      ],
+      "headlines": [
+        "Coal India (NSEI:COALINDIA) Stock Forecast & Analyst Predictions - Simply Wall St",
+        "Coal India to sell 10% stake in unit Mahanadi Coalfields' IPO - Reuters",
+        "COALINDIA Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView"
+      ],
+      "news_flag": false
+    },
+    {
+      "symbol": "HINDALCO",
+      "price": 923.2999877929688,
+      "atr": 25.331462899429603,
+      "chg": -2.1513340735689668,
+      "rsi": 47.76208235981868,
+      "vol_ratio": 1.4750874698087326,
       "buy": 0,
       "sell": 4,
       "why_buy": [],
       "why_sell": [
         "RSI 48: weak momentum",
-        "Volume 2.3x average on a red day",
-        "Down 2.6% yesterday",
+        "Volume 1.5x average on a red day",
+        "Down 2.2% yesterday",
         "Closed near the day's low"
       ],
-      "entry": 3034.0,
-      "stop": 3106.69,
-      "target": 2924.97,
-      "qty": 10,
-      "invest": 30340,
-      "max_loss": 727,
-      "profit": 1090,
+      "entry": 923.3,
+      "stop": 948.63,
+      "target": 885.3,
+      "qty": 36,
+      "invest": 33239,
+      "max_loss": 912,
+      "profit": 1368,
       "side": "SELL",
       "score": 4,
       "reasons": [
         "RSI 48: weak momentum",
-        "Volume 2.3x average on a red day",
-        "Down 2.6% yesterday",
+        "Volume 1.5x average on a red day",
+        "Down 2.2% yesterday",
         "Closed near the day's low"
       ],
       "headlines": [
-        "Proud Moment for Grasim Industries at the 30-Year Milestone of the Nifty50 - Grasim",
-        "NSE seeks explanations from Eventions, Grasim and Kolte-Patil - Traders Union",
-        "Grasim Industries Q4: Shares trade around 1.5% lower ahead of earnings; here is how firm fared in Q4 FY25 - Upstox"
+        "Hindalco Industries Share Price - Upstox",
+        "HINDALCO Share Price Today - Hindalco Industries on NSE/BSE - scanx.trade",
+        "Hindalco shares fall 1% after Novelis announces $265-million sale of China units - Moneycontrol.com"
       ],
       "news_flag": false
     }
