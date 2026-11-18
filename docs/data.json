@@ -1,47 +1,47 @@
 {
-  "date": "Tuesday, 17 November 2026",
-  "updated": "17:06 IST",
+  "date": "Wednesday, 18 November 2026",
+  "updated": "16:51 IST",
   "mood": "negative",
   "cues": [
     {
       "name": "Nifty 50",
-      "value": 25387.4,
-      "chg": 0.38
+      "value": 25227.95,
+      "chg": -0.63
     },
     {
       "name": "Sensex",
-      "value": 82532.19,
-      "chg": 0.52
+      "value": 82031.81,
+      "chg": -0.61
     },
     {
       "name": "India VIX",
       "value": 15.52,
-      "chg": -1.02
+      "chg": 0.0
     },
     {
       "name": "S&P 500",
-      "value": 7416.59,
-      "chg": -1.92
+      "value": 7340.53,
+      "chg": -1.03
     },
     {
       "name": "Nasdaq",
-      "value": 24509.76,
-      "chg": -2.49
+      "value": 24328.38,
+      "chg": -0.74
     },
     {
       "name": "Nikkei",
-      "value": 58860.43,
-      "chg": -1.34
+      "value": 59024.28,
+      "chg": 0.28
     },
     {
       "name": "Crude (WTI)",
-      "value": 86.06,
-      "chg": 0.4
+      "value": 83.81,
+      "chg": -2.56
     },
     {
       "name": "USD/INR",
-      "value": 93.46,
-      "chg": -0.83
+      "value": 93.44,
+      "chg": -0.56
     }
   ],
   "warnings": [
@@ -49,49 +49,85 @@
   ],
   "demo": false,
   "market_news": [
-    "Stock Market Highlights, Nov 17: Sensex, Nifty close at highest since February on record foreign inflows - BusinessLine",
-    "Markets Are Rallying, But Here's Why You Should Prepare For A Fall - NDTV",
-    "Stock Market Today: Sensex, Nifty Open Higher - HDFC Sky",
-    "Sensex Today Ends 427 Points Higher | Nifty Above 25,350 | Nifty Bank Hits Record High - Equitymaster"
+    "Stock Market Today Live Updates: BSE Sensex tumbles over 400 points, NSE Nifty50 trades below 25,200 - The Times of India",
+    "Sensex, Nifty today: Market updates for November 17 | Tap to know more | Inshorts - Inshorts",
+    "Sensex Falls 500 Pts; Nifty Slips Below 25,250 on Profit Booking - HDFC Sky",
+    "Stock market outlook today,18 Nov:Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - TradingView"
   ],
   "buys": [
     {
-      "symbol": "EICHERMOT",
-      "price": 7828.0,
-      "atr": 205.32846725473905,
-      "chg": 3.01355441505462,
-      "rsi": 66.24836923863214,
-      "vol_ratio": 1.343690833614062,
-      "buy": 6,
+      "symbol": "ONGC",
+      "price": 225.0,
+      "atr": 4.051582251240433,
+      "chg": 0.6621312183472394,
+      "rsi": 53.811545432427934,
+      "vol_ratio": 0.6281881588844245,
+      "buy": 5,
       "sell": 0,
       "why_buy": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 66: strong but not overheated",
-        "Volume 1.3x average on a green day",
-        "Up 3.0% yesterday",
+        "RSI 54: strong but not overheated",
+        "Up 0.7% yesterday",
         "Closed near the day's high"
       ],
       "why_sell": [],
-      "entry": 7828.0,
-      "stop": 7622.67,
-      "target": 8135.99,
-      "qty": 4,
-      "invest": 31312,
-      "max_loss": 821,
-      "profit": 1232,
+      "entry": 225.0,
+      "stop": 220.95,
+      "target": 231.08,
+      "qty": 148,
+      "invest": 33300,
+      "max_loss": 600,
+      "profit": 899,
       "side": "BUY",
-      "score": 6,
+      "score": 5,
       "reasons": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 66: strong but not overheated",
-        "Volume 1.3x average on a green day",
-        "Up 3.0% yesterday",
+        "RSI 54: strong but not overheated",
+        "Up 0.7% yesterday",
         "Closed near the day's high"
       ],
       "headlines": [
-        "EICHERMOT Stock Price and Chart \u2014 NSE:EICHERMOT - TradingView",
-        "With EPS Growth And More, Eicher Motors (NSE:EICHERMOT) Makes An Interesting Case - Simply Wall St",
-        "Eicher Motors Limited Estimates \u2013 NSE:EICHERMOT - TradingView"
+        "ONGC Share Price - Upstox",
+        "ONGC Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
+        "Oil and Natural Gas (ONGC) Share Price Today (NSE), Market News - TechGraph"
+      ],
+      "news_flag": false
+    },
+    {
+      "symbol": "CIPLA",
+      "price": 1417.0,
+      "atr": 26.5324507248301,
+      "chg": 2.089337175792516,
+      "rsi": 62.15753878983609,
+      "vol_ratio": 1.8807636824718617,
+      "buy": 5,
+      "sell": 0,
+      "why_buy": [
+        "Uptrend: price above 20 and 50 day averages",
+        "RSI 62: strong but not overheated",
+        "Volume 1.9x average on a green day",
+        "Up 2.1% yesterday"
+      ],
+      "why_sell": [],
+      "entry": 1417.0,
+      "stop": 1390.47,
+      "target": 1456.8,
+      "qty": 23,
+      "invest": 32591,
+      "max_loss": 610,
+      "profit": 915,
+      "side": "BUY",
+      "score": 5,
+      "reasons": [
+        "Uptrend: price above 20 and 50 day averages",
+        "RSI 62: strong but not overheated",
+        "Volume 1.9x average on a green day",
+        "Up 2.1% yesterday"
+      ],
+      "headlines": [
+        "Cipla (CIPLA) Share Price Today (NSE), Market News - TechGraph",
+        "CIPLA Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
+        "Cipla shares jump 5% after Q4 results; records highest-ever yearly revenue - Business Standard"
       ],
       "news_flag": false
     }
@@ -99,77 +135,115 @@
   "sells": [
     {
       "symbol": "COALINDIA",
-      "price": 391.54998779296875,
-      "atr": 8.414125581846001,
-      "chg": -1.4968584168632115,
-      "rsi": 44.13220310463676,
-      "vol_ratio": 2.726406494729633,
+      "price": 388.0,
+      "atr": 8.288118355575751,
+      "chg": -0.9066499562364383,
+      "rsi": 41.60712055877855,
+      "vol_ratio": 0.6282003934038465,
       "buy": 0,
       "sell": 5,
       "why_buy": [],
       "why_sell": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 44: weak momentum",
-        "Volume 2.7x average on a red day",
-        "Down 1.5% yesterday"
+        "RSI 42: weak momentum",
+        "Down 0.9% yesterday",
+        "Closed near the day's low"
       ],
-      "entry": 391.55,
-      "stop": 399.96,
-      "target": 378.93,
+      "entry": 388.0,
+      "stop": 396.29,
+      "target": 375.57,
       "qty": 85,
-      "invest": 33282,
-      "max_loss": 715,
-      "profit": 1073,
+      "invest": 32980,
+      "max_loss": 704,
+      "profit": 1057,
       "side": "SELL",
       "score": 5,
       "reasons": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 44: weak momentum",
-        "Volume 2.7x average on a red day",
-        "Down 1.5% yesterday"
+        "RSI 42: weak momentum",
+        "Down 0.9% yesterday",
+        "Closed near the day's low"
       ],
       "headlines": [
         "Coal India to sell 10% stake in unit Mahanadi Coalfields' IPO - Reuters",
-        "Coal India (NSEI:COALINDIA) Stock Forecast & Analyst Predictions - Simply Wall St",
+        "Coal India Limited (NSE:COALINDIA) Looks Interesting, And It's About To Pay A Dividend - Simply Wall St",
         "COALINDIA Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView"
       ],
       "news_flag": false
     },
     {
-      "symbol": "BRITANNIA",
-      "price": 4700.0,
-      "atr": 113.33322031104159,
-      "chg": -1.13588557004628,
-      "rsi": 43.95786118257994,
-      "vol_ratio": 0.8573780631075902,
+      "symbol": "HINDALCO",
+      "price": 900.0,
+      "atr": 25.481718817381267,
+      "chg": -2.991107518189162,
+      "rsi": 41.16869223607481,
+      "vol_ratio": 1.1999597582372994,
       "buy": 0,
       "sell": 5,
       "why_buy": [],
       "why_sell": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 44: weak momentum",
-        "Down 1.1% yesterday",
+        "RSI 41: weak momentum",
+        "Down 3.0% yesterday",
         "Closed near the day's low"
       ],
-      "entry": 4700.0,
-      "stop": 4813.33,
-      "target": 4530.0,
-      "qty": 7,
-      "invest": 32900,
-      "max_loss": 793,
-      "profit": 1190,
+      "entry": 900.0,
+      "stop": 925.48,
+      "target": 861.78,
+      "qty": 37,
+      "invest": 33300,
+      "max_loss": 943,
+      "profit": 1414,
       "side": "SELL",
       "score": 5,
       "reasons": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 44: weak momentum",
-        "Down 1.1% yesterday",
+        "RSI 41: weak momentum",
+        "Down 3.0% yesterday",
+        "Closed near the day's low"
+      ],
+      "headlines": [
+        "HINDALCO Share Price Today - Hindalco Industries on NSE/BSE - scanx.trade",
+        "Hindalco shares fall 1% after Novelis announces $265-million sale of China units - Moneycontrol.com",
+        "Hindalco Industries (NSEI:HINDALCO) - Stock Analysis - Simply Wall St"
+      ],
+      "news_flag": false
+    },
+    {
+      "symbol": "BRITANNIA",
+      "price": 4673.2001953125,
+      "atr": 108.8665477665029,
+      "chg": -0.5702086103723358,
+      "rsi": 42.35825290729439,
+      "vol_ratio": 0.8088025804820926,
+      "buy": 0,
+      "sell": 5,
+      "why_buy": [],
+      "why_sell": [
+        "Downtrend: price below 20 and 50 day averages",
+        "RSI 42: weak momentum",
+        "Down 0.6% yesterday",
+        "Closed near the day's low"
+      ],
+      "entry": 4673.2,
+      "stop": 4782.07,
+      "target": 4509.9,
+      "qty": 7,
+      "invest": 32712,
+      "max_loss": 762,
+      "profit": 1143,
+      "side": "SELL",
+      "score": 5,
+      "reasons": [
+        "Downtrend: price below 20 and 50 day averages",
+        "RSI 42: weak momentum",
+        "Down 0.6% yesterday",
         "Closed near the day's low"
       ],
       "headlines": [
         "Britannia Industries (BRITANNIA) Share Price Today (NSE), Market News - TechGraph",
-        "Britannia Industries (NSEI:BRITANNIA) Stock Forecast & Analyst Predictions - Simply Wall St",
-        "Britannia Industries Ltd down for fifth straight session - Business Standard"
+        "Britannia Industries Ltd down for fifth straight session - Business Standard",
+        "Britannia shares fall 4.5% as firm warns about price hikes post-Q4 results - Moneycontrol.com"
       ],
       "news_flag": false
     }
