@@ -1,253 +1,174 @@
 {
-  "date": "Wednesday, 18 November 2026",
-  "updated": "16:51 IST",
-  "mood": "negative",
+  "date": "Thursday, 19 November 2026",
+  "updated": "16:49 IST",
+  "mood": "mixed",
   "cues": [
     {
       "name": "Nifty 50",
-      "value": 25227.95,
-      "chg": -0.63
+      "value": 25514.3,
+      "chg": 1.14
     },
     {
       "name": "Sensex",
-      "value": 82031.81,
-      "chg": -0.61
+      "value": 83021.75,
+      "chg": 1.21
     },
     {
       "name": "India VIX",
-      "value": 15.52,
-      "chg": 0.0
+      "value": 16.11,
+      "chg": 3.47
     },
     {
       "name": "S&P 500",
-      "value": 7340.53,
-      "chg": -1.03
+      "value": 7323.63,
+      "chg": -0.23
     },
     {
       "name": "Nasdaq",
-      "value": 24328.38,
-      "chg": -0.74
+      "value": 24429.88,
+      "chg": 0.42
     },
     {
       "name": "Nikkei",
-      "value": 59024.28,
-      "chg": 0.28
+      "value": 59444.21,
+      "chg": 0.71
     },
     {
       "name": "Crude (WTI)",
-      "value": 83.81,
-      "chg": -2.56
+      "value": 82.67,
+      "chg": -0.71
     },
     {
       "name": "USD/INR",
-      "value": 93.44,
-      "chg": -0.56
+      "value": 93.29,
+      "chg": -0.2
     }
   ],
-  "warnings": [
-    "Global markets are weak. Buy picks need a higher score today."
-  ],
+  "warnings": [],
   "demo": false,
   "market_news": [
-    "Stock Market Today Live Updates: BSE Sensex tumbles over 400 points, NSE Nifty50 trades below 25,200 - The Times of India",
-    "Sensex, Nifty today: Market updates for November 17 | Tap to know more | Inshorts - Inshorts",
-    "Sensex Falls 500 Pts; Nifty Slips Below 25,250 on Profit Booking - HDFC Sky",
-    "Stock market outlook today,18 Nov:Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - TradingView"
+    "Markets snap 2-day rally: Sensex settles 500 pts lower, Nifty ends below 25,250: key factors behind... - Moneycontrol.com",
+    "Sensex today | Stock Market Highlights: Sensex surges 989 pts to 83,021; Nifty up 286 pts at 25,514; Auto stocks lead market rally - BusinessLine",
+    "Stock Market Highlights, Sensex Today: Sensex Closes 500 Points Lower Amid Mixed Global Cues - NDTV",
+    "Stock Market Today: Gift Nifty, US Fed Minutes To Anthropic IPO; Five Key Factors For Sensex, Nifty 50 On Nov 19 - NDTV Profit"
   ],
   "buys": [
     {
-      "symbol": "ONGC",
-      "price": 225.0,
-      "atr": 4.051582251240433,
-      "chg": 0.6621312183472394,
-      "rsi": 53.811545432427934,
-      "vol_ratio": 0.6281881588844245,
+      "symbol": "ITC",
+      "price": 301.0,
+      "atr": 6.6992459748838655,
+      "chg": 1.4834773452259364,
+      "rsi": 74.80683292606815,
+      "vol_ratio": 1.2179777120524338,
       "buy": 5,
       "sell": 0,
       "why_buy": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 54: strong but not overheated",
-        "Up 0.7% yesterday",
+        "Volume 1.2x average on a green day",
+        "Up 1.5% yesterday",
         "Closed near the day's high"
       ],
       "why_sell": [],
-      "entry": 225.0,
-      "stop": 220.95,
-      "target": 231.08,
-      "qty": 148,
-      "invest": 33300,
-      "max_loss": 600,
-      "profit": 899,
+      "entry": 301.0,
+      "stop": 294.3,
+      "target": 311.05,
+      "qty": 110,
+      "invest": 33110,
+      "max_loss": 737,
+      "profit": 1105,
       "side": "BUY",
       "score": 5,
       "reasons": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 54: strong but not overheated",
-        "Up 0.7% yesterday",
+        "Volume 1.2x average on a green day",
+        "Up 1.5% yesterday",
         "Closed near the day's high"
       ],
       "headlines": [
-        "ONGC Share Price - Upstox",
-        "ONGC Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
-        "Oil and Natural Gas (ONGC) Share Price Today (NSE), Market News - TechGraph"
+        "ITC Share Price - Upstox",
+        "ITC share price slips 2%, hits 52-week low; what's making Street nervous? - Business Standard",
+        "ITC Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView"
       ],
       "news_flag": false
     },
     {
-      "symbol": "CIPLA",
-      "price": 1417.0,
-      "atr": 26.5324507248301,
-      "chg": 2.089337175792516,
-      "rsi": 62.15753878983609,
-      "vol_ratio": 1.8807636824718617,
+      "symbol": "AXISBANK",
+      "price": 1380.800048828125,
+      "atr": 27.441389803071463,
+      "chg": 1.5294153550091893,
+      "rsi": 71.40855978922903,
+      "vol_ratio": 1.2546209934433297,
       "buy": 5,
       "sell": 0,
       "why_buy": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 62: strong but not overheated",
-        "Volume 1.9x average on a green day",
-        "Up 2.1% yesterday"
+        "Volume 1.3x average on a green day",
+        "Up 1.5% yesterday",
+        "Closed near the day's high"
       ],
       "why_sell": [],
-      "entry": 1417.0,
-      "stop": 1390.47,
-      "target": 1456.8,
-      "qty": 23,
+      "entry": 1380.8,
+      "stop": 1353.36,
+      "target": 1421.96,
+      "qty": 24,
+      "invest": 33139,
+      "max_loss": 659,
+      "profit": 988,
+      "side": "BUY",
+      "score": 5,
+      "reasons": [
+        "Uptrend: price above 20 and 50 day averages",
+        "Volume 1.3x average on a green day",
+        "Up 1.5% yesterday",
+        "Closed near the day's high"
+      ],
+      "headlines": [
+        "Axis Bank Share Price - Live NSE: AXISBANK Stock Price & Chart - Upstox",
+        "AXISBANK Share Price Today - Axis Bank on NSE/BSE - scanx.trade",
+        "Nifty Bank 62,000: Record Run, Key Levels and Bank Stocks - Univest"
+      ],
+      "news_flag": true
+    },
+    {
+      "symbol": "ADANIPORTS",
+      "price": 1917.0999755859375,
+      "atr": 46.10475224966648,
+      "chg": 0.7621150103050089,
+      "rsi": 60.018849503559984,
+      "vol_ratio": 0.5629565811843275,
+      "buy": 5,
+      "sell": 0,
+      "why_buy": [
+        "Uptrend: price above 20 and 50 day averages",
+        "RSI 60: strong but not overheated",
+        "Up 0.8% yesterday",
+        "Closed near the day's high"
+      ],
+      "why_sell": [],
+      "entry": 1917.1,
+      "stop": 1871.0,
+      "target": 1986.26,
+      "qty": 17,
       "invest": 32591,
-      "max_loss": 610,
-      "profit": 915,
+      "max_loss": 784,
+      "profit": 1176,
       "side": "BUY",
       "score": 5,
       "reasons": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 62: strong but not overheated",
-        "Volume 1.9x average on a green day",
-        "Up 2.1% yesterday"
+        "RSI 60: strong but not overheated",
+        "Up 0.8% yesterday",
+        "Closed near the day's high"
       ],
       "headlines": [
-        "Cipla (CIPLA) Share Price Today (NSE), Market News - TechGraph",
-        "CIPLA Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
-        "Cipla shares jump 5% after Q4 results; records highest-ever yearly revenue - Business Standard"
+        "Adani Ports and Special Economic Zone (NSEI:ADANIPORTS) Stock Forecast & Analyst Predictions - Simply Wall St",
+        "At new highs! Eternal, Groww, Adani Ports, Ather, 16 more NSE 500 stocks - Business Standard",
+        "Adani Ports shares in focus on handling 42.5 MMT cargo in Feb, volume up 16% YoY; check monthly update - Upstox"
       ],
       "news_flag": false
     }
   ],
-  "sells": [
-    {
-      "symbol": "COALINDIA",
-      "price": 388.0,
-      "atr": 8.288118355575751,
-      "chg": -0.9066499562364383,
-      "rsi": 41.60712055877855,
-      "vol_ratio": 0.6282003934038465,
-      "buy": 0,
-      "sell": 5,
-      "why_buy": [],
-      "why_sell": [
-        "Downtrend: price below 20 and 50 day averages",
-        "RSI 42: weak momentum",
-        "Down 0.9% yesterday",
-        "Closed near the day's low"
-      ],
-      "entry": 388.0,
-      "stop": 396.29,
-      "target": 375.57,
-      "qty": 85,
-      "invest": 32980,
-      "max_loss": 704,
-      "profit": 1057,
-      "side": "SELL",
-      "score": 5,
-      "reasons": [
-        "Downtrend: price below 20 and 50 day averages",
-        "RSI 42: weak momentum",
-        "Down 0.9% yesterday",
-        "Closed near the day's low"
-      ],
-      "headlines": [
-        "Coal India to sell 10% stake in unit Mahanadi Coalfields' IPO - Reuters",
-        "Coal India Limited (NSE:COALINDIA) Looks Interesting, And It's About To Pay A Dividend - Simply Wall St",
-        "COALINDIA Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView"
-      ],
-      "news_flag": false
-    },
-    {
-      "symbol": "HINDALCO",
-      "price": 900.0,
-      "atr": 25.481718817381267,
-      "chg": -2.991107518189162,
-      "rsi": 41.16869223607481,
-      "vol_ratio": 1.1999597582372994,
-      "buy": 0,
-      "sell": 5,
-      "why_buy": [],
-      "why_sell": [
-        "Downtrend: price below 20 and 50 day averages",
-        "RSI 41: weak momentum",
-        "Down 3.0% yesterday",
-        "Closed near the day's low"
-      ],
-      "entry": 900.0,
-      "stop": 925.48,
-      "target": 861.78,
-      "qty": 37,
-      "invest": 33300,
-      "max_loss": 943,
-      "profit": 1414,
-      "side": "SELL",
-      "score": 5,
-      "reasons": [
-        "Downtrend: price below 20 and 50 day averages",
-        "RSI 41: weak momentum",
-        "Down 3.0% yesterday",
-        "Closed near the day's low"
-      ],
-      "headlines": [
-        "HINDALCO Share Price Today - Hindalco Industries on NSE/BSE - scanx.trade",
-        "Hindalco shares fall 1% after Novelis announces $265-million sale of China units - Moneycontrol.com",
-        "Hindalco Industries (NSEI:HINDALCO) - Stock Analysis - Simply Wall St"
-      ],
-      "news_flag": false
-    },
-    {
-      "symbol": "BRITANNIA",
-      "price": 4673.2001953125,
-      "atr": 108.8665477665029,
-      "chg": -0.5702086103723358,
-      "rsi": 42.35825290729439,
-      "vol_ratio": 0.8088025804820926,
-      "buy": 0,
-      "sell": 5,
-      "why_buy": [],
-      "why_sell": [
-        "Downtrend: price below 20 and 50 day averages",
-        "RSI 42: weak momentum",
-        "Down 0.6% yesterday",
-        "Closed near the day's low"
-      ],
-      "entry": 4673.2,
-      "stop": 4782.07,
-      "target": 4509.9,
-      "qty": 7,
-      "invest": 32712,
-      "max_loss": 762,
-      "profit": 1143,
-      "side": "SELL",
-      "score": 5,
-      "reasons": [
-        "Downtrend: price below 20 and 50 day averages",
-        "RSI 42: weak momentum",
-        "Down 0.6% yesterday",
-        "Closed near the day's low"
-      ],
-      "headlines": [
-        "Britannia Industries (BRITANNIA) Share Price Today (NSE), Market News - TechGraph",
-        "Britannia Industries Ltd down for fifth straight session - Business Standard",
-        "Britannia shares fall 4.5% as firm warns about price hikes post-Q4 results - Moneycontrol.com"
-      ],
-      "news_flag": false
-    }
-  ],
+  "sells": [],
   "capital": 100000,
   "loss_limit": 2000
 }
