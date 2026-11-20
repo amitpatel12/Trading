@@ -1,174 +1,261 @@
 {
-  "date": "Thursday, 19 November 2026",
-  "updated": "16:49 IST",
-  "mood": "mixed",
+  "date": "Friday, 20 November 2026",
+  "updated": "16:35 IST",
+  "mood": "negative",
   "cues": [
     {
       "name": "Nifty 50",
-      "value": 25514.3,
-      "chg": 1.14
+      "value": 25800.6,
+      "chg": 1.12
     },
     {
       "name": "Sensex",
-      "value": 83021.75,
-      "chg": 1.21
+      "value": 83919.71,
+      "chg": 1.08
     },
     {
       "name": "India VIX",
-      "value": 16.11,
-      "chg": 3.47
+      "value": 17.32,
+      "chg": 7.51
     },
     {
       "name": "S&P 500",
-      "value": 7323.63,
-      "chg": -0.23
+      "value": 7175.83,
+      "chg": -2.02
     },
     {
       "name": "Nasdaq",
-      "value": 24429.88,
-      "chg": 0.42
+      "value": 23879.2,
+      "chg": -2.25
     },
     {
       "name": "Nikkei",
-      "value": 59444.21,
-      "chg": 0.71
+      "value": 56436.65,
+      "chg": -5.06
     },
     {
       "name": "Crude (WTI)",
-      "value": 82.67,
-      "chg": -0.71
+      "value": 81.49,
+      "chg": -2.07
     },
     {
       "name": "USD/INR",
-      "value": 93.29,
-      "chg": -0.2
+      "value": 92.69,
+      "chg": -0.83
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "Global markets are weak. Buy picks need a higher score today."
+  ],
   "demo": false,
   "market_news": [
+    "Stock Market Highlights, November 20: Sensex rises 897 pts, Nifty ends at 25,800, \u20b9 sees largest single day gain in a month - BusinessLine",
     "Markets snap 2-day rally: Sensex settles 500 pts lower, Nifty ends below 25,250: key factors behind... - Moneycontrol.com",
-    "Sensex today | Stock Market Highlights: Sensex surges 989 pts to 83,021; Nifty up 286 pts at 25,514; Auto stocks lead market rally - BusinessLine",
-    "Stock Market Highlights, Sensex Today: Sensex Closes 500 Points Lower Amid Mixed Global Cues - NDTV",
-    "Stock Market Today: Gift Nifty, US Fed Minutes To Anthropic IPO; Five Key Factors For Sensex, Nifty 50 On Nov 19 - NDTV Profit"
+    "Stock Market Open Report November 20, 2026: Sensex, Nifty Edge Lower, Managing To Buck Global Selloff - HDFC Sky",
+    "Market Midday, 20 November 2026: Sensex and Nifty 50 Gain as Banking and IT Stocks Support Recovery - Kotak Neo"
   ],
   "buys": [
     {
-      "symbol": "ITC",
-      "price": 301.0,
-      "atr": 6.6992459748838655,
-      "chg": 1.4834773452259364,
-      "rsi": 74.80683292606815,
-      "vol_ratio": 1.2179777120524338,
-      "buy": 5,
+      "symbol": "POWERGRID",
+      "price": 269.0,
+      "atr": 6.346715708270149,
+      "chg": 1.7013232514177634,
+      "rsi": 62.44362111177103,
+      "vol_ratio": 1.2375803757031805,
+      "buy": 6,
       "sell": 0,
       "why_buy": [
         "Uptrend: price above 20 and 50 day averages",
+        "RSI 62: strong but not overheated",
         "Volume 1.2x average on a green day",
-        "Up 1.5% yesterday",
+        "Up 1.7% yesterday",
         "Closed near the day's high"
       ],
       "why_sell": [],
-      "entry": 301.0,
-      "stop": 294.3,
-      "target": 311.05,
-      "qty": 110,
-      "invest": 33110,
-      "max_loss": 737,
-      "profit": 1105,
+      "entry": 269.0,
+      "stop": 262.65,
+      "target": 278.52,
+      "qty": 123,
+      "invest": 33087,
+      "max_loss": 781,
+      "profit": 1171,
       "side": "BUY",
-      "score": 5,
+      "score": 6,
       "reasons": [
         "Uptrend: price above 20 and 50 day averages",
+        "RSI 62: strong but not overheated",
         "Volume 1.2x average on a green day",
-        "Up 1.5% yesterday",
+        "Up 1.7% yesterday",
         "Closed near the day's high"
       ],
       "headlines": [
-        "ITC Share Price - Upstox",
-        "ITC share price slips 2%, hits 52-week low; what's making Street nervous? - Business Standard",
-        "ITC Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView"
+        "Power Grid Corp Share Price - Live NSE: POWERGRID Stock Price & Chart - Upstox",
+        "Power Grid (POWERGRID) Share Price Today (NSE), Market News - TechGraph",
+        "Dividend Investors: Don't Be Too Quick To Buy Power Grid Corporation of India Limited (NSE:POWERGRID) For Its Upcoming Dividend - Simply Wall St"
       ],
       "news_flag": false
     },
     {
-      "symbol": "AXISBANK",
-      "price": 1380.800048828125,
-      "atr": 27.441389803071463,
-      "chg": 1.5294153550091893,
-      "rsi": 71.40855978922903,
-      "vol_ratio": 1.2546209934433297,
-      "buy": 5,
+      "symbol": "HDFCLIFE",
+      "price": 588.6500244140625,
+      "atr": 15.558075662557,
+      "chg": 2.0102308060797602,
+      "rsi": 62.331739534489834,
+      "vol_ratio": 1.5621856634596074,
+      "buy": 6,
       "sell": 0,
       "why_buy": [
         "Uptrend: price above 20 and 50 day averages",
-        "Volume 1.3x average on a green day",
-        "Up 1.5% yesterday",
+        "RSI 62: strong but not overheated",
+        "Volume 1.6x average on a green day",
+        "Up 2.0% yesterday",
         "Closed near the day's high"
       ],
       "why_sell": [],
-      "entry": 1380.8,
-      "stop": 1353.36,
-      "target": 1421.96,
-      "qty": 24,
-      "invest": 33139,
-      "max_loss": 659,
-      "profit": 988,
+      "entry": 588.65,
+      "stop": 573.09,
+      "target": 611.99,
+      "qty": 56,
+      "invest": 32964,
+      "max_loss": 871,
+      "profit": 1307,
       "side": "BUY",
-      "score": 5,
+      "score": 6,
       "reasons": [
         "Uptrend: price above 20 and 50 day averages",
-        "Volume 1.3x average on a green day",
-        "Up 1.5% yesterday",
+        "RSI 62: strong but not overheated",
+        "Volume 1.6x average on a green day",
+        "Up 2.0% yesterday",
         "Closed near the day's high"
       ],
       "headlines": [
-        "Axis Bank Share Price - Live NSE: AXISBANK Stock Price & Chart - Upstox",
-        "AXISBANK Share Price Today - Axis Bank on NSE/BSE - scanx.trade",
-        "Nifty Bank 62,000: Record Run, Key Levels and Bank Stocks - Univest"
+        "HDFCLIFE Share Price Today - HDFC Life Insurance on NSE/BSE - scanx.trade",
+        "HDFC Life (HDFCLIFE) Share Price Today (NSE), Market News - TechGraph",
+        "HDFC Bank And HDFC Life Hit 52-Week Lows Amid Growth Concerns - Kotak Neo"
       ],
       "news_flag": true
     },
     {
-      "symbol": "ADANIPORTS",
-      "price": 1917.0999755859375,
-      "atr": 46.10475224966648,
-      "chg": 0.7621150103050089,
-      "rsi": 60.018849503559984,
-      "vol_ratio": 0.5629565811843275,
+      "symbol": "BAJFINANCE",
+      "price": 1122.0,
+      "atr": 30.277215294408098,
+      "chg": 2.6673399885865923,
+      "rsi": 67.68643148136236,
+      "vol_ratio": 0.9760516513936529,
       "buy": 5,
       "sell": 0,
       "why_buy": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 60: strong but not overheated",
-        "Up 0.8% yesterday",
+        "RSI 68: strong but not overheated",
+        "Up 2.7% yesterday",
         "Closed near the day's high"
       ],
       "why_sell": [],
-      "entry": 1917.1,
-      "stop": 1871.0,
-      "target": 1986.26,
-      "qty": 17,
-      "invest": 32591,
-      "max_loss": 784,
-      "profit": 1176,
+      "entry": 1122.0,
+      "stop": 1091.72,
+      "target": 1167.42,
+      "qty": 29,
+      "invest": 32538,
+      "max_loss": 878,
+      "profit": 1317,
       "side": "BUY",
       "score": 5,
       "reasons": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 60: strong but not overheated",
-        "Up 0.8% yesterday",
+        "RSI 68: strong but not overheated",
+        "Up 2.7% yesterday",
         "Closed near the day's high"
       ],
       "headlines": [
-        "Adani Ports and Special Economic Zone (NSEI:ADANIPORTS) Stock Forecast & Analyst Predictions - Simply Wall St",
-        "At new highs! Eternal, Groww, Adani Ports, Ather, 16 more NSE 500 stocks - Business Standard",
-        "Adani Ports shares in focus on handling 42.5 MMT cargo in Feb, volume up 16% YoY; check monthly update - Upstox"
+        "Bajaj Finance Share Price - Live NSE: BAJFINANCE Stock Price & Chart - Upstox",
+        "If EPS Growth Is Important To You, Bajaj Finance (NSE:BAJFINANCE) Presents An Opportunity - Simply Wall St",
+        "Here's Why We Think Bajaj Finance (NSE:BAJFINANCE) Is Well Worth Watching - Simply Wall St"
       ],
       "news_flag": false
     }
   ],
-  "sells": [],
+  "sells": [
+    {
+      "symbol": "TITAN",
+      "price": 4620.0,
+      "atr": 127.88917386594541,
+      "chg": -1.7021276595744705,
+      "rsi": 45.87375043528126,
+      "vol_ratio": 1.363822449802282,
+      "buy": 1,
+      "sell": 5,
+      "why_buy": [
+        "Closed near the day's high"
+      ],
+      "why_sell": [
+        "Downtrend: price below 20 and 50 day averages",
+        "RSI 46: weak momentum",
+        "Volume 1.4x average on a red day",
+        "Down 1.7% yesterday"
+      ],
+      "entry": 4620.0,
+      "stop": 4747.89,
+      "target": 4428.17,
+      "qty": 7,
+      "invest": 32340,
+      "max_loss": 895,
+      "profit": 1343,
+      "side": "SELL",
+      "score": 5,
+      "reasons": [
+        "Downtrend: price below 20 and 50 day averages",
+        "RSI 46: weak momentum",
+        "Volume 1.4x average on a red day",
+        "Down 1.7% yesterday"
+      ],
+      "headlines": [
+        "Titan Company (TITAN) Share Price Today (NSE), Market News - TechGraph",
+        "Titan, Kalyan Jewellers shares fall up to 4% as gold, silver prices crash; jewellery stocks under pressure - Moneycontrol.com",
+        "Investors Shouldn't Be Too Comfortable With Titan's (NSE:TITAN) Earnings - Simply Wall St"
+      ],
+      "news_flag": false
+    },
+    {
+      "symbol": "TATASTEEL",
+      "price": 178.0,
+      "atr": 4.838831804555964,
+      "chg": -1.5976557020287219,
+      "rsi": 47.172424609855234,
+      "vol_ratio": 1.8910904744160597,
+      "buy": 1,
+      "sell": 5,
+      "why_buy": [
+        "Closed near the day's high"
+      ],
+      "why_sell": [
+        "Downtrend: price below 20 and 50 day averages",
+        "RSI 47: weak momentum",
+        "Volume 1.9x average on a red day",
+        "Down 1.6% yesterday"
+      ],
+      "entry": 178.0,
+      "stop": 182.84,
+      "target": 170.74,
+      "qty": 187,
+      "invest": 33286,
+      "max_loss": 905,
+      "profit": 1357,
+      "side": "SELL",
+      "score": 5,
+      "reasons": [
+        "Downtrend: price below 20 and 50 day averages",
+        "RSI 47: weak momentum",
+        "Volume 1.9x average on a red day",
+        "Down 1.6% yesterday"
+      ],
+      "headlines": [
+        "Tata Steel Share Price - Live NSE: TATASTEEL Stock Price & Chart - Upstox",
+        "F&O Buildup Nov 18: Why 158 Short Signals Differ From NSE Final OI - NiftyTrader",
+        "Tata Steel (NSEI:TATASTEEL) Stock Forecast & Analyst Predictions - Simply Wall St"
+      ],
+      "news_flag": false
+    }
+  ],
   "capital": 100000,
   "loss_limit": 2000
 }
