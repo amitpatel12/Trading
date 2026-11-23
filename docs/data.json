@@ -1,32 +1,32 @@
 {
-  "date": "Friday, 20 November 2026",
-  "updated": "16:35 IST",
+  "date": "Monday, 23 November 2026",
+  "updated": "17:29 IST",
   "mood": "negative",
   "cues": [
     {
       "name": "Nifty 50",
-      "value": 25800.6,
-      "chg": 1.12
+      "value": 25349.65,
+      "chg": -1.75
     },
     {
       "name": "Sensex",
-      "value": 83919.71,
-      "chg": 1.08
+      "value": 82435.99,
+      "chg": -1.77
     },
     {
       "name": "India VIX",
-      "value": 17.32,
-      "chg": 7.51
+      "value": 17.7,
+      "chg": 2.18
     },
     {
       "name": "S&P 500",
-      "value": 7175.83,
-      "chg": -2.02
+      "value": 6910.39,
+      "chg": -3.7
     },
     {
       "name": "Nasdaq",
-      "value": 23879.2,
-      "chg": -2.25
+      "value": 22617.73,
+      "chg": -5.28
     },
     {
       "name": "Nikkei",
@@ -35,13 +35,13 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": 81.49,
-      "chg": -2.07
+      "value": 82.09,
+      "chg": -2.25
     },
     {
       "name": "USD/INR",
-      "value": 92.69,
-      "chg": -0.83
+      "value": 92.73,
+      "chg": -0.61
     }
   ],
   "warnings": [
@@ -49,209 +49,163 @@
   ],
   "demo": false,
   "market_news": [
-    "Stock Market Highlights, November 20: Sensex rises 897 pts, Nifty ends at 25,800, \u20b9 sees largest single day gain in a month - BusinessLine",
-    "Markets snap 2-day rally: Sensex settles 500 pts lower, Nifty ends below 25,250: key factors behind... - Moneycontrol.com",
-    "Stock Market Open Report November 20, 2026: Sensex, Nifty Edge Lower, Managing To Buck Global Selloff - HDFC Sky",
-    "Market Midday, 20 November 2026: Sensex and Nifty 50 Gain as Banking and IT Stocks Support Recovery - Kotak Neo"
+    "Stock Market Crash, Sensex Today: Sensex Closes 1,483 Points Lower, US Markets Decline - NDTV",
+    "Black Monday crash fears grip markets: Will Sensex, Nifty open lower today? - India Today",
+    "Sensex, Nifty Open Higher Despite Weak Global Market Cues - HDFC Sky",
+    "Why did stock market fall today? Sensex crashes 1,484 points, Nifty posts biggest drop in 5 months - CNBC TV18 - LinkedIn"
   ],
   "buys": [
     {
-      "symbol": "POWERGRID",
-      "price": 269.0,
-      "atr": 6.346715708270149,
-      "chg": 1.7013232514177634,
-      "rsi": 62.44362111177103,
-      "vol_ratio": 1.2375803757031805,
-      "buy": 6,
-      "sell": 0,
-      "why_buy": [
-        "Uptrend: price above 20 and 50 day averages",
-        "RSI 62: strong but not overheated",
-        "Volume 1.2x average on a green day",
-        "Up 1.7% yesterday",
-        "Closed near the day's high"
-      ],
-      "why_sell": [],
-      "entry": 269.0,
-      "stop": 262.65,
-      "target": 278.52,
-      "qty": 123,
-      "invest": 33087,
-      "max_loss": 781,
-      "profit": 1171,
-      "side": "BUY",
-      "score": 6,
-      "reasons": [
-        "Uptrend: price above 20 and 50 day averages",
-        "RSI 62: strong but not overheated",
-        "Volume 1.2x average on a green day",
-        "Up 1.7% yesterday",
-        "Closed near the day's high"
-      ],
-      "headlines": [
-        "Power Grid Corp Share Price - Live NSE: POWERGRID Stock Price & Chart - Upstox",
-        "Power Grid (POWERGRID) Share Price Today (NSE), Market News - TechGraph",
-        "Dividend Investors: Don't Be Too Quick To Buy Power Grid Corporation of India Limited (NSE:POWERGRID) For Its Upcoming Dividend - Simply Wall St"
-      ],
-      "news_flag": false
-    },
-    {
-      "symbol": "HDFCLIFE",
-      "price": 588.6500244140625,
-      "atr": 15.558075662557,
-      "chg": 2.0102308060797602,
-      "rsi": 62.331739534489834,
-      "vol_ratio": 1.5621856634596074,
-      "buy": 6,
-      "sell": 0,
-      "why_buy": [
-        "Uptrend: price above 20 and 50 day averages",
-        "RSI 62: strong but not overheated",
-        "Volume 1.6x average on a green day",
-        "Up 2.0% yesterday",
-        "Closed near the day's high"
-      ],
-      "why_sell": [],
-      "entry": 588.65,
-      "stop": 573.09,
-      "target": 611.99,
-      "qty": 56,
-      "invest": 32964,
-      "max_loss": 871,
-      "profit": 1307,
-      "side": "BUY",
-      "score": 6,
-      "reasons": [
-        "Uptrend: price above 20 and 50 day averages",
-        "RSI 62: strong but not overheated",
-        "Volume 1.6x average on a green day",
-        "Up 2.0% yesterday",
-        "Closed near the day's high"
-      ],
-      "headlines": [
-        "HDFCLIFE Share Price Today - HDFC Life Insurance on NSE/BSE - scanx.trade",
-        "HDFC Life (HDFCLIFE) Share Price Today (NSE), Market News - TechGraph",
-        "HDFC Bank And HDFC Life Hit 52-Week Lows Amid Growth Concerns - Kotak Neo"
-      ],
-      "news_flag": true
-    },
-    {
-      "symbol": "BAJFINANCE",
-      "price": 1122.0,
-      "atr": 30.277215294408098,
-      "chg": 2.6673399885865923,
-      "rsi": 67.68643148136236,
-      "vol_ratio": 0.9760516513936529,
+      "symbol": "TCS",
+      "price": 2460.0,
+      "atr": 70.00243388727304,
+      "chg": 3.5266412991380225,
+      "rsi": 57.31343455544849,
+      "vol_ratio": 2.1037932282979543,
       "buy": 5,
       "sell": 0,
       "why_buy": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 68: strong but not overheated",
-        "Up 2.7% yesterday",
-        "Closed near the day's high"
+        "RSI 57: strong but not overheated",
+        "Volume 2.1x average on a green day",
+        "Up 3.5% yesterday"
       ],
       "why_sell": [],
-      "entry": 1122.0,
-      "stop": 1091.72,
-      "target": 1167.42,
-      "qty": 29,
-      "invest": 32538,
-      "max_loss": 878,
-      "profit": 1317,
+      "entry": 2460.0,
+      "stop": 2390.0,
+      "target": 2565.0,
+      "qty": 13,
+      "invest": 31980,
+      "max_loss": 910,
+      "profit": 1365,
       "side": "BUY",
       "score": 5,
       "reasons": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 68: strong but not overheated",
-        "Up 2.7% yesterday",
-        "Closed near the day's high"
+        "RSI 57: strong but not overheated",
+        "Volume 2.1x average on a green day",
+        "Up 3.5% yesterday"
       ],
       "headlines": [
-        "Bajaj Finance Share Price - Live NSE: BAJFINANCE Stock Price & Chart - Upstox",
-        "If EPS Growth Is Important To You, Bajaj Finance (NSE:BAJFINANCE) Presents An Opportunity - Simply Wall St",
-        "Here's Why We Think Bajaj Finance (NSE:BAJFINANCE) Is Well Worth Watching - Simply Wall St"
+        "TCS Option Chain: Live NSE Option Chain Data, OI & Price - Kotak Neo",
+        "Tata Consultancy Services (NSEI:TCS) Stock Forecast & Analyst Predictions - Simply Wall St",
+        "Tata Consultancy Services (TCS) Share Price Today (NSE), Market News - TechGraph"
       ],
       "news_flag": false
     }
   ],
   "sells": [
     {
-      "symbol": "TITAN",
-      "price": 4620.0,
-      "atr": 127.88917386594541,
-      "chg": -1.7021276595744705,
-      "rsi": 45.87375043528126,
-      "vol_ratio": 1.363822449802282,
-      "buy": 1,
-      "sell": 5,
-      "why_buy": [
-        "Closed near the day's high"
-      ],
+      "symbol": "HINDALCO",
+      "price": 900.4500122070312,
+      "atr": 27.123701145380632,
+      "chg": -3.1253348889692,
+      "rsi": 43.146982849164544,
+      "vol_ratio": 1.6420502085336135,
+      "buy": 0,
+      "sell": 6,
+      "why_buy": [],
       "why_sell": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 46: weak momentum",
-        "Volume 1.4x average on a red day",
-        "Down 1.7% yesterday"
+        "RSI 43: weak momentum",
+        "Volume 1.6x average on a red day",
+        "Down 3.1% yesterday",
+        "Closed near the day's low"
       ],
-      "entry": 4620.0,
-      "stop": 4747.89,
-      "target": 4428.17,
-      "qty": 7,
-      "invest": 32340,
-      "max_loss": 895,
-      "profit": 1343,
+      "entry": 900.45,
+      "stop": 927.57,
+      "target": 859.76,
+      "qty": 36,
+      "invest": 32416,
+      "max_loss": 976,
+      "profit": 1465,
+      "side": "SELL",
+      "score": 6,
+      "reasons": [
+        "Downtrend: price below 20 and 50 day averages",
+        "RSI 43: weak momentum",
+        "Volume 1.6x average on a red day",
+        "Down 3.1% yesterday",
+        "Closed near the day's low"
+      ],
+      "headlines": [
+        "Hindalco Industries Share Price - Upstox",
+        "Hindalco Industries (HINDALCO) Share Price Today (NSE), Market News - TechGraph",
+        "Stocks to Watch Today: Hindalco, Eicher Motors. Tata Motors PV, Zaggle Prepaid, Hero Motors, Zetwerk,... - Moneycontrol.com"
+      ],
+      "news_flag": false
+    },
+    {
+      "symbol": "COALINDIA",
+      "price": 382.0,
+      "atr": 8.243447639763108,
+      "chg": -2.051282051282055,
+      "rsi": 38.15409148510855,
+      "vol_ratio": 0.8303154515537048,
+      "buy": 0,
+      "sell": 5,
+      "why_buy": [],
+      "why_sell": [
+        "Downtrend: price below 20 and 50 day averages",
+        "RSI 38: weak momentum",
+        "Down 2.1% yesterday",
+        "Closed near the day's low"
+      ],
+      "entry": 382.0,
+      "stop": 390.24,
+      "target": 369.63,
+      "qty": 87,
+      "invest": 33234,
+      "max_loss": 717,
+      "profit": 1076,
       "side": "SELL",
       "score": 5,
       "reasons": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 46: weak momentum",
-        "Volume 1.4x average on a red day",
-        "Down 1.7% yesterday"
+        "RSI 38: weak momentum",
+        "Down 2.1% yesterday",
+        "Closed near the day's low"
       ],
       "headlines": [
-        "Titan Company (TITAN) Share Price Today (NSE), Market News - TechGraph",
-        "Titan, Kalyan Jewellers shares fall up to 4% as gold, silver prices crash; jewellery stocks under pressure - Moneycontrol.com",
-        "Investors Shouldn't Be Too Comfortable With Titan's (NSE:TITAN) Earnings - Simply Wall St"
+        "Coal India to sell 10% stake in unit Mahanadi Coalfields' IPO - Reuters",
+        "Coal India Share Price Today Live NSE/BSE Graph & Chart - Kotak Neo",
+        "COALINDIA Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView"
       ],
       "news_flag": false
     },
     {
       "symbol": "TATASTEEL",
-      "price": 178.0,
-      "atr": 4.838831804555964,
-      "chg": -1.5976557020287219,
-      "rsi": 47.172424609855234,
-      "vol_ratio": 1.8910904744160597,
-      "buy": 1,
-      "sell": 5,
-      "why_buy": [
-        "Closed near the day's high"
-      ],
+      "price": 163.0,
+      "atr": 5.743020261082138,
+      "chg": -8.42696629213483,
+      "rsi": 31.998036539052066,
+      "vol_ratio": 5.386404649587229,
+      "buy": 0,
+      "sell": 4,
+      "why_buy": [],
       "why_sell": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 47: weak momentum",
-        "Volume 1.9x average on a red day",
-        "Down 1.6% yesterday"
+        "Volume 5.4x average on a red day",
+        "Closed near the day's low"
       ],
-      "entry": 178.0,
-      "stop": 182.84,
-      "target": 170.74,
-      "qty": 187,
-      "invest": 33286,
-      "max_loss": 905,
-      "profit": 1357,
+      "entry": 163.0,
+      "stop": 168.74,
+      "target": 154.39,
+      "qty": 174,
+      "invest": 28362,
+      "max_loss": 999,
+      "profit": 1499,
       "side": "SELL",
-      "score": 5,
+      "score": 4,
       "reasons": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 47: weak momentum",
-        "Volume 1.9x average on a red day",
-        "Down 1.6% yesterday"
+        "Volume 5.4x average on a red day",
+        "Closed near the day's low"
       ],
       "headlines": [
-        "Tata Steel Share Price - Live NSE: TATASTEEL Stock Price & Chart - Upstox",
-        "F&O Buildup Nov 18: Why 158 Short Signals Differ From NSE Final OI - NiftyTrader",
-        "Tata Steel (NSEI:TATASTEEL) Stock Forecast & Analyst Predictions - Simply Wall St"
+        "Tata Steel (NSE:TATASTEEL) Approves Acquisition of 26.38% Stake in APL Apollo Tubes for Rs 15,511 Crore - Kalkine Media",
+        "Tata Steel (NSEI:TATASTEEL) Stock Forecast & Analyst Predictions - Simply Wall St",
+        "Tata Steel to Acquire 26.38% Stake in APL Apollo Tubes (NSE:APLAPOLLO) in Rs 2,100 Per Share Deal - Kalkine Media"
       ],
       "news_flag": false
     }
