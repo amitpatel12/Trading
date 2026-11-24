@@ -1,7 +1,7 @@
 {
-  "date": "Monday, 23 November 2026",
-  "updated": "17:29 IST",
-  "mood": "negative",
+  "date": "Tuesday, 24 November 2026",
+  "updated": "18:55 IST",
+  "mood": "positive",
   "cues": [
     {
       "name": "Nifty 50",
@@ -16,43 +16,43 @@
     {
       "name": "India VIX",
       "value": 17.7,
-      "chg": 2.18
+      "chg": 2.19
     },
     {
       "name": "S&P 500",
-      "value": 6910.39,
-      "chg": -3.7
+      "value": 7237.17,
+      "chg": 4.73
     },
     {
       "name": "Nasdaq",
-      "value": 22617.73,
-      "chg": -5.28
+      "value": 24089.56,
+      "chg": 6.51
     },
     {
       "name": "Nikkei",
-      "value": 56436.65,
-      "chg": -5.06
+      "value": 58644.63,
+      "chg": 3.91
     },
     {
       "name": "Crude (WTI)",
-      "value": 82.09,
-      "chg": -2.25
+      "value": 80.42,
+      "chg": 0.31
     },
     {
       "name": "USD/INR",
-      "value": 92.73,
-      "chg": -0.61
+      "value": 92.9,
+      "chg": 0.24
     }
   ],
   "warnings": [
-    "Global markets are weak. Buy picks need a higher score today."
+    "Global markets are strong. Short picks need a higher score today."
   ],
   "demo": false,
   "market_news": [
-    "Stock Market Crash, Sensex Today: Sensex Closes 1,483 Points Lower, US Markets Decline - NDTV",
-    "Black Monday crash fears grip markets: Will Sensex, Nifty open lower today? - India Today",
-    "Sensex, Nifty Open Higher Despite Weak Global Market Cues - HDFC Sky",
-    "Why did stock market fall today? Sensex crashes 1,484 points, Nifty posts biggest drop in 5 months - CNBC TV18 - LinkedIn"
+    "Stock Market Today Highlights November 23: Markets take heavy drubbing dragged by banks; Sensex plunges 1,484 pts, Nifty dives to 25,349.65 - BusinessLine",
+    "Jensen Huang reinstated NVIDIA CEO! How may it impact Sensex, Nifty recovery as bets are high for AI trade revival? - Livemint",
+    "Stock Market Holiday: Share Markets Shut For Guru Nanak Jayanti Today. Are Banks Closed Too? - NDTV",
+    "Stock market holiday today: BSE, NSE to remain closed for Guru Nanak Jayanti - Moneycontrol.com"
   ],
   "buys": [
     {
@@ -61,7 +61,7 @@
       "atr": 70.00243388727304,
       "chg": 3.5266412991380225,
       "rsi": 57.31343455544849,
-      "vol_ratio": 2.1037932282979543,
+      "vol_ratio": 2.1042969571677173,
       "buy": 5,
       "sell": 0,
       "why_buy": [
@@ -87,9 +87,81 @@
         "Up 3.5% yesterday"
       ],
       "headlines": [
-        "TCS Option Chain: Live NSE Option Chain Data, OI & Price - Kotak Neo",
         "Tata Consultancy Services (NSEI:TCS) Stock Forecast & Analyst Predictions - Simply Wall St",
-        "Tata Consultancy Services (TCS) Share Price Today (NSE), Market News - TechGraph"
+        "Tata Consultancy Services (TCS) Share Price Today (NSE), Market News - TechGraph",
+        "TCS stock falls after MHP acquisition: Brokerages bearish; Citi, HSBC flag integration risks, falling... - Moneycontrol.com"
+      ],
+      "news_flag": false
+    },
+    {
+      "symbol": "ITC",
+      "price": 301.0,
+      "atr": 6.577668720663697,
+      "chg": 0.6352369968948723,
+      "rsi": 73.01385623473745,
+      "vol_ratio": 1.201519764229916,
+      "buy": 4,
+      "sell": 0,
+      "why_buy": [
+        "Uptrend: price above 20 and 50 day averages",
+        "Volume 1.2x average on a green day",
+        "Up 0.6% yesterday"
+      ],
+      "why_sell": [],
+      "entry": 301.0,
+      "stop": 294.42,
+      "target": 310.87,
+      "qty": 110,
+      "invest": 33110,
+      "max_loss": 724,
+      "profit": 1085,
+      "side": "BUY",
+      "score": 4,
+      "reasons": [
+        "Uptrend: price above 20 and 50 day averages",
+        "Volume 1.2x average on a green day",
+        "Up 0.6% yesterday"
+      ],
+      "headlines": [
+        "ITC sees 2.9% of equity change hands in single large trade; stock slumps 3% - Business Standard",
+        "ITC Share Price Rises 3% On Q2FY27 Profit Hopes; Softer Tobacco Prices Support Margin Outlook - Kotak Neo",
+        "ITC (ITC) Share Price Today (NSE), Market News - TechGraph"
+      ],
+      "news_flag": true
+    },
+    {
+      "symbol": "EICHERMOT",
+      "price": 8172.5,
+      "atr": 208.42668028617945,
+      "chg": 0.7333908541846457,
+      "rsi": 71.22491430895965,
+      "vol_ratio": 1.2802606766971498,
+      "buy": 4,
+      "sell": 0,
+      "why_buy": [
+        "Uptrend: price above 20 and 50 day averages",
+        "Volume 1.3x average on a green day",
+        "Up 0.7% yesterday"
+      ],
+      "why_sell": [],
+      "entry": 8172.5,
+      "stop": 7964.07,
+      "target": 8485.14,
+      "qty": 4,
+      "invest": 32690,
+      "max_loss": 834,
+      "profit": 1251,
+      "side": "BUY",
+      "score": 4,
+      "reasons": [
+        "Uptrend: price above 20 and 50 day averages",
+        "Volume 1.3x average on a green day",
+        "Up 0.7% yesterday"
+      ],
+      "headlines": [
+        "Eicher Motors (NSEI:EICHERMOT) Stock Forecast & Analyst Predictions - Simply Wall St",
+        "Eicher Motors Limited Estimates \u2013 NSE:EICHERMOT - TradingView",
+        "Eicher Motors (NSE: EICHERMOT) Up 0.26% at \u20b97,357.5: EMA 51, RSI and Q1 Numbers - Kalkine India"
       ],
       "news_flag": false
     }
@@ -101,7 +173,7 @@
       "atr": 27.123701145380632,
       "chg": -3.1253348889692,
       "rsi": 43.146982849164544,
-      "vol_ratio": 1.6420502085336135,
+      "vol_ratio": 1.6421647680251352,
       "buy": 0,
       "sell": 6,
       "why_buy": [],
@@ -129,19 +201,19 @@
         "Closed near the day's low"
       ],
       "headlines": [
-        "Hindalco Industries Share Price - Upstox",
+        "Does Hindalco Industries (NSE:HINDALCO) Deserve A Spot On Your Watchlist? - Simply Wall St",
         "Hindalco Industries (HINDALCO) Share Price Today (NSE), Market News - TechGraph",
-        "Stocks to Watch Today: Hindalco, Eicher Motors. Tata Motors PV, Zaggle Prepaid, Hero Motors, Zetwerk,... - Moneycontrol.com"
+        "Hindalco Industries' shares jump 2% post update on aluminium extrusions business; here is what the company said - Upstox"
       ],
       "news_flag": false
     },
     {
       "symbol": "COALINDIA",
       "price": 382.0,
-      "atr": 8.243447639763108,
+      "atr": 8.24344762834363,
       "chg": -2.051282051282055,
-      "rsi": 38.15409148510855,
-      "vol_ratio": 0.8303154515537048,
+      "rsi": 38.15409116327442,
+      "vol_ratio": 0.8310937910612293,
       "buy": 0,
       "sell": 5,
       "why_buy": [],
@@ -167,45 +239,9 @@
         "Closed near the day's low"
       ],
       "headlines": [
+        "Coal India falls 3% post Q2 results but brokerages upbeat on PSU stock - Business Standard",
         "Coal India to sell 10% stake in unit Mahanadi Coalfields' IPO - Reuters",
-        "Coal India Share Price Today Live NSE/BSE Graph & Chart - Kotak Neo",
-        "COALINDIA Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView"
-      ],
-      "news_flag": false
-    },
-    {
-      "symbol": "TATASTEEL",
-      "price": 163.0,
-      "atr": 5.743020261082138,
-      "chg": -8.42696629213483,
-      "rsi": 31.998036539052066,
-      "vol_ratio": 5.386404649587229,
-      "buy": 0,
-      "sell": 4,
-      "why_buy": [],
-      "why_sell": [
-        "Downtrend: price below 20 and 50 day averages",
-        "Volume 5.4x average on a red day",
-        "Closed near the day's low"
-      ],
-      "entry": 163.0,
-      "stop": 168.74,
-      "target": 154.39,
-      "qty": 174,
-      "invest": 28362,
-      "max_loss": 999,
-      "profit": 1499,
-      "side": "SELL",
-      "score": 4,
-      "reasons": [
-        "Downtrend: price below 20 and 50 day averages",
-        "Volume 5.4x average on a red day",
-        "Closed near the day's low"
-      ],
-      "headlines": [
-        "Tata Steel (NSE:TATASTEEL) Approves Acquisition of 26.38% Stake in APL Apollo Tubes for Rs 15,511 Crore - Kalkine Media",
-        "Tata Steel (NSEI:TATASTEEL) Stock Forecast & Analyst Predictions - Simply Wall St",
-        "Tata Steel to Acquire 26.38% Stake in APL Apollo Tubes (NSE:APLAPOLLO) in Rs 2,100 Per Share Deal - Kalkine Media"
+        "Coal India Share Price Today Live NSE/BSE Graph & Chart - Kotak Neo"
       ],
       "news_flag": false
     }
