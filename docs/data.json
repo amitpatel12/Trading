@@ -1,167 +1,173 @@
 {
-  "date": "Tuesday, 24 November 2026",
-  "updated": "18:55 IST",
-  "mood": "positive",
+  "date": "Wednesday, 25 November 2026",
+  "updated": "17:50 IST",
+  "mood": "negative",
   "cues": [
     {
       "name": "Nifty 50",
-      "value": 25349.65,
-      "chg": -1.75
+      "value": 25819.25,
+      "chg": 1.85
     },
     {
       "name": "Sensex",
-      "value": 82435.99,
-      "chg": -1.77
+      "value": 83938.28,
+      "chg": 1.82
     },
     {
       "name": "India VIX",
       "value": 17.7,
-      "chg": 2.19
+      "chg": -0.01
     },
     {
       "name": "S&P 500",
-      "value": 7237.17,
-      "chg": 4.73
+      "value": 7201.09,
+      "chg": -0.5
     },
     {
       "name": "Nasdaq",
-      "value": 24089.56,
-      "chg": 6.51
+      "value": 23733.54,
+      "chg": -1.48
     },
     {
       "name": "Nikkei",
-      "value": 58644.63,
-      "chg": 3.91
+      "value": 57011.62,
+      "chg": -2.78
     },
     {
       "name": "Crude (WTI)",
-      "value": 80.42,
-      "chg": 0.31
+      "value": 82.13,
+      "chg": 0.1
     },
     {
       "name": "USD/INR",
-      "value": 92.9,
-      "chg": 0.24
+      "value": 92.22,
+      "chg": -0.75
     }
   ],
   "warnings": [
-    "Global markets are strong. Short picks need a higher score today."
+    "Global markets are weak. Buy picks need a higher score today."
   ],
   "demo": false,
   "market_news": [
-    "Stock Market Today Highlights November 23: Markets take heavy drubbing dragged by banks; Sensex plunges 1,484 pts, Nifty dives to 25,349.65 - BusinessLine",
-    "Jensen Huang reinstated NVIDIA CEO! How may it impact Sensex, Nifty recovery as bets are high for AI trade revival? - Livemint",
-    "Stock Market Holiday: Share Markets Shut For Guru Nanak Jayanti Today. Are Banks Closed Too? - NDTV",
-    "Stock market holiday today: BSE, NSE to remain closed for Guru Nanak Jayanti - Moneycontrol.com"
+    "Stock market today: Sensex holds over 1,000 point gains after 2,000 point surge, Nifty50 crosses 25,900 - - The Times of India",
+    "GIFT Nifty jumps 280 pts today, signals strong start for Sensex, Nifty despite Asian markets rout; FIIs... - Moneycontrol.com",
+    "Why is the Stock Market Up Today? BSE Sensex Soars Over 1400 Points; Nifty 50 Nears 25,800 - Kotak Neo",
+    "Sensex Jumps 1,502 Points; Nifty Surges 470 on FII Buying - HDFC Sky"
   ],
   "buys": [
     {
       "symbol": "TCS",
-      "price": 2460.0,
-      "atr": 70.00243388727304,
-      "chg": 3.5266412991380225,
-      "rsi": 57.31343455544849,
-      "vol_ratio": 2.1042969571677173,
+      "price": 2517.300048828125,
+      "atr": 70.28797432324544,
+      "chg": 2.3292702775660645,
+      "rsi": 62.538527794719805,
+      "vol_ratio": 1.4110849323875583,
       "buy": 5,
       "sell": 0,
       "why_buy": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 57: strong but not overheated",
-        "Volume 2.1x average on a green day",
-        "Up 3.5% yesterday"
+        "RSI 63: strong but not overheated",
+        "Volume 1.4x average on a green day",
+        "Up 2.3% yesterday"
       ],
       "why_sell": [],
-      "entry": 2460.0,
-      "stop": 2390.0,
-      "target": 2565.0,
+      "entry": 2517.3,
+      "stop": 2447.01,
+      "target": 2622.73,
       "qty": 13,
-      "invest": 31980,
-      "max_loss": 910,
-      "profit": 1365,
+      "invest": 32725,
+      "max_loss": 914,
+      "profit": 1371,
       "side": "BUY",
       "score": 5,
       "reasons": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 57: strong but not overheated",
-        "Volume 2.1x average on a green day",
-        "Up 3.5% yesterday"
+        "RSI 63: strong but not overheated",
+        "Volume 1.4x average on a green day",
+        "Up 2.3% yesterday"
       ],
       "headlines": [
-        "Tata Consultancy Services (NSEI:TCS) Stock Forecast & Analyst Predictions - Simply Wall St",
+        "TCS Share Price - Upstox",
         "Tata Consultancy Services (TCS) Share Price Today (NSE), Market News - TechGraph",
-        "TCS stock falls after MHP acquisition: Brokerages bearish; Citi, HSBC flag integration risks, falling... - Moneycontrol.com"
+        "Tata Consultancy Services (NSEI:TCS) Stock Forecast & Analyst Predictions - Simply Wall St"
       ],
       "news_flag": false
     },
     {
-      "symbol": "ITC",
-      "price": 301.0,
-      "atr": 6.577668720663697,
-      "chg": 0.6352369968948723,
-      "rsi": 73.01385623473745,
-      "vol_ratio": 1.201519764229916,
-      "buy": 4,
-      "sell": 0,
+      "symbol": "AXISBANK",
+      "price": 1418.0999755859375,
+      "atr": 35.75629743038313,
+      "chg": 2.1244419212633314,
+      "rsi": 67.18451839919493,
+      "vol_ratio": 1.2957373379021184,
+      "buy": 5,
+      "sell": 1,
       "why_buy": [
         "Uptrend: price above 20 and 50 day averages",
-        "Volume 1.2x average on a green day",
-        "Up 0.6% yesterday"
+        "RSI 67: strong but not overheated",
+        "Volume 1.3x average on a green day",
+        "Up 2.1% yesterday"
       ],
-      "why_sell": [],
-      "entry": 301.0,
-      "stop": 294.42,
-      "target": 310.87,
-      "qty": 110,
-      "invest": 33110,
-      "max_loss": 724,
-      "profit": 1085,
+      "why_sell": [
+        "Closed near the day's low"
+      ],
+      "entry": 1418.1,
+      "stop": 1382.34,
+      "target": 1471.73,
+      "qty": 23,
+      "invest": 32616,
+      "max_loss": 822,
+      "profit": 1234,
       "side": "BUY",
-      "score": 4,
+      "score": 5,
       "reasons": [
         "Uptrend: price above 20 and 50 day averages",
-        "Volume 1.2x average on a green day",
-        "Up 0.6% yesterday"
+        "RSI 67: strong but not overheated",
+        "Volume 1.3x average on a green day",
+        "Up 2.1% yesterday"
       ],
       "headlines": [
-        "ITC sees 2.9% of equity change hands in single large trade; stock slumps 3% - Business Standard",
-        "ITC Share Price Rises 3% On Q2FY27 Profit Hopes; Softer Tobacco Prices Support Margin Outlook - Kotak Neo",
-        "ITC (ITC) Share Price Today (NSE), Market News - TechGraph"
+        "SBI FUNDS MANAGEMENT LTD Share Price - Upstox",
+        "Why Axis Bank Share Price Fell Over 5% Despite Strong Q1 FY27 Results? Key Reasons Explained - India Infoline",
+        "Weekly Recap: Axis Bank Q1 earnings and AT1 notes listing approval - TradingView"
       ],
       "news_flag": true
     },
     {
-      "symbol": "EICHERMOT",
-      "price": 8172.5,
-      "atr": 208.42668028617945,
-      "chg": 0.7333908541846457,
-      "rsi": 71.22491430895965,
-      "vol_ratio": 1.2802606766971498,
-      "buy": 4,
+      "symbol": "SUNPHARMA",
+      "price": 1901.0,
+      "atr": 41.93110896660245,
+      "chg": 2.204301075268811,
+      "rsi": 62.96391051526485,
+      "vol_ratio": 0.986508910924115,
+      "buy": 5,
       "sell": 0,
       "why_buy": [
         "Uptrend: price above 20 and 50 day averages",
-        "Volume 1.3x average on a green day",
-        "Up 0.7% yesterday"
+        "RSI 63: strong but not overheated",
+        "Up 2.2% yesterday",
+        "Closed near the day's high"
       ],
       "why_sell": [],
-      "entry": 8172.5,
-      "stop": 7964.07,
-      "target": 8485.14,
-      "qty": 4,
-      "invest": 32690,
-      "max_loss": 834,
-      "profit": 1251,
+      "entry": 1901.0,
+      "stop": 1859.07,
+      "target": 1963.9,
+      "qty": 17,
+      "invest": 32317,
+      "max_loss": 713,
+      "profit": 1069,
       "side": "BUY",
-      "score": 4,
+      "score": 5,
       "reasons": [
         "Uptrend: price above 20 and 50 day averages",
-        "Volume 1.3x average on a green day",
-        "Up 0.7% yesterday"
+        "RSI 63: strong but not overheated",
+        "Up 2.2% yesterday",
+        "Closed near the day's high"
       ],
       "headlines": [
-        "Eicher Motors (NSEI:EICHERMOT) Stock Forecast & Analyst Predictions - Simply Wall St",
-        "Eicher Motors Limited Estimates \u2013 NSE:EICHERMOT - TradingView",
-        "Eicher Motors (NSE: EICHERMOT) Up 0.26% at \u20b97,357.5: EMA 51, RSI and Q1 Numbers - Kalkine India"
+        "Sun Pharma (NSE:SUNPHARMA) Announces Special Window for Physical Share Transfers: What Investors Need to Know - Kalkine Media",
+        "Sun Pharmaceutical Industries Limited (NSE:SUNPHARMA) Second-Quarter Results Just Came Out: Here's What Analysts Are Forecasting For This Year - Simply Wall St",
+        "Sun Pharma gets NSE, BSE nod to reclassify Valia family as public shareholders - scanx.trade"
       ],
       "news_flag": false
     }
@@ -169,79 +175,75 @@
   "sells": [
     {
       "symbol": "HINDALCO",
-      "price": 900.4500122070312,
-      "atr": 27.123701145380632,
-      "chg": -3.1253348889692,
-      "rsi": 43.146982849164544,
-      "vol_ratio": 1.6421647680251352,
-      "buy": 0,
-      "sell": 6,
-      "why_buy": [],
-      "why_sell": [
-        "Downtrend: price below 20 and 50 day averages",
-        "RSI 43: weak momentum",
-        "Volume 1.6x average on a red day",
-        "Down 3.1% yesterday",
-        "Closed near the day's low"
-      ],
-      "entry": 900.45,
-      "stop": 927.57,
-      "target": 859.76,
-      "qty": 36,
-      "invest": 32416,
-      "max_loss": 976,
-      "profit": 1465,
-      "side": "SELL",
-      "score": 6,
-      "reasons": [
-        "Downtrend: price below 20 and 50 day averages",
-        "RSI 43: weak momentum",
-        "Volume 1.6x average on a red day",
-        "Down 3.1% yesterday",
-        "Closed near the day's low"
-      ],
-      "headlines": [
-        "Does Hindalco Industries (NSE:HINDALCO) Deserve A Spot On Your Watchlist? - Simply Wall St",
-        "Hindalco Industries (HINDALCO) Share Price Today (NSE), Market News - TechGraph",
-        "Hindalco Industries' shares jump 2% post update on aluminium extrusions business; here is what the company said - Upstox"
-      ],
-      "news_flag": false
-    },
-    {
-      "symbol": "COALINDIA",
-      "price": 382.0,
-      "atr": 8.24344762834363,
-      "chg": -2.051282051282055,
-      "rsi": 38.15409116327442,
-      "vol_ratio": 0.8310937910612293,
+      "price": 889.9000244140625,
+      "atr": 26.700580506927107,
+      "chg": -1.171635032477858,
+      "rsi": 40.71862358857155,
+      "vol_ratio": 1.338725199461081,
       "buy": 0,
       "sell": 5,
       "why_buy": [],
       "why_sell": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 38: weak momentum",
-        "Down 2.1% yesterday",
-        "Closed near the day's low"
+        "RSI 41: weak momentum",
+        "Volume 1.3x average on a red day",
+        "Down 1.2% yesterday"
       ],
-      "entry": 382.0,
-      "stop": 390.24,
-      "target": 369.63,
-      "qty": 87,
-      "invest": 33234,
-      "max_loss": 717,
-      "profit": 1076,
+      "entry": 889.9,
+      "stop": 916.6,
+      "target": 849.85,
+      "qty": 37,
+      "invest": 32926,
+      "max_loss": 988,
+      "profit": 1482,
       "side": "SELL",
       "score": 5,
       "reasons": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 38: weak momentum",
-        "Down 2.1% yesterday",
-        "Closed near the day's low"
+        "RSI 41: weak momentum",
+        "Volume 1.3x average on a red day",
+        "Down 1.2% yesterday"
       ],
       "headlines": [
-        "Coal India falls 3% post Q2 results but brokerages upbeat on PSU stock - Business Standard",
-        "Coal India to sell 10% stake in unit Mahanadi Coalfields' IPO - Reuters",
-        "Coal India Share Price Today Live NSE/BSE Graph & Chart - Kotak Neo"
+        "Hindalco Industries Limited (HINDALCO.NS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+        "Does Hindalco Industries (NSE:HINDALCO) Deserve A Spot On Your Watchlist? - Simply Wall St",
+        "Hindalco shares fall 1% after Novelis announces $265-million sale of China units - Moneycontrol.com"
+      ],
+      "news_flag": false
+    },
+    {
+      "symbol": "TATASTEEL",
+      "price": 159.3000030517578,
+      "atr": 5.918518595879284,
+      "chg": -2.2699367780626867,
+      "rsi": 29.479316578107955,
+      "vol_ratio": 3.643914822354022,
+      "buy": 0,
+      "sell": 4,
+      "why_buy": [],
+      "why_sell": [
+        "Downtrend: price below 20 and 50 day averages",
+        "Volume 3.6x average on a red day",
+        "Down 2.3% yesterday"
+      ],
+      "entry": 159.3,
+      "stop": 165.22,
+      "target": 150.42,
+      "qty": 168,
+      "invest": 26762,
+      "max_loss": 994,
+      "profit": 1491,
+      "side": "SELL",
+      "score": 4,
+      "reasons": [
+        "Downtrend: price below 20 and 50 day averages",
+        "Volume 3.6x average on a red day",
+        "Down 2.3% yesterday"
+      ],
+      "headlines": [
+        "APL Apollo Tubes shares crash 22%, Tata Steel falls 8.5% as Rs 5,825-crore block deal follows acquisition... - Moneycontrol.com",
+        "Tata Steel (NSE:TATASTEEL) Approves Acquisition of 26.38% Stake in APL Apollo Tubes for Rs 15,511 Crore - Kalkine Media",
+        "Block Deals: Tata Steel acquires 9.99% stake in APL Apollo Tubes from promoter entity in first tranche - Moneycontrol.com"
       ],
       "news_flag": false
     }
