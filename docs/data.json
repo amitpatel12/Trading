@@ -1,249 +1,211 @@
 {
-  "date": "Wednesday, 25 November 2026",
-  "updated": "17:50 IST",
-  "mood": "negative",
+  "date": "Thursday, 26 November 2026",
+  "updated": "17:33 IST",
+  "mood": "mixed",
   "cues": [
     {
       "name": "Nifty 50",
-      "value": 25819.25,
-      "chg": 1.85
+      "value": 25884.5,
+      "chg": 0.25
     },
     {
       "name": "Sensex",
-      "value": 83938.28,
-      "chg": 1.82
+      "value": 84328.59,
+      "chg": 0.46
     },
     {
       "name": "India VIX",
-      "value": 17.7,
-      "chg": -0.01
+      "value": 16.83,
+      "chg": -4.73
     },
     {
       "name": "S&P 500",
-      "value": 7201.09,
-      "chg": -0.5
+      "value": 7182.78,
+      "chg": -0.25
     },
     {
       "name": "Nasdaq",
-      "value": 23733.54,
-      "chg": -1.48
+      "value": 23585.8,
+      "chg": -0.62
     },
     {
       "name": "Nikkei",
-      "value": 57011.62,
-      "chg": -2.78
+      "value": 57499.16,
+      "chg": 0.86
     },
     {
       "name": "Crude (WTI)",
-      "value": 82.13,
-      "chg": 0.1
+      "value": 84.5,
+      "chg": 0.98
     },
     {
       "name": "USD/INR",
-      "value": 92.22,
-      "chg": -0.75
+      "value": 92.54,
+      "chg": -0.29
     }
   ],
-  "warnings": [
-    "Global markets are weak. Buy picks need a higher score today."
-  ],
+  "warnings": [],
   "demo": false,
   "market_news": [
-    "Stock market today: Sensex holds over 1,000 point gains after 2,000 point surge, Nifty50 crosses 25,900 - - The Times of India",
-    "GIFT Nifty jumps 280 pts today, signals strong start for Sensex, Nifty despite Asian markets rout; FIIs... - Moneycontrol.com",
-    "Why is the Stock Market Up Today? BSE Sensex Soars Over 1400 Points; Nifty 50 Nears 25,800 - Kotak Neo",
-    "Sensex Jumps 1,502 Points; Nifty Surges 470 on FII Buying - HDFC Sky"
+    "Stock market today: Sensex jumps over 2000 points; Nifty50 tops 25,900! Investors richer by Rs 3.84 lakh - The Times of India",
+    "Stock Market Today: Gift Nifty, Trump Tariffs To Gold Rates; Five Key Factors That May Drive Sensex, Nifty 50 On Nov 26 - NDTV Profit",
+    "Stock Market Update 26 November 2026: Sensex Drops Over 150 Points; Nifty 50 Below 25,750 in Early Trade - Kotak Neo",
+    "Stock Market Today: Nifty gains 1.85%, Sensex up 1,502 points - Multibagg AI"
   ],
   "buys": [
     {
-      "symbol": "TCS",
-      "price": 2517.300048828125,
-      "atr": 70.28797432324544,
-      "chg": 2.3292702775660645,
-      "rsi": 62.538527794719805,
-      "vol_ratio": 1.4110849323875583,
-      "buy": 5,
+      "symbol": "WIPRO",
+      "price": 196.5399932861328,
+      "atr": 5.220564697718951,
+      "chg": 3.9619096077583293,
+      "rsi": 61.687389781249024,
+      "vol_ratio": 1.7784005219709014,
+      "buy": 6,
       "sell": 0,
       "why_buy": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 63: strong but not overheated",
-        "Volume 1.4x average on a green day",
-        "Up 2.3% yesterday"
+        "RSI 62: strong but not overheated",
+        "Volume 1.8x average on a green day",
+        "Up 4.0% yesterday",
+        "Closed near the day's high"
       ],
       "why_sell": [],
-      "entry": 2517.3,
-      "stop": 2447.01,
-      "target": 2622.73,
-      "qty": 13,
-      "invest": 32725,
-      "max_loss": 914,
-      "profit": 1371,
+      "entry": 196.54,
+      "stop": 191.32,
+      "target": 204.37,
+      "qty": 169,
+      "invest": 33215,
+      "max_loss": 882,
+      "profit": 1323,
       "side": "BUY",
-      "score": 5,
+      "score": 6,
       "reasons": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 63: strong but not overheated",
-        "Volume 1.4x average on a green day",
-        "Up 2.3% yesterday"
+        "RSI 62: strong but not overheated",
+        "Volume 1.8x average on a green day",
+        "Up 4.0% yesterday",
+        "Closed near the day's high"
       ],
       "headlines": [
-        "TCS Share Price - Upstox",
-        "Tata Consultancy Services (TCS) Share Price Today (NSE), Market News - TechGraph",
-        "Tata Consultancy Services (NSEI:TCS) Stock Forecast & Analyst Predictions - Simply Wall St"
+        "Stock market holidays in November 2026: NSE, BSE to remain closed on THESE days; check Muhurat trading schedule - Upstox",
+        "Wipro (WIPRO) Share Price Today (NSE), Market News - TechGraph",
+        "Wipro Share Price Climbs Despite 17% Overnight ADR Drop - Univest"
       ],
       "news_flag": false
     },
     {
-      "symbol": "AXISBANK",
-      "price": 1418.0999755859375,
-      "atr": 35.75629743038313,
-      "chg": 2.1244419212633314,
-      "rsi": 67.18451839919493,
-      "vol_ratio": 1.2957373379021184,
-      "buy": 5,
-      "sell": 1,
-      "why_buy": [
-        "Uptrend: price above 20 and 50 day averages",
-        "RSI 67: strong but not overheated",
-        "Volume 1.3x average on a green day",
-        "Up 2.1% yesterday"
-      ],
-      "why_sell": [
-        "Closed near the day's low"
-      ],
-      "entry": 1418.1,
-      "stop": 1382.34,
-      "target": 1471.73,
-      "qty": 23,
-      "invest": 32616,
-      "max_loss": 822,
-      "profit": 1234,
-      "side": "BUY",
-      "score": 5,
-      "reasons": [
-        "Uptrend: price above 20 and 50 day averages",
-        "RSI 67: strong but not overheated",
-        "Volume 1.3x average on a green day",
-        "Up 2.1% yesterday"
-      ],
-      "headlines": [
-        "SBI FUNDS MANAGEMENT LTD Share Price - Upstox",
-        "Why Axis Bank Share Price Fell Over 5% Despite Strong Q1 FY27 Results? Key Reasons Explained - India Infoline",
-        "Weekly Recap: Axis Bank Q1 earnings and AT1 notes listing approval - TradingView"
-      ],
-      "news_flag": true
-    },
-    {
-      "symbol": "SUNPHARMA",
-      "price": 1901.0,
-      "atr": 41.93110896660245,
-      "chg": 2.204301075268811,
-      "rsi": 62.96391051526485,
-      "vol_ratio": 0.986508910924115,
+      "symbol": "INFY",
+      "price": 1183.0,
+      "atr": 36.418884255763736,
+      "chg": 4.690265486725664,
+      "rsi": 62.70342308298296,
+      "vol_ratio": 1.5143964451799241,
       "buy": 5,
       "sell": 0,
       "why_buy": [
         "Uptrend: price above 20 and 50 day averages",
         "RSI 63: strong but not overheated",
-        "Up 2.2% yesterday",
+        "Volume 1.5x average on a green day",
         "Closed near the day's high"
       ],
       "why_sell": [],
-      "entry": 1901.0,
-      "stop": 1859.07,
-      "target": 1963.9,
-      "qty": 17,
-      "invest": 32317,
-      "max_loss": 713,
-      "profit": 1069,
+      "entry": 1183.0,
+      "stop": 1146.58,
+      "target": 1237.63,
+      "qty": 27,
+      "invest": 31941,
+      "max_loss": 983,
+      "profit": 1475,
       "side": "BUY",
       "score": 5,
       "reasons": [
         "Uptrend: price above 20 and 50 day averages",
         "RSI 63: strong but not overheated",
-        "Up 2.2% yesterday",
+        "Volume 1.5x average on a green day",
         "Closed near the day's high"
       ],
       "headlines": [
-        "Sun Pharma (NSE:SUNPHARMA) Announces Special Window for Physical Share Transfers: What Investors Need to Know - Kalkine Media",
-        "Sun Pharmaceutical Industries Limited (NSE:SUNPHARMA) Second-Quarter Results Just Came Out: Here's What Analysts Are Forecasting For This Year - Simply Wall St",
-        "Sun Pharma gets NSE, BSE nod to reclassify Valia family as public shareholders - scanx.trade"
+        "Infosys Share Price - Live NSE: INFY Stock Price & Chart - Upstox",
+        "Infosys (INFY) Share Price Today (NSE), Market News - TechGraph",
+        "INFY Share Price Today - Infosys Ltd. Stock Price Live NSE/BSE - Univest"
+      ],
+      "news_flag": false
+    },
+    {
+      "symbol": "HCLTECH",
+      "price": 1468.5999755859375,
+      "atr": 40.52069633032394,
+      "chg": 6.420288085937509,
+      "rsi": 67.41224703991051,
+      "vol_ratio": 1.645231728840246,
+      "buy": 5,
+      "sell": 0,
+      "why_buy": [
+        "Uptrend: price above 20 and 50 day averages",
+        "RSI 67: strong but not overheated",
+        "Volume 1.6x average on a green day",
+        "Closed near the day's high"
+      ],
+      "why_sell": [],
+      "entry": 1468.6,
+      "stop": 1428.08,
+      "target": 1529.38,
+      "qty": 22,
+      "invest": 32309,
+      "max_loss": 891,
+      "profit": 1337,
+      "side": "BUY",
+      "score": 5,
+      "reasons": [
+        "Uptrend: price above 20 and 50 day averages",
+        "RSI 67: strong but not overheated",
+        "Volume 1.6x average on a green day",
+        "Closed near the day's high"
+      ],
+      "headlines": [
+        "HCL Tech Share Price Today, HCL Tech Stock Price Live NSE/BSE Updates - The Economic Times",
+        "HCL Technologies Share Price - Live NSE: HCLTECH Stock Price & Chart - Upstox",
+        "HCLTECH Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView"
       ],
       "news_flag": false
     }
   ],
   "sells": [
     {
-      "symbol": "HINDALCO",
-      "price": 889.9000244140625,
-      "atr": 26.700580506927107,
-      "chg": -1.171635032477858,
-      "rsi": 40.71862358857155,
-      "vol_ratio": 1.338725199461081,
+      "symbol": "ADANIENT",
+      "price": 2660.0,
+      "atr": 75.472153138044,
+      "chg": -0.3185310099306782,
+      "rsi": 46.74593025359631,
+      "vol_ratio": 1.30189091399717,
       "buy": 0,
       "sell": 5,
       "why_buy": [],
       "why_sell": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 41: weak momentum",
+        "RSI 47: weak momentum",
         "Volume 1.3x average on a red day",
-        "Down 1.2% yesterday"
+        "Closed near the day's low"
       ],
-      "entry": 889.9,
-      "stop": 916.6,
-      "target": 849.85,
-      "qty": 37,
-      "invest": 32926,
-      "max_loss": 988,
-      "profit": 1482,
+      "entry": 2660.0,
+      "stop": 2735.47,
+      "target": 2546.79,
+      "qty": 12,
+      "invest": 31920,
+      "max_loss": 906,
+      "profit": 1358,
       "side": "SELL",
       "score": 5,
       "reasons": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 41: weak momentum",
+        "RSI 47: weak momentum",
         "Volume 1.3x average on a red day",
-        "Down 1.2% yesterday"
+        "Closed near the day's low"
       ],
       "headlines": [
-        "Hindalco Industries Limited (HINDALCO.NS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-        "Does Hindalco Industries (NSE:HINDALCO) Deserve A Spot On Your Watchlist? - Simply Wall St",
-        "Hindalco shares fall 1% after Novelis announces $265-million sale of China units - Moneycontrol.com"
-      ],
-      "news_flag": false
-    },
-    {
-      "symbol": "TATASTEEL",
-      "price": 159.3000030517578,
-      "atr": 5.918518595879284,
-      "chg": -2.2699367780626867,
-      "rsi": 29.479316578107955,
-      "vol_ratio": 3.643914822354022,
-      "buy": 0,
-      "sell": 4,
-      "why_buy": [],
-      "why_sell": [
-        "Downtrend: price below 20 and 50 day averages",
-        "Volume 3.6x average on a red day",
-        "Down 2.3% yesterday"
-      ],
-      "entry": 159.3,
-      "stop": 165.22,
-      "target": 150.42,
-      "qty": 168,
-      "invest": 26762,
-      "max_loss": 994,
-      "profit": 1491,
-      "side": "SELL",
-      "score": 4,
-      "reasons": [
-        "Downtrend: price below 20 and 50 day averages",
-        "Volume 3.6x average on a red day",
-        "Down 2.3% yesterday"
-      ],
-      "headlines": [
-        "APL Apollo Tubes shares crash 22%, Tata Steel falls 8.5% as Rs 5,825-crore block deal follows acquisition... - Moneycontrol.com",
-        "Tata Steel (NSE:TATASTEEL) Approves Acquisition of 26.38% Stake in APL Apollo Tubes for Rs 15,511 Crore - Kalkine Media",
-        "Block Deals: Tata Steel acquires 9.99% stake in APL Apollo Tubes from promoter entity in first tranche - Moneycontrol.com"
+        "Weekly Recap: NSE:ADANIENT share fall and \u20b92 lakh crore plan - TradingView",
+        "Adani Group stocks decline: Adani Enterprises down nearly 10%, Adani Ports slips over 6%; key developments - Upstox",
+        "ADANIENT Option Chain: Live NSE Option Chain Data, OI & Price - Kotak Neo"
       ],
       "news_flag": false
     }
