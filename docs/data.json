@@ -1,22 +1,22 @@
 {
-  "date": "Thursday, 26 November 2026",
-  "updated": "17:33 IST",
-  "mood": "mixed",
+  "date": "Friday, 27 November 2026",
+  "updated": "17:23 IST",
+  "mood": "positive",
   "cues": [
     {
       "name": "Nifty 50",
-      "value": 25884.5,
-      "chg": 0.25
+      "value": 25607.2,
+      "chg": -1.07
     },
     {
       "name": "Sensex",
-      "value": 84328.59,
-      "chg": 0.46
+      "value": 83339.26,
+      "chg": -1.17
     },
     {
       "name": "India VIX",
-      "value": 16.83,
-      "chg": -4.73
+      "value": 16.55,
+      "chg": -1.75
     },
     {
       "name": "S&P 500",
@@ -30,142 +30,144 @@
     },
     {
       "name": "Nikkei",
-      "value": 57499.16,
-      "chg": 0.86
+      "value": 58711.11,
+      "chg": 2.11
     },
     {
       "name": "Crude (WTI)",
-      "value": 84.5,
-      "chg": 0.98
+      "value": 85.26,
+      "chg": 1.89
     },
     {
       "name": "USD/INR",
-      "value": 92.54,
-      "chg": -0.29
+      "value": 92.98,
+      "chg": 0.8
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "Global markets are strong. Short picks need a higher score today."
+  ],
   "demo": false,
   "market_news": [
-    "Stock market today: Sensex jumps over 2000 points; Nifty50 tops 25,900! Investors richer by Rs 3.84 lakh - The Times of India",
-    "Stock Market Today: Gift Nifty, Trump Tariffs To Gold Rates; Five Key Factors That May Drive Sensex, Nifty 50 On Nov 26 - NDTV Profit",
-    "Stock Market Update 26 November 2026: Sensex Drops Over 150 Points; Nifty 50 Below 25,750 in Early Trade - Kotak Neo",
-    "Stock Market Today: Nifty gains 1.85%, Sensex up 1,502 points - Multibagg AI"
+    "Stock Market Highlights, Sensex Today: Sensex Closes 990 Points Lower Amid Mixed Global Cues - NDTV",
+    "Stock Market Today Highlights: Sensex ends over 350 points; Nifty tops 25,850 despite tariff concerns - The Times of India",
+    "Sensex Soars Close to 400 Pts, Nifty Nears 26,600: 3 Reasons Why the Stock Market Is Up Today - Kotak Neo",
+    "Sensex, Nifty Trade Lower as IT Drags; Metals Outperform - HDFC Sky"
   ],
   "buys": [
     {
-      "symbol": "WIPRO",
-      "price": 196.5399932861328,
-      "atr": 5.220564697718951,
-      "chg": 3.9619096077583293,
-      "rsi": 61.687389781249024,
-      "vol_ratio": 1.7784005219709014,
+      "symbol": "BEL",
+      "price": 411.45001220703125,
+      "atr": 8.310142805179979,
+      "chg": 1.7181735987716218,
+      "rsi": 64.85076588905737,
+      "vol_ratio": 1.4549842980560377,
       "buy": 6,
       "sell": 0,
       "why_buy": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 62: strong but not overheated",
-        "Volume 1.8x average on a green day",
-        "Up 4.0% yesterday",
+        "RSI 65: strong but not overheated",
+        "Volume 1.5x average on a green day",
+        "Up 1.7% yesterday",
         "Closed near the day's high"
       ],
       "why_sell": [],
-      "entry": 196.54,
-      "stop": 191.32,
-      "target": 204.37,
-      "qty": 169,
-      "invest": 33215,
-      "max_loss": 882,
-      "profit": 1323,
+      "entry": 411.45,
+      "stop": 403.14,
+      "target": 423.92,
+      "qty": 81,
+      "invest": 33327,
+      "max_loss": 673,
+      "profit": 1010,
       "side": "BUY",
       "score": 6,
       "reasons": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 62: strong but not overheated",
-        "Volume 1.8x average on a green day",
-        "Up 4.0% yesterday",
+        "RSI 65: strong but not overheated",
+        "Volume 1.5x average on a green day",
+        "Up 1.7% yesterday",
         "Closed near the day's high"
       ],
       "headlines": [
-        "Stock market holidays in November 2026: NSE, BSE to remain closed on THESE days; check Muhurat trading schedule - Upstox",
-        "Wipro (WIPRO) Share Price Today (NSE), Market News - TechGraph",
-        "Wipro Share Price Climbs Despite 17% Overnight ADR Drop - Univest"
+        "Bharat Electronics (BEL) Share Price Today (NSE), Market News - TechGraph",
+        "Defence shares extend decline for 2nd session; BEL, MTAR drag index as HAL bucks trend; check gainers and... - Moneycontrol.com",
+        "Does Bharat Electronics (NSE:BEL) Deserve A Spot On Your Watchlist? - Simply Wall St"
       ],
       "news_flag": false
     },
     {
-      "symbol": "INFY",
-      "price": 1183.0,
-      "atr": 36.418884255763736,
-      "chg": 4.690265486725664,
-      "rsi": 62.70342308298296,
-      "vol_ratio": 1.5143964451799241,
+      "symbol": "ONGC",
+      "price": 224.30999755859375,
+      "atr": 3.6717968063983717,
+      "chg": 0.6415975612227509,
+      "rsi": 52.89720411281062,
+      "vol_ratio": 0.6253206890163705,
       "buy": 5,
       "sell": 0,
       "why_buy": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 63: strong but not overheated",
-        "Volume 1.5x average on a green day",
+        "RSI 53: strong but not overheated",
+        "Up 0.6% yesterday",
         "Closed near the day's high"
       ],
       "why_sell": [],
-      "entry": 1183.0,
-      "stop": 1146.58,
-      "target": 1237.63,
-      "qty": 27,
-      "invest": 31941,
-      "max_loss": 983,
-      "profit": 1475,
+      "entry": 224.31,
+      "stop": 220.64,
+      "target": 229.82,
+      "qty": 148,
+      "invest": 33198,
+      "max_loss": 543,
+      "profit": 815,
       "side": "BUY",
       "score": 5,
       "reasons": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 63: strong but not overheated",
-        "Volume 1.5x average on a green day",
+        "RSI 53: strong but not overheated",
+        "Up 0.6% yesterday",
         "Closed near the day's high"
       ],
       "headlines": [
-        "Infosys Share Price - Live NSE: INFY Stock Price & Chart - Upstox",
-        "Infosys (INFY) Share Price Today (NSE), Market News - TechGraph",
-        "INFY Share Price Today - Infosys Ltd. Stock Price Live NSE/BSE - Univest"
+        "Oil and Natural Gas (NSEI:ONGC) Stock Forecast & Analyst Predictions - Simply Wall St",
+        "ONGC Share Price, Oil India Fall Up to 2% - Univest",
+        "Oil and Natural Gas (ONGC) Share Price Today (NSE), Market News - TechGraph"
       ],
       "news_flag": false
     },
     {
-      "symbol": "HCLTECH",
-      "price": 1468.5999755859375,
-      "atr": 40.52069633032394,
-      "chg": 6.420288085937509,
-      "rsi": 67.41224703991051,
-      "vol_ratio": 1.645231728840246,
+      "symbol": "SBILIFE",
+      "price": 1856.0,
+      "atr": 42.16323432372695,
+      "chg": 0.7436330027016824,
+      "rsi": 65.51938385044369,
+      "vol_ratio": 0.8468970077698793,
       "buy": 5,
       "sell": 0,
       "why_buy": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 67: strong but not overheated",
-        "Volume 1.6x average on a green day",
+        "RSI 66: strong but not overheated",
+        "Up 0.7% yesterday",
         "Closed near the day's high"
       ],
       "why_sell": [],
-      "entry": 1468.6,
-      "stop": 1428.08,
-      "target": 1529.38,
-      "qty": 22,
-      "invest": 32309,
-      "max_loss": 891,
-      "profit": 1337,
+      "entry": 1856.0,
+      "stop": 1813.84,
+      "target": 1919.24,
+      "qty": 17,
+      "invest": 31552,
+      "max_loss": 717,
+      "profit": 1075,
       "side": "BUY",
       "score": 5,
       "reasons": [
         "Uptrend: price above 20 and 50 day averages",
-        "RSI 67: strong but not overheated",
-        "Volume 1.6x average on a green day",
+        "RSI 66: strong but not overheated",
+        "Up 0.7% yesterday",
         "Closed near the day's high"
       ],
       "headlines": [
-        "HCL Tech Share Price Today, HCL Tech Stock Price Live NSE/BSE Updates - The Economic Times",
-        "HCL Technologies Share Price - Live NSE: HCLTECH Stock Price & Chart - Upstox",
-        "HCLTECH Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView"
+        "SBI Life Insurance Share Price - Live NSE: SBILIFE Stock Price & Chart - Upstox",
+        "SBILIFE Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
+        "SBI Life Insurance Company Ltd. Share Price, Stock Price - NSE/BSE Live - NDTV Profit"
       ],
       "news_flag": false
     }
@@ -173,39 +175,41 @@
   "sells": [
     {
       "symbol": "ADANIENT",
-      "price": 2660.0,
-      "atr": 75.472153138044,
-      "chg": -0.3185310099306782,
-      "rsi": 46.74593025359631,
-      "vol_ratio": 1.30189091399717,
+      "price": 2640.39990234375,
+      "atr": 75.13219144834473,
+      "chg": -0.7368457765507541,
+      "rsi": 44.88670731723151,
+      "vol_ratio": 1.2293604349844378,
       "buy": 0,
-      "sell": 5,
+      "sell": 6,
       "why_buy": [],
       "why_sell": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 47: weak momentum",
-        "Volume 1.3x average on a red day",
+        "RSI 45: weak momentum",
+        "Volume 1.2x average on a red day",
+        "Down 0.7% yesterday",
         "Closed near the day's low"
       ],
-      "entry": 2660.0,
-      "stop": 2735.47,
-      "target": 2546.79,
+      "entry": 2640.4,
+      "stop": 2715.53,
+      "target": 2527.7,
       "qty": 12,
-      "invest": 31920,
-      "max_loss": 906,
-      "profit": 1358,
+      "invest": 31685,
+      "max_loss": 902,
+      "profit": 1352,
       "side": "SELL",
-      "score": 5,
+      "score": 6,
       "reasons": [
         "Downtrend: price below 20 and 50 day averages",
-        "RSI 47: weak momentum",
-        "Volume 1.3x average on a red day",
+        "RSI 45: weak momentum",
+        "Volume 1.2x average on a red day",
+        "Down 0.7% yesterday",
         "Closed near the day's low"
       ],
       "headlines": [
+        "Adani Enterprises Limited (ADANIENT.NS) stock price, news, quote and history - Yahoo Finance Singapore",
         "Weekly Recap: NSE:ADANIENT share fall and \u20b92 lakh crore plan - TradingView",
-        "Adani Group stocks decline: Adani Enterprises down nearly 10%, Adani Ports slips over 6%; key developments - Upstox",
-        "ADANIENT Option Chain: Live NSE Option Chain Data, OI & Price - Kotak Neo"
+        "Adani Enterprises (NSE:ADANIENT) Forms Nashik Phata Road Subsidiary - Kalkine India"
       ],
       "news_flag": false
     }
